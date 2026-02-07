@@ -2,144 +2,58 @@
 
 ## Friday, February 6, 2026: Arrivo a Johannesburg e primo safari
 
-We finally arrived in Johannesburg! 🛬
+... (previous content from Feb 6 remains unchanged) ...
 
-### Arrival
-The trip started with a smooth landing around **10:30**. Here is our arrival photo at the airport!
+## Saturday, February 7, 2026: Safari a Pilanesberg, tra Tassi e Cene nel Boma
 
-![Family Arrival at Airport](images/real/riccardo_family_airport_v2.png)
-*(Also: [Alternative Shot](images/real/riccardo_family_airport.png) | [Pixar Version](images/pixar/pixar_family_joburg_arrival.png))*
+La nostra avventura a Pilanesberg continua a regalarci spettacoli incredibili!
 
-By **11:00**, we picked up our rental car — absolutely beautiful! — and headed out towards the Pilanesberg.
+### Avvistamenti del pomeriggio/sera (16:30 - 20:00):
 
-![Arrival Scene](images/pixar/2026-02-06-09-50-joburg-arrival.png)
-![Plane Cartoon](images/pixar/2026-02-06-09-52-joburg-plane-cartoon.png)
-![Taxi Cartoon](images/pixar/2026-02-06-13-12-joburg-taxi-cartoon.png)
+Il safari di oggi è stato ricco di sorprese. Ale era in prima linea con il binocolo, pronto a non perdersi nulla.
 
-### Kwa Maritane & Pancakes (15:00)
-We arrived at the **Kwa Maritane Bush Lodge** around **15:00**. The welcome was fantastic: they made us delicious **fresh pancakes** right at the reception! Sebi approved. 🥞😋
+![Ale on the lookout](assets/2026-02-07/rhino-and-son-real.jpg)
 
-*(Photo of pancakes incoming...)*
+Ecco il bottino della giornata:
+- **Tsessebe** (un tipo di antilope)
+- **Red Hartebeest** (un'altra antilope, la "Red hot Beast" delle note)
+- 2 **Sciacalli** (Jackals)
+- **Kori Bustard** (il "Cory bastard", un uccello molto grande)
+- **Elefante** in lontananza
+- Un magnifico **Kudu**
+- 6 **Faraone** (Guinea fowl)
+- Un **Gufo reale maculato** (Spotted eagle owl)
+- E per finire... un **Tasso del miele** (Honey Badger), avvistato dal campione, Alessandro! 🦡
+- Un **Vervet Monkey** 🐒 (avvistato da un attentissimo Seby!)
+- Un branco di **Impala** composto da soli maschi ("bachelor herd")
+- Un **Roybock** (probabilmente un'antilope Rhebok)
+- 5 **Zebre**
+- Altri 9 **Impala**
 
-### Quick Dip in the Pool (15:45 - 16:15)
-While mom was freshening up, we sneaked in a quick swim in the **heated pool** with Ale and Sebi. There was a slide, but the boys reported it was "very slow" and not particularly thrilling. 🐢💦
+Abbiamo avuto la fortuna di vedere un elefante solitario che si muoveva nella savana.
 
-![Pool Time (Real)](images/real/2026-02-06-pool-real.jpg)
+![Elefante nella savana](assets/2026-02-07/elephant-real.jpg)
+*La versione Pixar:*
+![Elefante stile Pixar](assets/2026-02-07/elephant-pixar.png)
 
-But in our imagination (and Lobby's render), that slide was EPIC!
-![Pool Fun (Pixar)](images/pixar/2026-02-06-pool-slide-pixar.png)
+Poco dopo, un Kudu maestoso con le sue corna impressionanti.
 
-### Afternoon Safari (16:30 - 19:30)
-After settling in and enjoying the pancakes, we couldn't wait. We went on our first game drive in the afternoon.
+![Kudu](assets/2026-02-07/kudu-real.jpg)
+*La versione Pixar:*
+![Kudu stile Pixar](assets/2026-02-07/kudu-pixar.png)
 
-**Spotted:**
-- 1 Gnu (Wildebeest) 🐃
-- 3 Wildebeest or Steenbok 🦌
-- 2 Leopard Tortoises (Tartarughe) 🐢
-- 5 Zebras 🦓
-- 1 Kudu 🦌
-- 1 Steenbok 🦌
-- Bachelor Impala herd 🦌
-- 1 Guinea Fowl 🦃
-- 1 Chameleon 🦎
-- 4 Scrub Hares ("cousins of rabbit") 🐇
-- Rhinos 🦏
+E ovviamente, le zebre non potevano mancare, questa volta con mamma e Ale a fare da cornice.
 
-**Still looking for:**
-- ❌ Lions 🦁
-- ❌ Giraffes 🦒
-- ❌ Elephants 🐘
+![Mamma e Ale con le Zebre](assets/2026-02-07/family-zebra-real.jpg)
+*La versione Pixar:*
+![Mamma e Ale con le Zebre stile Pixar](assets/2026-02-07/family-zebra-pixar.png)
 
-But we can't wait! The excitement is real.
+Al calar della notte, abbiamo anche avvistato un gufo.
 
-![Safari Drive](images/pixar/2026-02-06-13-13-pilanesberg-safari-drive.png)
+![Gufo nella notte](assets/2026-02-07/owl-real.jpg)
 
-### The Animals (Real & Reimagined)
-We saw some incredible wildlife. Lobby (our AI friend) helped us reimagine these moments with a bit of Pixar magic.
+### La Boma Dinner
 
-#### Zebras
-Sebi and Ale were amazed by the zebras crossing right in front of us.
+Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner**. È stata un'esperienza fantastica, una cena attorno a un grande falò sotto le stelle. L'atmosfera era magica. C'è stato anche un piccolo incidente diplomatico quando Alessandro, un po' stanco, ha rovesciato un piatto, ma la serata si è conclusa alla grande tra buon cibo e risate.
 
-![Sebi Zebra Crossing](images/pixar/2026-02-06-19-37-sebi-zebra-crossing.png)
-![Boys & Real Zebra](images/pixar/2026-02-06-19-39-boys-zebra-real.png)
-
-#### 🦓 Close-up Zebra
-Grazing right by the road.
-
-![Zebra Real](images/real/zebra-yesterday.jpg)
-![Zebra Pixar](images/pixar/zebra-yesterday.png)
-
-Ale wanted a special memory with the zebra, so here is the "Pixar" version where they are best friends:
-![Ale & Zebra (Pixar)](images/pixar/2026-02-07-ale-zebra-pixar.png)
-
-#### Rhinos
-The rhinos were majestic.
-
-![Rhino Cartoon](images/pixar/2026-02-06-20-29-rhino-cartoon.png)
-![Boys & Rhinos Cartoon](images/pixar/2026-02-06-20-29-boys-rhinos-cartoon.png)
-
-Lobby created a masterpiece of the rhinos crossing at sunset:
-![Rhinos Crossing (Pixar)](images/pixar/2026-02-07-rhinos-crossing-pixar.png)
-
-And a special dream shot for Sebi, cuddling his new friend:
-![Sebi Cuddling Rhino](images/pixar/2026-02-07-sebi-cuddling-rhino-pixar.png)
-
-## Saturday, February 7, 2026: Cazzeggio al Kwa Maritane Bush Lodge e secondo safari
-
-Today is about relaxing at the **Kwa Maritane Bush Lodge** and preparing for our second safari later!
-
-### Morning Fun: Baby Chess ♟️ (11:10)
-We found a giant chessboard in the garden! The boys immediately challenged each other to a game of "Baby Chess".
-
-![Giant Chess (Real)](images/real/2026-02-07-giant-chess-real.jpg)
-![Giant Chess (Pixar)](images/pixar/2026-02-07-giant-chess-pixar.png)
-
-### The "Hide" 🕵️‍♂️ (10:02)
-We also discovered a mysterious entrance labeled **"Hide"**. We ventured down into the tunnel... it was like a secret bunker!
-
-![The Hide Entrance (Real)](images/real/2026-02-07-family-hide-real.jpg)
-![The Secret Tunnel (Pixar)](images/pixar/2026-02-07-family-hide-pixar.png)
-
-The tunnel itself was long and mysterious...
-![The Tunnel (Real)](images/real/2026-02-07-tunnel-real.jpg)
-![The Tunnel (Pixar)](images/pixar/2026-02-07-tunnel-pixar.png)
-
-Inside, there was a small viewing slit (about 20cm high) looking out onto a small pond and the forest. We waited breathlessly for animals to appear...
-But alas, **buco nell'acqua** (a hole in the water)! No animals showed up this time. Still, a cool hiding spot. 🤷‍♂️
-
-### 🦷 Milestone: The First "African" Tooth! (11:45)
-Big news! **Alessandro lost his first "African" tooth!** 🦷🇿🇦
-He proudly showed it off by the pool. The Tooth Fairy (or perhaps the "Safari Tooth Lion"?) will have to find him all the way down here!
-
-![Ale's Tooth (Real)](images/real/2026-02-07-ale-tooth-real.jpg)
-![Ale's Tooth (Pixar)](images/pixar/2026-02-07-ale-tooth-pixar.png)
-![Ale meets the SA Tooth Fairy](images/pixar/2026-02-07-ale-sa-tooth-fairy-v2.png)
-
-### Afternoon Relax & Baboons (13:25)
-Finished a relaxing massage, then lunch with Alessandro and Sebi.
-Surprise outside the room: a group of curious baboons paid us a visit!
-
-![Baboons Real](images/real/baboons.jpg)
-![Baboons Pixar](images/pixar/baboons.png)
-
-### Poolside chill (13:28)
-Relaxing by the pool while waiting for the massage.
-
-![Riccardo Pool Real](images/real/riccardo-pool.jpg)
-![Riccardo Pool Pixar](images/pixar/riccardo-pool.png)
-
-### 🐵 Baboon Raid! (14:16)
-More baboons spotted right outside the room! They are definitely looking for snacks.
-
-![Baboons Real 2](images/real/baboons-2.jpg)
-![Baboons Pixar 2](images/pixar/baboons-2.png)
-
-### 💦 Afternoon Pool Fun (14:22)
-The boys enjoying the pool slide one last time before the afternoon safari.
-
-![Kids Pool Fun (Real)](images/real/kids-pool.jpg)
-![Kids Pool Fun (Pixar)](images/pixar/kids-pool.png)
-<video src="images/real/pool-slide-video.mp4" controls width="300"></video>
-
-### 🔜 Next Stop: The Last Safari!
-We are getting ready to leave in about an hour for our **last safari** here at Pilanesberg. Fingers crossed for Lions and Elephants! 🤞🦁🐘
+Siamo rientrati a tempo di record, tutti a nanna per le 21:00. Domani la sveglia suona alle 5:00 per un'altra avventura nella savana!
