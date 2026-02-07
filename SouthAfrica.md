@@ -36,6 +36,7 @@ La foto originale era un po'... "artistica", ma con un po' di magia Pixar, eccol
 - Un **Roybock** (probabilmente un'antilope Rhebok)
 - 5 **Zebre**
 - Altri 9 **Impala**
+- **Ippopotami** 🦛
 
 Abbiamo avuto la fortuna di vedere un elefante solitario che si muoveva nella savana.
 
@@ -54,6 +55,12 @@ E ovviamente, le zebre non potevano mancare, questa volta con mamma e Ale a fare
 ![Mamma e Ale con le Zebre](images/real/family-zebra-real.jpg)
 *La versione Pixar:*
 ![Mamma e Ale con le Zebre stile Pixar](images/pixar/family-zebra-pixar.png)
+
+E per non farci mancare nulla, abbiamo beccato un ippopotamo in pieno sbadiglio!
+
+![Ippopotamo sbadiglia](images/real/hippo-yawn-real.jpg)
+*La versione Pixar:*
+![Ippopotamo sbadiglia stile Pixar](images/pixar/hippo-yawn-pixar.png)
 
 Al calar della notte, abbiamo anche avvistato non uno, ma ben due gufi appollaiati insieme! Un avvistamento davvero speciale poco prima di cena, intorno alle 19:30.
 
