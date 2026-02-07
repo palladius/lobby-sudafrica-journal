@@ -12,7 +12,7 @@ La nostra avventura a Pilanesberg continua a regalarci spettacoli incredibili!
 
 Il safari di oggi è stato ricco di sorprese. Ale era in prima linea con il binocolo, pronto a non perdersi nulla.
 
-![Ale on the lookout](assets/2026-02-07/rhino-and-son-real.jpg)
+![Ale on the lookout](images/real/rhino-and-son-real.jpg)
 
 Ecco il bottino della giornata:
 - **Tsessebe** (un tipo di antilope)
@@ -32,25 +32,25 @@ Ecco il bottino della giornata:
 
 Abbiamo avuto la fortuna di vedere un elefante solitario che si muoveva nella savana.
 
-![Elefante nella savana](assets/2026-02-07/elephant-real.jpg)
+![Elefante nella savana](images/real/elephant-real.jpg)
 *La versione Pixar:*
-![Elefante stile Pixar](assets/2026-02-07/elephant-pixar.png)
+![Elefante stile Pixar](images/pixar/elephant-pixar.png)
 
 Poco dopo, un Kudu maestoso con le sue corna impressionanti.
 
-![Kudu](assets/2026-02-07/kudu-real.jpg)
+![Kudu](images/real/kudu-real.jpg)
 *La versione Pixar:*
-![Kudu stile Pixar](assets/2026-02-07/kudu-pixar.png)
+![Kudu stile Pixar](images/pixar/kudu-pixar.png)
 
 E ovviamente, le zebre non potevano mancare, questa volta con mamma e Ale a fare da cornice.
 
-![Mamma e Ale con le Zebre](assets/2026-02-07/family-zebra-real.jpg)
+![Mamma e Ale con le Zebre](images/real/family-zebra-real.jpg)
 *La versione Pixar:*
-![Mamma e Ale con le Zebre stile Pixar](assets/2026-02-07/family-zebra-pixar.png)
+![Mamma e Ale con le Zebre stile Pixar](images/pixar/family-zebra-pixar.png)
 
 Al calar della notte, abbiamo anche avvistato un gufo.
 
-![Gufo nella notte](assets/2026-02-07/owl-real.jpg)
+![Gufo nella notte](images/real/owl-real.jpg)
 
 ### La Boma Dinner
 
