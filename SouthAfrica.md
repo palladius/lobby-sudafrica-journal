@@ -54,6 +54,18 @@ Al calar della notte, abbiamo anche avvistato un gufo.
 
 ### La Boma Dinner
 
-Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner**. È stata un'esperienza fantastica, una cena attorno a un grande falò sotto le stelle. L'atmosfera era magica. C'è stato anche un piccolo incidente diplomatico quando Alessandro, un po' stanco, ha rovesciato un piatto, ma la serata si è conclusa alla grande tra buon cibo e risate.
+Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner**. È stata un'esperienza fantastica, una cena attorno a un grande falò sotto le stelle. L'atmosfera era magica. 
+
+![La Boma Dinner](images/real/boma-dinner-overview.jpg)
+*Versione Pixar:*
+![La Boma Dinner stile Pixar](images/pixar/boma-dinner-overview.png)
+
+C'era anche musica dal vivo e Alessandro si è unito alla band, suonando la marimba con grande entusiasmo!
+
+![Ale suona la marimba](images/real/ale-marimba.jpg)
+*Versione Pixar:*
+![Ale suona la marimba stile Pixar](images/pixar/ale-marimba.png)
+
+C'è stato anche un piccolo incidente diplomatico quando Alessandro, un po' stanco, ha rovesciato un piatto, ma la serata si è conclusa alla grande tra buon cibo e risate.
 
 Siamo rientrati a tempo di record, tutti a nanna per le 21:00. Domani la sveglia suona alle 5:00 per un'altra avventura nella savana!
