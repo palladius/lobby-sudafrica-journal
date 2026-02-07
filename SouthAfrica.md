@@ -7,8 +7,8 @@ We finally arrived in Johannesburg! 🛬
 ### Arrival
 The trip started with a smooth landing around **10:30**. Here is our arrival photo at the airport!
 
-![Family Arrival at Airport](images/pixar/riccardo_family_airport_v2.png)
-*(Also: [Alternative Shot](images/pixar/riccardo_family_airport.png) | [Pixar Version](images/pixar/pixar_family_joburg_arrival.png))*
+![Family Arrival at Airport](images/real/riccardo_family_airport_v2.png)
+*(Also: [Alternative Shot](images/real/riccardo_family_airport.png) | [Pixar Version](images/pixar/pixar_family_joburg_arrival.png))*
 
 By **11:00**, we picked up our rental car — absolutely beautiful! — and headed out towards the Pilanesberg.
 
@@ -121,3 +121,19 @@ Relaxing by the pool while waiting for the massage.
 
 ![Riccardo Pool Real](images/real/riccardo-pool.jpg)
 ![Riccardo Pool Pixar](images/pixar/riccardo-pool.png)
+
+### 🐵 Baboon Raid! (14:16)
+More baboons spotted right outside the room! They are definitely looking for snacks.
+
+![Baboons Real 2](images/real/baboons-2.jpg)
+![Baboons Pixar 2](images/pixar/baboons-2.png)
+
+### 💦 Afternoon Pool Fun (14:22)
+The boys enjoying the pool slide one last time before the afternoon safari.
+
+![Kids Pool Fun (Real)](images/real/kids-pool.jpg)
+![Kids Pool Fun (Pixar)](images/pixar/kids-pool.png)
+<video src="images/real/pool-slide-video.mp4" controls width="300"></video>
+
+### 🔜 Next Stop: The Last Safari!
+We are getting ready to leave in about an hour for our **last safari** here at Pilanesberg. Fingers crossed for Lions and Elephants! 🤞🦁🐘
