@@ -24,6 +24,13 @@ Ecco il bottino della giornata:
 - 6 **Faraone** (Guinea fowl)
 - Un **Gufo reale maculato** (Spotted eagle owl)
 - E per finire... un **Tasso del miele** (Honey Badger), avvistato dal campione, Alessandro! 🦡
+
+La foto originale era un po'... "artistica", ma con un po' di magia Pixar, eccolo in tutto il suo splendore!
+
+![Il Tasso del Miele... forse](images/real/honey-badger-blurry-real.jpg)
+*La versione "migliorata":*
+![Il Tasso del Miele stile Pixar](images/pixar/honey-badger-enhanced-pixar.png)
+
 - Un **Vervet Monkey** 🐒 (avvistato da un attentissimo Seby!)
 - Un branco di **Impala** composto da soli maschi ("bachelor herd")
 - Un **Roybock** (probabilmente un'antilope Rhebok)
