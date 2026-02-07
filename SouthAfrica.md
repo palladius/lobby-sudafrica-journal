@@ -55,9 +55,12 @@ E ovviamente, le zebre non potevano mancare, questa volta con mamma e Ale a fare
 *La versione Pixar:*
 ![Mamma e Ale con le Zebre stile Pixar](images/pixar/family-zebra-pixar.png)
 
-Al calar della notte, abbiamo anche avvistato un gufo.
+Al calar della notte, abbiamo anche avvistato non uno, ma ben due gufi appollaiati insieme! Un avvistamento davvero speciale poco prima di cena, intorno alle 19:30.
 
-![Gufo nella notte](images/real/owl-real.jpg)
+![Doppio gufo](images/real/double-owl-real.jpg)
+*La versione Pixar:*
+![Doppio gufo stile Pixar](images/pixar/double-owl-pixar.png)
+
 
 ### La Boma Dinner
 
