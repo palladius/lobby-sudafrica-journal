@@ -63,6 +63,12 @@ Sebi and Ale were amazed by the zebras crossing right in front of us.
 ![Sebi Zebra Crossing](images/pixar/2026-02-06-19-37-sebi-zebra-crossing.png)
 ![Boys & Real Zebra](images/pixar/2026-02-06-19-39-boys-zebra-real.png)
 
+#### 🦓 Close-up Zebra
+Grazing right by the road.
+
+![Zebra Real](images/real/zebra-yesterday.jpg)
+![Zebra Pixar](images/pixar/zebra-yesterday.png)
+
 Ale wanted a special memory with the zebra, so here is the "Pixar" version where they are best friends:
 ![Ale & Zebra (Pixar)](images/pixar/2026-02-07-ale-zebra-pixar.png)
 
