@@ -1,16 +1,8 @@
-... (contenuto precedente del diario) ...
 
-### Avvistamenti del pomeriggio/sera (16:30 - 20:00):
-... (contenuto precedente degli avvistamenti) ...
+- Un enorme branco di Elefanti 🐘, con tanto di cuccioli!
 
-- **BRANCO DI LEONI!** 🦁 (avvistati in lontananza)
+L'incontro è stato così ravvicinato che Riccardo non ha resistito a un selfie epico!
 
-L'avvistamento più emozionante: un intero branco di leoni! Due adulti e tre cuccioli che riposavano sotto gli alberi, mentre una leonessa era in perlustrazione nei paraggi.
-
-E finalmente, ecco la prova! La magnifica leonessa in perlustrazione.
-
-![Leonessa in lontananza](images/real/lioness-distance-real.jpg)
+![Selfie con gli Elefanti](images/real/riccardo-elephant-selfie-real.jpg)
 *La versione Pixar:*
-![Leonessa in lontananza stile Pixar](images/pixar/lioness-distance-pixar.png)
-
-... (resto del contenuto del diario) ...
+![Selfie con gli Elefanti stile Pixar](images/pixar/riccardo-elephant-selfie-pixar.png)
