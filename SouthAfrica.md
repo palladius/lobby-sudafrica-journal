@@ -1,6 +1,6 @@
 
-- 20 Impala 🦌, tra cui una mamma che allattava il suo piccolo.
+- 1 Rinoceronte bianco 🦏
 
-![Mamma e piccolo di Impala](images/real/impala-nursing-real.jpg)
+![Ale e il Rinoceronte](images/real/ale-and-rhino-real.jpg)
 *La versione Pixar:*
-![Mamma e piccolo di Impala stile Pixar](images/pixar/impala-nursing-pixar.png)
+![Ale e il Rinoceronte stile Pixar](images/pixar/ale-and-rhino-pixar.png)
