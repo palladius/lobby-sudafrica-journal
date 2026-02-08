@@ -1,6 +1,16 @@
+... (contenuto precedente del diario) ...
 
-- 2 Kori Bustards
+### Avvistamenti del pomeriggio/sera (16:30 - 20:00):
+... (contenuto precedente degli avvistamenti) ...
 
-![Kori Bustards](images/real/kori-bustards-real.jpg)
+- **BRANCO DI LEONI!** 🦁 (avvistati in lontananza)
+
+L'avvistamento più emozionante: un intero branco di leoni! Due adulti e tre cuccioli che riposavano sotto gli alberi, mentre una leonessa era in perlustrazione nei paraggi.
+
+E finalmente, ecco la prova! La magnifica leonessa in perlustrazione.
+
+![Leonessa in lontananza](images/real/lioness-distance-real.jpg)
 *La versione Pixar:*
-![Kori Bustards stile Pixar](images/pixar/kori-bustards-pixar.png)
+![Leonessa in lontananza stile Pixar](images/pixar/lioness-distance-pixar.png)
+
+... (resto del contenuto del diario) ...
