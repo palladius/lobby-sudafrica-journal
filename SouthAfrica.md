@@ -1,6 +1,6 @@
 
-- 1 Zebra in mezzo a un enorme branco di Gnu 🦓🐃
+- Antilopi Tsessebe
 
-![Zebra e Gnu](images/real/zebra-and-gnu-herd-real.jpg)
+![Antilopi Tsessebe](images/real/tsessebe-antelopes-real.jpg)
 *La versione Pixar:*
-![Zebra e Gnu stile Pixar](images/pixar/zebra-and-gnu-herd-pixar.png)
+![Antilopi Tsessebe stile Pixar](images/pixar/tsessebe-antelopes-pixar.png)
