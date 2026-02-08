@@ -1,9 +1,9 @@
 
 
-- Un enorme branco di Elefanti 🐘, con tanto di cuccioli!
+### Relax in Piscina
 
-L'incontro è stato così ravvicinato che Riccardo non ha resistito a un selfie epico!
+Dopo le emozioni del safari mattutino e un'ottima colazione, ci siamo concessi un po' di meritato relax in piscina.
 
-![Selfie con gli Elefanti](images/real/riccardo-elephant-selfie-real.jpg)
+![I bambini in piscina](images/real/kids-by-the-pool-real.jpg)
 *La versione Pixar:*
-![Selfie con gli Elefanti stile Pixar](images/pixar/riccardo-elephant-selfie-pixar.png)
+![I bambini in piscina stile Pixar](images/pixar/kids-by-the-pool-pixar.png)
