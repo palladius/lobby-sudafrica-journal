@@ -1,15 +1,12 @@
+# 🇿🇦 South Africa Diary
 
+Questo è il diario del nostro viaggio in Sudafrica nel Febbraio 2026.
 
-### Relax post-safari
+## Indice dei Giorni
 
-Dopo le emozioni del safari mattutino e un'ottima colazione, siamo passati dalla piscina per un saluto veloce prima del meritato riposo.
+- **[Giorno 1: Venerdì 6 Febbraio - Arrivo e Primo Safari](./2026-02-06.md)**
+- **[Giorno 2: Sabato 7 Febbraio - Tanti Avvistamenti e Boma Dinner](./2026-02-07.md)**
+- **[Giorno 3: Domenica 8 Febbraio - I Leoni e Relax in Piscina](./2026-02-08.md)**
 
-![I bambini in piscina](images/real/kids-by-the-pool-real.jpg)
-*La versione Pixar:*
-![I bambini in piscina stile Pixar](images/pixar/kids-by-the-pool-pixar.png)
-
-Subito dopo, tutti a letto per la "nannina"!
-
-![I bambini si rilassano](images/real/kids-napping-real.jpg)
-*La versione Pixar:*
-![I bambini si rilassano stile Pixar](images/pixar/kids-napping-pixar.png)
+---
+*Diario aggiornato da Lobby 🦞🛎️*
