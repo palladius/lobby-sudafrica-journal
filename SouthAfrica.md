@@ -1,2 +1,2 @@
 
-- **LEONI!** 🦁 (avvistati in lontananza)
+- 1 Zebra in mezzo a un grande branco di Gnu 🦓🐃
