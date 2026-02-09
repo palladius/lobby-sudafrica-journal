@@ -57,3 +57,4 @@ This section outlines the operational workflow for live updates to the journal, 
     -   **Commit:** `git add . && git commit -m "feat(journal): Add new entry for YYYY-MM-DD"`
     -   **Post-Commit Diff:** Get the diff statistics using `git diff HEAD~1 --stat` and report them to Riccardo.
     -   **Push:** `git push`
+\n- **Photo Rule:** For every photo received during the trip, create a Pixar-style version and save it to the corresponding daily assets folder ('assets/images/YYYY-MM-DD/').
