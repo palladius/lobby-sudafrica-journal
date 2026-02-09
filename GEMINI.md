@@ -12,3 +12,27 @@ This is a **near-live travel journal**, managed by an AI (Lobby/Gemini) under Ri
 4.  **Viewing:** Family and friends can read the updates in near real-time by viewing the `.md` files directly on GitHub.
 
 There is no "site" to "build". What you see in the repository is the final product.
+
+---
+
+### Image Recovery Workflow
+
+If a Markdown file contains broken image links (`❌ FAIL` in link checker tests), the recovery process is as follows:
+
+1.  **Identify Missing File:** Note the full path of the missing image (e.g., `images/pixar/lion-pride.png` or `images/real/lion-pride.jpg`).
+
+2.  **For Pixar/AI Images:**
+    *   Search the `workspace/nano_banana/` directory.
+    *   Look for a file with a similar name, usually prefixed with a date (`YYYY-MM-DD-lion-pride.png`).
+    *   Use `ls -lt` to correlate the file's creation timestamp with the context of the blog post.
+    *   If a match is found, copy it to the correct path inside `lobby-sudafrica-journal/images/pixar/`.
+
+3.  **For "Real" Images:**
+    *   These images must be supplied by Riccardo, as the AI cannot access historical chat attachments.
+    *   Search the session history (`sessions_history` tool) for a message around the time the image would have been discussed.
+    *   The log will contain a reference to the attachment (e.g., `telegram-USERID-MSGID.jpg`).
+    *   **Crucially, the AI cannot access this file path directly.** Riccardo must re-upload the image.
+    *   Once re-uploaded, copy the new file to the correct path inside `lobby-sudafrica-journal/images/real/`.
+
+4.  **Verify:** Rerun the link checker test to confirm the fix.
+5.  **Commit:** Commit the newly added images with a `fix(journal): ...` message.
