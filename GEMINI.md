@@ -36,3 +36,4 @@ If a Markdown file contains broken image links (`❌ FAIL` in link checker tests
 
 4.  **Verify:** Rerun the link checker test to confirm the fix.
 5.  **Commit:** Commit the newly added images with a `fix(journal): ...` message.
+\n- **Timezone Rule:** All events must be logged in Johannesburg time (SAST, GMT+2). If the system time is different, adjust manually by adding +1 hour (from CET/GMT+1).
