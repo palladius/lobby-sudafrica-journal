@@ -27,11 +27,11 @@ A causa di un bug nel tool `edit` che può causare la sovrascrittura accidentale
    - **Test di Esistenza File:** Verificare che tutte le immagini generate e menzionate nel diario esistano.
    - **Test di Corrispondenza Pixar:** A fine sessione, contare i file `_real.jpg` e `_pixar.png` nella cartella del giorno. Se il numero non corrisponde, emettere un **WARNING** per una revisione manuale (utile per gestire casi speciali come le immagini combinate).
 
-**4. Commit & Push (NON operativo al momento):**
-   - Eseguire il commit di tutte le modifiche (diario e immagini).
+**4. Commit & Push:**
+   - Eseguire il commit di tutte le modifiche (diario e immagini) usando il wrapper `safe-journal-git`.
    - Eseguire il push sul repository GitHub.
-   - **ATTENZIONE:** Questa operazione è attualmente bloccata a causa di un conflitto. Attendere istruzioni.
+   - **Branch Principale:** Il branch remoto è `master`.
 
 **5. Notifica Link:**
-   - Dopo il push (o comunque a fine sessione di modifiche), inviare a Riccardo il link GitHub del file del diario appena aggiornato.
-   - Formato del link: `https://github.com/palladius/lobby-sudafrica-journal/blob/main/YYYY-MM-DD.md`
+   - Dopo il push, inviare a Riccardo il link GitHub del file del diario appena aggiornato.
+   - Formato del link: `https://github.com/palladius/lobby-sudafrica-journal/blob/master/YYYY-MM-DD.md`
