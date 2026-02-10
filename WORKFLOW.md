@@ -1,60 +1,37 @@
-# South Africa Journal Workflow
+# Workflow del Diario di Viaggio
 
-**Golden Rule: Do Not Rewrite Git History!**
-- **NEVER USE:** `git reset --hard`, `git push -f`.
-- **ALWAYS USE:** `git commit` for new changes, and `git revert [hash]` to undo a bad commit. History must be immutable for safe recovery.
+Questo file definisce i passaggi obbligatori da seguire per ogni aggiornamento del diario.
 
-This file contains the operational instructions for the agent updating this journal.
+**0. Pre-Commit Safety Check (OBBLIGATORIO DOPO OGNI `edit`)**
 
-**Trigger:** Riccardo sends a photo, video, or note related to the South Africa trip.
+A causa di un bug nel tool `edit` che può causare la sovrascrittura accidentale di file, è obbligatorio eseguire questo controllo di sicurezza DOPO ogni modifica a un file esistente e PRIMA di qualsiasi commit.
 
----
-
-### **Standard Procedure**
-
-1.  **Context:** Always remember the reference timezone is Johannesburg (GMT+2). The time is February 2026.
-2.  **Add to TODO List:** Immediately add the photo to `PIXAR_TODO.md` in the main workspace.
-3.  **"Pixarize":** Use `nano-banana-pro` to create a "Pixar" version of the image.
-4.  **File Organization:**
-    - Copy the **original** photo to `images/real/`.
-    - Copy the **generated** photo to `images/pixar/`.
-5.  **Update Journal:**
-    - Open the correct day's Markdown file (e.g., `2026-02-08.md`).
-    - **Safe Method:** Read the entire file content, add new sections in memory, and then overwrite the file with the complete new content.
-6.  **Pre-Commit Check (PRESUBMIT):**
-    - `git status` to see modified files.
-    - `git diff --stat` for a summary of changes. If you see unexpected deletions, STOP.
-    - **Link Check:** Verify that all image paths in the `.md` file exist.
-    - **Duplicate Check:** Ensure the new photos are not already present.
-7.  **Commit & Push:**
-    - If checks pass, proceed: `git add .`, `git commit`, `git push`.
-8.  **Notify Riccardo:**
-    - Send confirmation, the Pixar photo, and a link to the `README.md`.
-9.  **Check off TODO List:** Update the `PIXAR_TODO.md`.
+1.  Eseguire `git diff --stat`.
+2.  Analizzare il numero di `deletions(-)`.
+3.  **Se `deletions` > 5, FERMARSI IMMEDIATAMENTE.** Segnalare il warning con l'output del diff e attendere istruzioni.
+4.  **Se `deletions` <= 5, comunicare l'output del diff e procedere.**
 
 ---
 
-### **Live Journaling Workflow (via Telegram)**
+**1. Aggiornamento del Diario:**
+   - Aggiungere note, racconti e dettagli forniti da Riccardo nel file del giorno corrente (es. `2026-02-10.md`).
 
-This section outlines the operational workflow for live updates to the journal, managed by Lobby via Telegram. This is a more direct flow that bypasses the `PIXAR_TODO.md` process for speed.
+**2. Gestione Immagini & Naming Convention:**
+   - Per ogni foto originale ricevuta, creare una base di nome file logica e descrittiva (es. `ale_con_leoni`).
+   - **Salvare l'immagine originale** nella cartella degli asset del giorno con un nome deterministico: `assets/images/YYYY-MM-DD/YYYY-MM-DD_[descrizione]_real.jpg`.
+   - Generare una versione in stile Pixar usando la skill `nano-banana-pro`.
+   - **Salvare l'immagine generata** con lo stesso nome base, ma suffisso `_pixar.png`: `assets/images/YYYY-MM-DD/YYYY-MM-DD_[descrizione]_pixar.png`.
+   - Inviare l'immagine Pixar generata a Riccardo tramite il tool `message`.
 
-**Trigger:** Riccardo sends content (text and/or photos) directly via Telegram for immediate inclusion.
+**3. Unit Test (Verifica Integrità):**
+   - **Test di Esistenza File:** Verificare che tutte le immagini generate e menzionate nel diario esistano.
+   - **Test di Corrispondenza Pixar:** A fine sessione, contare i file `_real.jpg` e `_pixar.png` nella cartella del giorno. Se il numero non corrisponde, emettere un **WARNING** per una revisione manuale (utile per gestire casi speciali come le immagini combinate).
 
-**Process:**
-1.  **Content Ingestion:**
-    -   Text is formatted into Markdown.
-    -   Photos are processed as described below.
+**4. Commit & Push (NON operativo al momento):**
+   - Eseguire il commit di tutte le modifiche (diario e immagini).
+   - Eseguire il push sul repository GitHub.
+   - **ATTENZIONE:** Questa operazione è attualmente bloccata a causa di un conflitto. Attendere istruzioni.
 
-2.  **Photo Processing:**
-    -   For each incoming photo, a Pixar-style version is generated using the `nano-banana-pro` skill.
-    -   Both the original and the generated image are stored in the daily asset folder: `assets/images/YYYY-MM-DD/`. (Note: This differs from the `images/real/` and `images/pixar/` structure for bulk processing).
-
-3.  **Journal Update:**
-    -   The text and Markdown links for the new images are appended to the corresponding daily journal file: `YYYY-MM-DD.md`.
-
-4.  **Synchronization (with PRESUBMIT checks):**
-    -   **Run Test:** `just test`
-    -   **Commit:** `git add . && git commit -m "feat(journal): Add new entry for YYYY-MM-DD"`
-    -   **Post-Commit Diff:** Get the diff statistics using `git diff HEAD~1 --stat` and report them to Riccardo.
-    -   **Push:** `git push`
-\n- **Photo Rule:** For every photo received during the trip, create a Pixar-style version and save it to the corresponding daily assets folder ('assets/images/YYYY-MM-DD/').
+**5. Notifica Link:**
+   - Dopo il push (o comunque a fine sessione di modifiche), inviare a Riccardo il link GitHub del file del diario appena aggiornato.
+   - Formato del link: `https://github.com/palladius/lobby-sudafrica-journal/blob/main/YYYY-MM-DD.md`
