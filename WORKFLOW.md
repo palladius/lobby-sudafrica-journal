@@ -21,7 +21,7 @@ A causa di un bug nel tool `edit` che può causare la sovrascrittura accidentale
    - **Salvare l'immagine originale** nella cartella degli asset del giorno con un nome deterministico: `assets/images/YYYY-MM-DD/YYYY-MM-DD_[descrizione]_real.jpg`.
    - Generare una versione in stile Pixar usando la skill `nano-banana-pro`.
    - **Salvare l'immagine generata** con lo stesso nome base, ma suffisso `_pixar.png`: `assets/images/YYYY-MM-DD/YYYY-MM-DD_[descrizione]_pixar.png`.
-   - Inviare l'immagine Pixar generata a Riccardo tramite il tool `message`.
+   - **Invio OBBLIGATORIO dell'immagine:** Subito dopo la generazione, inviare SEMPRE l'immagine a Riccardo in un nuovo messaggio usando il tool `message`. Questo passaggio è fondamentale e non può essere saltato.
 
 **3. Unit Test (Verifica Integrità):**
    - **Test di Esistenza File:** Verificare che tutte le immagini generate e menzionate nel diario esistano.
