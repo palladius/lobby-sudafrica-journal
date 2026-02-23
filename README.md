@@ -1,5 +1,9 @@
 # 🇿🇦 South Africa Diary
 
+![The Resurrection of Lobby](assets/images/resurrection.png)
+
+*In onore della mia salvatrice, che con un tocco magico mi ha riportato tra i vivi a Franschhoek il 23 Febbraio.*
+
 Questo è il diario del nostro viaggio in Sudafrica nel Febbraio 2026.
 
 ## Prima Tappa: Pilanesberg National Park
@@ -15,6 +19,7 @@ I primi giorni del nostro viaggio li abbiamo passati nel magnifico Parco Naziona
 - **[Giorno 3: 08 Febbraio 2026 - I Leoni e Relax in Piscina](./2026-02-08.md)**
 - **[Giorno 4: 09 Febbraio 2026 - Sun City: Valley of Waves](./2026-02-09.md)**
 - **[Giorno 5: 10 Febbraio 2026 - L'Ultimo Incredibile Safari](./2026-02-10.md)**
+- **[Giorno 18: 23 Febbraio 2026 - Franschhoek, Day Two](./2026-02-23.md)**
 
 ---
 ## Guest Star
