@@ -35,3 +35,9 @@ A causa di un bug nel tool `edit` che può causare la sovrascrittura accidentale
 **5. Notifica Link:**
    - Dopo il push, inviare a Riccardo il link GitHub del file del diario appena aggiornato.
    - Formato del link: `https://github.com/palladius/lobby-sudafrica-journal/blob/master/YYYY-MM-DD.md`
+
+### Strategia Diario Modulare
+Per evitare errori di posizionamento immagini e bug di troncamento su file lunghi, ogni tappa della giornata viene scritta in un file separato:
+- Formato: `YYYYMMDD_XX-nome.md`
+- Assemblaggio finale a fine giornata.
+- Usare H2 per le tappe e H3 per i dettagli.
