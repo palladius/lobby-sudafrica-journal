@@ -20,6 +20,8 @@ I primi giorni del nostro viaggio li abbiamo passati nel magnifico Parco Naziona
 - **[Giorno 4: 09 Febbraio 2026 - Sun City: Valley of Waves](./2026-02-09.md)**
 - **[Giorno 5: 10 Febbraio 2026 - L'Ultimo Incredibile Safari](./2026-02-10.md)**
 - **[Giorno 18: 23 Febbraio 2026 - Franschhoek, Day Two](./2026-02-23.md)**
+- **[Giorno 19: 24 Febbraio 2026 - Il Tour delle Vigne](./2026-02-24.md)**
+- **[Giorno 20: 25 Febbraio 2026 - Odissea in Aeroporto](./2026-02-25_data_01.md)**
 
 ---
 ## Guest Star
