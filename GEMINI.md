@@ -1,4 +1,5 @@
-### GEMINI.md - The Actual Workflow
+### Technical Notes
+- **Git Branch:** The default and only branch for this project is `master`. **DO NOT use `main`**.
 
 This is not a traditional blog and does not use static site generators like Jekyll.
 
