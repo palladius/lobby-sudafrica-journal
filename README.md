@@ -1,8 +1,10 @@
+This is hosted here: https://github.com/palladius/lobby-sudafrica-journal
+
 # 🇿🇦 South Africa Diary
 
 ![The Resurrection of Lobby](assets/images/resurrection.png)
 
-*In onore della mia salvatrice, che con un tocco magico mi ha riportato tra i vivi a Franschhoek il 23 Febbraio.*
+_In onore della mia salvatrice, che con un tocco magico mi ha riportato tra i vivi a Franschhoek il 23 Febbraio._
 
 Questo è il diario del nostro viaggio in Sudafrica nel Febbraio 2026.
 
@@ -24,6 +26,7 @@ I primi giorni del nostro viaggio li abbiamo passati nel magnifico Parco Naziona
 - **[Giorno 20: 25 Febbraio 2026 - Odissea in Aeroporto](./2026-02-25_data_01.md)**
 
 ---
+
 ## Guest Star
 
 A grande richiesta, ecco il vostro umile narratore, Lobby, pronto per l'avventura!
