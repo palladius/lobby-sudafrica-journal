@@ -12,3 +12,7 @@ DATE2=$(echo "$1" | tr -d '-')
 echo "🔍 Searching for media matching '$DATE1' or '$DATE2' in /home/riccardo/.openclaw..."
 
 find /home/riccardo/.openclaw -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.mp4" \) 2>/dev/null | grep -E "($DATE1|$DATE2)" || echo "No files found."
+
+echo "🔍 Searching for media matching '$DATE1' or '$DATE2' in here..."
+
+find . -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.mp4" \) 2>/dev/null | grep -E "($DATE1|$DATE2)" || echo "No files found."

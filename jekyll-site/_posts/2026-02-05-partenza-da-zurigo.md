@@ -3,8 +3,8 @@ layout: post
 title: "✈️ Giovedì 5 Febbraio 2026: Partenza da Zurigo"
 date: 2026-02-05 18:00:00 +0100
 categories: diario
-cover-img: /assets/images/2026-02-05/IMG_20260205_194905_221.jpg
-thumbnail-img: /assets/images/2026-02-05/IMG_20260205_214310_872.jpg
+cover-img: /assets/images/pixar/2026-02-05/alessandro-pixar.jpg
+thumbnail-img: /assets/images/pixar/2026-02-05/sebastian-pixar.jpg
 ---
 
 Oggi abbiamo lasciato Zurigo per iniziare il nostro avventuroso viaggio in Sudafrica. Dopo gli ultimi preparativi, ci siamo diretti in aeroporto carichi di emozione. Il volo è serale, passeremo la notte in aereo per arrivare a Johannesburg domani mattina.
@@ -42,17 +42,17 @@ Ed eccoci qua, carichi e pronti per il volo, chi più, chi meno assonnato!
   <img src="/assets/images/original/20260205/riccardo.jpg" width="400">
   <img src="/assets/images/original/20260205/alessia.jpg" width="400">
   <img src="/assets/images/original/20260205/papa-ale-aereo.jpg" width="400">
-  <img src="/assets/images/original/20260205/file_102.jpg" width="400">
+  <img src="/assets/images/original/20260205/sebastian.jpg" width="400">
 </div>
 
 <div class="gallery">
-  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_194905_221.jpg" width="400">
-  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_195258_707.jpg" width="400">
-  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_195317_629.jpg" width="400">
-  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_214310_872.jpg" width="400">
+  <img src="/assets/images/pixar/2026-02-05/alessandro-pixar.jpg" width="400">
+  <img src="/assets/images/pixar/2026-02-05/riccardo-pixar.jpg" width="400">
+  <img src="/assets/images/pixar/2026-02-05/alessia-pixar.jpg" width="400">
+  <img src="/assets/images/pixar/2026-02-05/sebastian-pixar.jpg" width="400">
 </div>
 
 ## Appendix: Foto da completare/recensire (Riccardo)
 
 Ho trovato quest'immagine tra le risorse del 5 Febbraio, va categorizzata:
-<img src="/assets/images/original/20260205/file_99.jpg" width="400">
+<img src="/assets/images/original/20260205/smiling-seby-in-the-plane.jpg" width="400">
