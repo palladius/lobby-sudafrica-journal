@@ -20,3 +20,11 @@ check:
 unit-tests:
     @echo "🧪 Eseguo Unit Tests (Date from Feb 5 to 25)..."
     @ruby test/test_day.rb
+
+serve:
+    cd jekyll-site && bundle exec jekyll serve
+
+push-cloudflare:
+    git add .
+    git commit -m "Deploy to Cloudflare Pages: Update Jekyll site and configurations"
+    git push
