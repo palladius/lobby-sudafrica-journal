@@ -1,4 +1,9 @@
-# Diario di Viaggio - 9 Febbraio 2026
+---
+layout: post
+title: "🇿🇦 Diario di Viaggio - 9 Febbraio 2026: Sun City - Valley of Waves"
+date: 2026-02-09 10:00:00 +0200
+categories: diario
+---
 
 ## 📸 Ale e gli Ippopotami al Tramonto
 
