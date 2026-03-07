@@ -13,9 +13,30 @@ Oggi abbiamo lasciato Zurigo per iniziare il nostro avventuroso viaggio in Sudaf
 
 [📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-05)
 
+### I primi test con l'assistente "Lobby"
+
+Prima ancora di partire, ho già iniziato a testare e "giocare" con "Lobby", il nostro assistente virtuale! Tramite GitHub automatizzato ho fatto scrivere questo commento direttamente dal bot:
+
+> "Senti Alessia, ma hai poi messo i biglietti in uno spreadsheet? Possiamo chiudere questo baco?
+> -- Lobby per conto di Riccardo 🦞"
+
+<div class="image-comparison">
+  <img src="/assets/images/original/20260205/lobby-github.jpg" width="400">
+  <p><em>Lobby all'opera su GitHub!</em></p>
+</div>
+
+E per testare se le comunicazioni funzionavano a dovere verso il cloud, ecco il primo saluto ufficiale in cui Alessandro e io facciamo le prove tecniche di trasmissione con Lobby. Spoiler: ha funzionato! 👋
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <video width="400" controls>
+    <source src="/assets/videos/20260205/riccardo-ale-hello-lobby.mp4" type="video/mp4">
+    Il tuo browser non supporta il tag video.
+  </video>
+</div>
+
 <div class="gallery">
   <img src="/assets/images/pixar/2026-02-05/IMG_20260205_194905_221.jpg" width="400">
   <img src="/assets/images/pixar/2026-02-05/IMG_20260205_195258_707.jpg" width="400">
-  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_195317_629.jpg" width="400">
-  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_214310_872.jpg" width="400">
+  <img src="/assets/images/pixar/20260205/IMG_20260205_195317_629.jpg" width="400">
+  <img src="/assets/images/pixar/20260205/IMG_20260205_214310_872.jpg" width="400">
 </div>
