@@ -1,0 +1,8 @@
+name = "lobby-sudafrica-journal"
+compatibility_date = "2025-03-07"
+
+[assets]
+directory = "./_site"
+
+[build]
+command = "echo 'Jekyll already built the site'"

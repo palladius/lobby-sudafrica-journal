@@ -28,5 +28,8 @@ Copy config from `lobby-ricc-pvt-journal.pages.dev` which works well.
 
 Setup on CloudFlare Pages is:
 
-- Build command: `cd jekyll-site && bundle exec jekyll build`
-- Deploy command: `npx wrangler deploy`
+- **Root Directory**: `jekyll-site`
+- **Build command**: `bundle exec jekyll build`
+- **Output Directory**: `_site`
+- **Deploy command**: `npx wrangler deploy --no-build`
+- **Version command**: (LEAVE COMPLETELY EMPTY)

@@ -22,7 +22,7 @@ unit-tests:
     @ruby test/test_day.rb
 
 serve:
-    cd jekyll-site && bundle exec jekyll serve
+    cd jekyll-site && bundle install && bundle exec jekyll serve
 
 push-cloudflare:
     @echo "🚀 Distribuzione su Cloudflare Pages... nothing to do you just need a git commit push.."
