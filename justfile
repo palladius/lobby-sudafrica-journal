@@ -25,14 +25,14 @@ serve:
     cd jekyll-site && bundle exec jekyll serve
 
 push-cloudflare:
-    @echo "🚀 Distribuzione su Cloudflare Pages..."
-    git add .
-    git commit -m "Deploy to Cloudflare Pages: Update Jekyll site and assets"
-    git push
+    @echo "🚀 Distribuzione su Cloudflare Pages... nothing to do you just need a git commit push.."
 
 sync-images:
     @echo "📸 Sincronizzazione immagini per il diario..."
     @mkdir -p jekyll-site/assets/images/original/20260207 jekyll-site/assets/images/pixar/20260207
+    @mkdir -p jekyll-site/assets/images/original/20260208 jekyll-site/assets/images/pixar/20260208
     @cp images/real/2026-02-07-* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
     @cp images/pixar/2026-02-07-* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/* jekyll-site/assets/images/original/20260208/ 2>/dev/null || true
+    @cp images/pixar/* jekyll-site/assets/images/pixar/20260208/ 2>/dev/null || true
     @echo "✅ Immagini sincronizzate."

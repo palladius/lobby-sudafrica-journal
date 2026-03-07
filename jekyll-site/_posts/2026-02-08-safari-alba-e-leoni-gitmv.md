@@ -1,6 +1,8 @@
-# 🇿🇦 Domenica 8 Febbraio 2026: Safari all'Alba e Leoni!
+# 🇿🇦 Domenica 8 Febbraio 2026: Safari all'Alba e Leoni! 🦁
 
-La sveglia suona alle 4:30 del mattino, un orario che sarebbe brutale in qualsiasi altra circostanza, ma non qui. L'aria è fresca e frizzante, e la promessa di vedere la savana risvegliarsi ci dà la carica. 
+**buona questa con git mv**
+
+La sveglia suona alle 4:30 del mattino, un orario che sarebbe brutale in qualsiasi altra circostanza, ma non qui. L'aria è fresca e frizzante, e la promessa di vedere la savana risvegliarsi ci dà la carica.
 
 ## Safari del Mattino (dalle 5:30)
 
@@ -9,144 +11,149 @@ La giornata è iniziata alla grande con una serie di avvistamenti incredibili, u
 Abbiamo iniziato con tre **Gnu**.
 
 ![Gnu all'alba](images/real/gnu-morning.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Gnu all'alba stile Pixar](images/pixar/gnu-morning-pixar.png)
 
 Subito dopo, un branco di circa 20 **Impala**, tra cui una mamma che allattava il suo piccolo.
 
 ![Mamma e piccolo di Impala](images/real/impala-nursing-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Mamma e piccolo di Impala stile Pixar](images/pixar/impala-nursing-pixar.png)
 
 Poi è stata la volta di un **Rinoceronte bianco**, con Ale in primo piano pieno di stupore.
 
 ![Ale e il Rinoceronte](images/real/ale-and-rhino-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Ale e il Rinoceronte stile Pixar](images/pixar/ale-and-rhino-pixar.png)
 
 Poco dopo, l'avvistamento clou: un **branco di Leoni!** Due adulti e tre cuccioli che riposavano, con una leonessa in perlustrazione.
 
 ![Il branco di Leoni](images/real/lion-pride-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Il branco di Leoni stile Pixar](images/pixar/lion-pride-recreation-pixar.png)
 
 E ancora, un enorme branco di **Gnu**, questa volta con una **Zebra** solitaria in mezzo a loro.
 
 ![Zebra e Gnu](images/real/zebra-and-gnu-herd-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Zebra e Gnu stile Pixar](images/pixar/zebra-and-gnu-herd-pixar.png)
 
 Abbiamo anche visto un **"Grey go-away-bird"**, due **Kori Bustards**, sei **Faraone**, un **Gheppio** e delle **antilopi Tsessebe**.
 
 ![Grey go-away-bird](images/real/go-away-bird-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Grey go-away-bird stile Pixar](images/pixar/go-away-bird-pixar.png)
 
 ![Kori Bustards](images/real/kori-bustards-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Kori Bustards stile Pixar](images/pixar/kori-birds-pixar-v2.png)
 
 Infine, un incontro ravvicinato con un enorme branco di **Elefanti**, con tanto di cuccioli, che ha regalato a Riccardo l'occasione per un selfie epico!
 
 ![Selfie con gli Elefanti](images/real/riccardo-elephant-selfie-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Selfie con gli Elefanti stile Pixar](images/pixar/riccardo-elephant-selfie-pixar.png)
 
 ## Relax Post-Safari
+
 Dopo le emozioni del safari e un'ottima colazione, siamo passati dalla piscina prima di un meritato riposo in camera.
 
 ![I bambini in piscina](images/real/kids-by-the-pool-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![I bambini in piscina stile Pixar](images/pixar/kids-by-the-pool-pixar.png)
 
 ![Riposo in camera](images/real/kids-napping-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Riposo in camera stile Pixar](images/pixar/kids-napping-pixar.png)
 
 ## Pomeriggio in Viaggio e Safari (Partenza 15:45)
+
 Dopo il riposo, di nuovo in macchina, pronti per la nostra avventura in solitaria! Kate al volante, io e i bambini "terrorizzati e felicissimi". Prossima fermata: Manyane Gate. Ecco la mappa del parco.
 
 ![Mappa del Parco](images/real/pilanesberg-map.jpg)
-*La versione "artistica" di Lobby:*
+_La versione "artistica" di Lobby:_
 ![Mappa Pixar](images/pixar/2026-02-08-pilanesberg-infographic-map.png)
 
 ![Famiglia in auto](images/real/family-car-selfie-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Famiglia in auto stile Pixar](images/pixar/family-car-selfie-pixar.png)
 
 Abbiamo visto questo magnifico elefante che si abbeverava.
 
 ![Elefante che beve](images/real/elephant-drinking-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Elefante che beve stile Pixar](images/pixar/2026-02-08-elephant-drinking-v2.png)
 
 Subito dopo, ci siamo fermati in un "hide" (un capanno di avvistamento) da cui abbiamo potuto osservare gli elefanti in lontananza. Seby era entusiasta!
 
 ![Seby nell'Hide](images/real/seby-in-hide-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Seby nell'Hide stile Pixar](images/pixar/seby-in-hide-pixar.png)
 
 Abbiamo anche incontrato questo magnifico esemplare di Impala maschio vicino al lago.
 
 ![Impala maschio al lago](images/real/male-impala-lake-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Impala maschio al lago stile Pixar](images/pixar/male-impala-lake-pixar.png)
 
 La nostra prima "conquista" non si è fatta attendere: una magnifica zebra a bordo strada, che ci ha regalato un selfie memorabile con Sebi.
 
 ![Selfie con Sebi e la Zebra](images/real/family-sebi-zebra-selfie-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Selfie con Sebi e la Zebra stile Pixar](images/pixar/family-sebi-zebra-selfie-pixar.png)
 
 Ed ecco un primo piano della nostra amica a strisce.
 
 ![Primo piano della Zebra](images/real/zebra-closeup-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Primo piano della Zebra stile Pixar](images/pixar/2026-02-08-zebra-closeup-pixar.png)
 
 ![Zebra di profilo](images/real/zebra-profile-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Zebra di profilo stile Pixar](images/pixar/2026-02-08-zebra-profile-pixar.png)
 
 Poco dopo, abbiamo avvistato quattro ippopotami che si godevano il fresco, anche se un po' timidi.
 
 ![Ippopotami in acqua](images/real/peeking-hippos-real.jpg)
-*La versione Pixar, un po' meno timida:*
+_La versione Pixar, un po' meno timida:_
 ![Ippopotami in acqua stile Pixar](images/pixar/peeking-hippos-pixar.png)
 
 E proprio al tramonto, l'avvistamento che aspettavamo: una giraffa! Anche Kate è riuscita a farsi un selfie con lei.
 
 ![Kate e la Giraffa](images/real/kate-giraffe-selfie-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Kate e la Giraffa stile Pixar](images/pixar/kate-giraffe-selfie-pixar.png)
 
 ![Giraffa al tramonto](images/real/giraffe-sunset-real.jpg)
-*La versione Pixar:*
+_La versione Pixar:_
 ![Giraffa al tramonto stile Pixar](images/pixar/giraffe-sunset-pixar.png)
 
 ### Meta: La Nascita della Foto "#genio"
+
 Dopo una serie di casini e refactoring, abbiamo messo a punto un nuovo workflow per evitare errori. Per celebrare questa illuminazione, abbiamo creato un'immagine che racchiude il nostro spirito: un mix di safari, genialità alla Einstein e un tocco di caos.
 
 ![#genio](images/pixar/riccardo-and-lobby-genius-safari.png)
 
 ## Prossima Tappa: Sun City!
+
 Domani ci aspetta il parco acquatico di Sun City! I bambini sono carichissimi.
 
 ![Anteprima di Sun City](images/pixar/sun-city-preview.png)
 
 ---
+
 ## Riepilogo Avvistamenti di Oggi
 
-| Animale | Conteggio | Thumbnail |
-| :--- | :--- | :--- |
-| Elefante | 1 (branco) | [![thumb](images/real/riccardo-elephant-selfie-real.jpg)](images/real/riccardo-elephant-selfie-real.jpg) |
-| Faraona | 6 | *(no photo)* |
-| Gheppio | 1 | *(no photo)* |
-| Gnu | 1 (branco enorme) | [![thumb](images/real/gnu-morning.jpg)](images/real/gnu-morning.jpg) |
-| Grey go-away-bird | 1 | [![thumb](images/real/go-away-bird-real.jpg)](images/real/go-away-bird-real.jpg) |
-| Impala | 20 | [![thumb](images/real/impala-nursing-real.jpg)](images/real/impala-nursing-real.jpg) |
-| Kori Bustard | 2 | [![thumb](images/pixar/kori-birds-pixar-v2.png)](images/pixar/kori-birds-pixar-v2.png) |
-| Leone | 1 branco (5) | [![thumb](images/real/lion-pride-real.jpg)](images/real/lion-pride-real.jpg) |
-| Rinoceronte bianco | 1 | [![thumb](images/real/ale-and-rhino-real.jpg)](images/real/ale-and-rhino-real.jpg) |
-| Tsessebe | 1+ | [![thumb](images/real/tsessebe-antelopes-real.jpg)](images/real/tsessebe-antelopes-real.jpg) |
-| Zebra | 1 | [![thumb](images/real/zebra-and-gnu-herd-real.jpg)](images/real/zebra-and-gnu-herd-real.jpg) |
+| Animale            | Conteggio         | Thumbnail                                                                                                |
+| :----------------- | :---------------- | :------------------------------------------------------------------------------------------------------- |
+| Elefante           | 1 (branco)        | [![thumb](images/real/riccardo-elephant-selfie-real.jpg)](images/real/riccardo-elephant-selfie-real.jpg) |
+| Faraona            | 6                 | _(no photo)_                                                                                             |
+| Gheppio            | 1                 | _(no photo)_                                                                                             |
+| Gnu                | 1 (branco enorme) | [![thumb](images/real/gnu-morning.jpg)](images/real/gnu-morning.jpg)                                     |
+| Grey go-away-bird  | 1                 | [![thumb](images/real/go-away-bird-real.jpg)](images/real/go-away-bird-real.jpg)                         |
+| Impala             | 20                | [![thumb](images/real/impala-nursing-real.jpg)](images/real/impala-nursing-real.jpg)                     |
+| Kori Bustard       | 2                 | [![thumb](images/pixar/kori-birds-pixar-v2.png)](images/pixar/kori-birds-pixar-v2.png)                   |
+| Leone              | 1 branco (5)      | [![thumb](images/real/lion-pride-real.jpg)](images/real/lion-pride-real.jpg)                             |
+| Rinoceronte bianco | 1                 | [![thumb](images/real/ale-and-rhino-real.jpg)](images/real/ale-and-rhino-real.jpg)                       |
+| Tsessebe           | 1+                | [![thumb](images/real/tsessebe-antelopes-real.jpg)](images/real/tsessebe-antelopes-real.jpg)             |
+| Zebra              | 1                 | [![thumb](images/real/zebra-and-gnu-herd-real.jpg)](images/real/zebra-and-gnu-herd-real.jpg)             |
