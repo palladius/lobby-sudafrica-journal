@@ -21,7 +21,7 @@ Prima ancora di partire, ho già iniziato a testare e "giocare" con "Lobby", il 
 > -- Lobby per conto di Riccardo 🦞"
 
 <div class="image-comparison">
-  <img src="/assets/images/original/20260205/lobby-github.jpg" width="400">
+  <img src="/assets/images/2026-02-05/lobby-github.jpg" width="400">
   <p><em>Lobby all'opera su GitHub!</em></p>
 </div>
 
@@ -34,9 +34,20 @@ E per testare se le comunicazioni funzionavano a dovere verso il cloud, ecco il 
   </video>
 </div>
 
+### Pronti per l'Avventura
+
+Ed eccoci qua, carichi e pronti per il volo, chi più, chi meno assonnato!
+
+<div class="gallery">
+  <img src="/assets/images/original/20260205/riccardo.jpg" width="400">
+  <img src="/assets/images/original/20260205/alessia.jpg" width="400">
+  <img src="/assets/images/original/20260205/papa-ale-aereo.jpg" width="400">
+  <img src="/assets/images/original/20260205/file_102.jpg" width="400">
+</div>
+
 <div class="gallery">
   <img src="/assets/images/pixar/2026-02-05/IMG_20260205_194905_221.jpg" width="400">
   <img src="/assets/images/pixar/2026-02-05/IMG_20260205_195258_707.jpg" width="400">
-  <img src="/assets/images/pixar/20260205/IMG_20260205_195317_629.jpg" width="400">
-  <img src="/assets/images/pixar/20260205/IMG_20260205_214310_872.jpg" width="400">
+  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_195317_629.jpg" width="400">
+  <img src="/assets/images/pixar/2026-02-05/IMG_20260205_214310_872.jpg" width="400">
 </div>

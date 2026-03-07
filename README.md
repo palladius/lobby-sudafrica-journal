@@ -1,5 +1,9 @@
 This is hosted here: https://github.com/palladius/lobby-sudafrica-journal
 
+It's also hosted here thanks to XXX pages!
+
+https://lobby-sudafrica-journal.palladiusbonton.workers.dev/
+
 # 🇿🇦 South Africa Diary
 
 ![The Resurrection of Lobby](assets/images/resurrection.png)

@@ -187,7 +187,7 @@ Dopo una serie di casini e refactoring, abbiamo messo a punto un nuovo workflow 
 
 Domani ci aspetta il parco acquatico di Sun City! I bambini sono carichissimi.
 
-![Anteprima di Sun City](/assets/images/pixar/20260208/2026-02-08-sun-city-preview.png)
+![Anteprima di Sun City](/assets/images/pixar/20260208/sun-city-preview.png)
 
 ---
 

@@ -14,7 +14,7 @@ Il nostro viaggio entra nel vivo! Dopo il lungo volo, siamo finalmente atterrati
 Appena arrivati al lodge, non abbiamo perso tempo e ci siamo subito preparati per il nostro primo safari pomeridiano.
 
 <div class="image-comparison">
-  <img src="/assets/images/original/20260206/2026-02-06-19-39-boys-zebra-real.png" width="400">
+  <img src="/assets/images/original/20260206/alessandro-seby-zebras.png" width="400">
   <p><em>Incontro con le zebre (Pixar):</em></p>
   <img src="/assets/images/pixar/20260206/alessandro-seby-zebras-pixar.png" width="400">
 </div>
@@ -24,7 +24,7 @@ Appena arrivati al lodge, non abbiamo perso tempo e ci siamo subito preparati pe
 Le aspettative erano alte, ma la realtà le ha superate di gran lunga. Non abbiamo dovuto aspettare molto per i primi avvistamenti. La savana ci ha regalato subito incontri ravvicinati con zebre, impala e i maestosi rinoceronti.
 
 <div class="image-comparison">
-  <img src="/assets/images/original/20260206/2026-02-06-20-29-rhino-cartoon.png" width="400">
+  <img src="/assets/images/pixar/20260206/2026-02-06-13-13-pilanesberg-safari-drive.png" width="400">
   <p><em>Rinoceronti nella savana (Pixar):</em></p>
   <img src="/assets/images/pixar/20260206/2026-02-06-20-29-rhino-cartoon.png" width="400">
 </div>
