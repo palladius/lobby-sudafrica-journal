@@ -51,3 +51,8 @@ Ed eccoci qua, carichi e pronti per il volo, chi più, chi meno assonnato!
   <img src="/assets/images/pixar/2026-02-05/IMG_20260205_195317_629.jpg" width="400">
   <img src="/assets/images/pixar/2026-02-05/IMG_20260205_214310_872.jpg" width="400">
 </div>
+
+## Appendix: Foto da completare/recensire (Riccardo)
+
+Ho trovato quest'immagine tra le risorse del 5 Febbraio, va categorizzata:
+<img src="/assets/images/original/20260205/file_99.jpg" width="400">
