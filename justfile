@@ -30,3 +30,8 @@ push-cloudflare:
     @echo "🚀 Distribuzione su Cloudflare Pages... nothing to do you just need a git commit push.."
 
 test: unit-tests
+
+# Example utilization of the image captionizer
+test-captionizer:
+    @echo "🤖 Eseguo il Captionizer su un'immagine di test usando Gemini Vision..."
+    ./bin/find_caption_for_image.py jekyll-site/assets/images/original/20260205/sebastian.jpg
