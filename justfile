@@ -35,6 +35,25 @@ sync-images:
     @mkdir -p jekyll-site/assets/images/original/20260210 jekyll-site/assets/images/pixar/20260210
     @cp images/real/2026-02-07-* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
     @cp images/pixar/2026-02-07-* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/kids-pool* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/kids-pool* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/baboons* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/baboons* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/honey-badger* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/honey-badger* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/chameleon* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/chameleon* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/double-owl* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/double-owl* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/boma-dinner* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/boma-dinner* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/ale-marimba* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/ale-marimba* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/rhino-and-son* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/real/viaggio_recovered/baboons* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/viaggio_recovered/baboons* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
+    @cp images/real/viaggio_recovered/riccardo-pool* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
+    @cp images/pixar/viaggio_recovered/riccardo-pool* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
     @cp images/real/* jekyll-site/assets/images/original/20260208/ 2>/dev/null || true
     @cp images/pixar/* jekyll-site/assets/images/pixar/20260208/ 2>/dev/null || true
     @cp images/real/2026-02-09-* jekyll-site/assets/images/original/20260209/ 2>/dev/null || true
