@@ -11,6 +11,8 @@
 import sys
 import os
 import json
+import csv
+from datetime import datetime
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
@@ -83,6 +85,38 @@ Output strictly a JSON object with this exact schema:
                 content_text = content_text[:-3]
         
         parsed_json = json.loads(content_text.strip())
+        
+        # Try to find date in images_mappings.csv first
+        creation_date = None
+        csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'images_mappings.csv')
+        image_basename = os.path.basename(image_path)
+        
+        if os.path.exists(csv_path):
+            try:
+                with open(csv_path, 'r', encoding='utf-8') as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        orig_path = row.get("OriginalPhotoPath", "")
+                        if orig_path and os.path.basename(orig_path) == image_basename:
+                            timestamp_str = row.get("Timestamp", "")
+                            if timestamp_str:
+                                dt = datetime.fromisoformat(timestamp_str.replace('Z', '+00:00'))
+                                creation_date = dt.strftime("%Y-%m-%d")
+                                break
+            except Exception as e:
+                print(f"Warning: Could not read images_mappings.csv: {e}", file=sys.stderr)
+
+        if not creation_date:
+            # Fallback to file modification/creation time
+            stat = os.stat(image_path)
+            try:
+                c_time = stat.st_birthtime
+            except AttributeError:
+                c_time = stat.st_mtime
+            creation_date = datetime.fromtimestamp(c_time).strftime("%Y-%m-%d")
+        
+        parsed_json["creation_date"] = creation_date
+        
         print(json.dumps(parsed_json, indent=2))
         
     except Exception as e:

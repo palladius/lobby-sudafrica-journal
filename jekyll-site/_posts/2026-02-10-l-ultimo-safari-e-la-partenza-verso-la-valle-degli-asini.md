@@ -5,6 +5,8 @@ date: 2026-02-10 05:00:00 +0200
 categories: diario
 ---
 
+[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-10)
+
 ## 🐾 Incontro Notturno con un Bushbaby
 
 **Ore 05:06, Kapama River Lodge**

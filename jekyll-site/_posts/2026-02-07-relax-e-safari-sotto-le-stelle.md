@@ -7,6 +7,8 @@ thumbnail-img: /assets/images/pixar/20260207/2026-02-07-family-hide-pixar.png
 cover-img: /assets/images/pixar/20260207/2026-02-07-family-hide-pixar.png
 ---
 
+[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-07)
+
 Dopo le emozioni del primo giorno, ci siamo concessi una mattinata più tranquilla per ricaricare le energie.
 
 ### Mattinata di Relax

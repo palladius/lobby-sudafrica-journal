@@ -7,6 +7,8 @@ thumbnail-img: /assets/images/pixar/20260208/2026-02-08-lion-pride-recreation-pi
 cover-img: /assets/images/pixar/20260208/2026-02-08-lion-pride-recreation-pixar.png
 ---
 
+[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-08)
+
 **Buona questa con git mv!**
 
 La sveglia suona alle 4:30 del mattino, un orario che sarebbe brutale in qualsiasi altra circostanza, ma non qui. L'aria è fresca e frizzante, e la promessa di vedere la savana risvegliarsi ci dà la carica.
