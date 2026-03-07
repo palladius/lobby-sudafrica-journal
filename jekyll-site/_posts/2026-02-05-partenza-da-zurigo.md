@@ -3,7 +3,8 @@ layout: post
 title: "✈️ Giovedì 5 Febbraio 2026: Partenza da Zurigo"
 date: 2026-02-05 18:00:00 +0100
 categories: diario
-image: /assets/images/pixar/2026-02-05/IMG_20260205_194905_221.jpg
+#image: assets/images/pixar/2026-02-05/IMG_20260205_194905_221.jpg
+image: pixar/2026-02-05/IMG_20260205_194905_221.jpg
 ---
 
 [📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-05)

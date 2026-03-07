@@ -31,8 +31,14 @@ sync-images:
     @echo "📸 Sincronizzazione immagini per il diario..."
     @mkdir -p jekyll-site/assets/images/original/20260207 jekyll-site/assets/images/pixar/20260207
     @mkdir -p jekyll-site/assets/images/original/20260208 jekyll-site/assets/images/pixar/20260208
+    @mkdir -p jekyll-site/assets/images/original/20260209 jekyll-site/assets/images/pixar/20260209
+    @mkdir -p jekyll-site/assets/images/original/20260210 jekyll-site/assets/images/pixar/20260210
     @cp images/real/2026-02-07-* jekyll-site/assets/images/original/20260207/ 2>/dev/null || true
     @cp images/pixar/2026-02-07-* jekyll-site/assets/images/pixar/20260207/ 2>/dev/null || true
     @cp images/real/* jekyll-site/assets/images/original/20260208/ 2>/dev/null || true
     @cp images/pixar/* jekyll-site/assets/images/pixar/20260208/ 2>/dev/null || true
+    @cp images/real/2026-02-09-* jekyll-site/assets/images/original/20260209/ 2>/dev/null || true
+    @cp images/pixar/2026-02-09-* jekyll-site/assets/images/pixar/20260209/ 2>/dev/null || true
+    @cp assets/images/2026-02-10/*.jpg jekyll-site/assets/images/original/20260210/ 2>/dev/null || true
+    @cp assets/images/2026-02-10/*.png jekyll-site/assets/images/pixar/20260210/ 2>/dev/null || true
     @echo "✅ Immagini sincronizzate."
