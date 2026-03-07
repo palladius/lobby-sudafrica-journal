@@ -3,7 +3,8 @@ layout: post
 title: "🇿🇦 Domenica 8 Febbraio 2026: Safari all'Alba e Leoni! 🦁"
 date: 2026-02-08 10:30:00 +0200
 categories: diario
-image: /assets/images/pixar/20260208/lion-pride-recreation-pixar.png
+thumbnail-img: /assets/images/pixar/20260208/lion-pride-recreation-pixar.png
+cover-img: /assets/images/pixar/20260208/lion-pride-recreation-pixar.png
 ---
 
 **buona questa con git mv**

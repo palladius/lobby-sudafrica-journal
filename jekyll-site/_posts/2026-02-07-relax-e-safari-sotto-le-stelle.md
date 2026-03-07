@@ -3,7 +3,8 @@ layout: post
 title: "🇿🇦 Sabato 7 Febbraio 2026: Relax, Safari e una Cena Sotto le Stelle"
 date: 2026-02-07 10:30:00 +0200
 categories: diario
-image: /assets/images/pixar/20260207/2026-02-07-family-hide-pixar.png
+thumbnail-img: /assets/images/pixar/20260207/2026-02-07-family-hide-pixar.png
+cover-img: /assets/images/pixar/20260207/2026-02-07-family-hide-pixar.png
 ---
 
 Dopo le emozioni del primo giorno, ci siamo concessi una mattinata più tranquilla per ricaricare le energie.
@@ -61,3 +62,7 @@ Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner
 </div>
 
 La serata si è conclusa alla grande e siamo rientrati a tempo di record, tutti a nanna per le 21:00. Domani ci aspetta un'altra levataccia!
+
+```
+
+```
