@@ -12,22 +12,22 @@ Timestamp,OriginalPhotoPath,PixarPhotoPath,PixarPhotoDescription
 2026-03-08T16:51:49Z,./original/20260207/rhino-and-son-real.jpg,./pixar/20260207/rhino-and-son-pixar.png,Rhino and son pixar
 2026-03-08T16:51:49Z,./original/20260207/savana-landscape-real.jpg,./pixar/20260207/savana-landscape-pixar.png,Savana landscape pixar
 2026-03-08T16:51:49Z,./original/20260207/zebras-real.jpg,./pixar/20260207/zebras-pixar.png,Zebras pixar
-2026-02-11T12:00:00Z,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-43-14-sebi-feeding-goats.jpg,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-43-26-sebi-feeding-goats-pixar.png,Sebi feeding goats
-2026-02-11T12:00:01Z,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-44-33-ale-feeding-goats.jpg,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-44-44-ale-feeding-goats-pixar.png,Ale feeding goats
-2026-02-11T12:00:02Z,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-45-41-sebi-feeding-more-goats.jpg,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-45-52-sebi-feeding-more-goats-pixar.png,Sebi feeding more goats
-2026-02-11T12:00:03Z,./jekyll-site/assets/images/2026-02-11/cave-kids-gate.jpg,./jekyll-site/assets/images/2026-02-11/cave-kids-gate-pixar.png,Kids at cave gate
-2026-02-11T12:00:04Z,./jekyll-site/assets/images/2026-02-11/cave-selfie.jpg,./jekyll-site/assets/images/2026-02-11/cave-selfie-pixar.png,Cave selfie
-2026-02-11T12:00:05Z,./jekyll-site/assets/images/2026-02-11/cave-explorers.jpg,./jekyll-site/assets/images/2026-02-11/cave-explorers-pixar.png,Cave explorers
-2026-02-11T12:00:06Z,./jekyll-site/assets/images/2026-02-11/weird-goat.jpg,./jekyll-site/assets/images/2026-02-11/weird-goat-pixar.png,Weird goat at Neck and Deck
-2026-02-11T12:00:07Z,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-47-39-kids-feeding-giraffe.jpg,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-47-51-kids-feeding-giraffe-pixar.png,Kids feeding giraffe
-2026-02-11T12:00:08Z,./jekyll-site/assets/images/2026-02-11/pool-time.jpg,./jekyll-site/assets/images/2026-02-11/pool-time-pixar.png,Pool time
-2026-02-11T12:00:09Z,./jekyll-site/assets/images/2026-02-11/bumper-cars.jpg,./jekyll-site/assets/images/2026-02-11/bumper-cars-pixar.png,Bumper cars
-2026-02-11T12:00:10Z,./jekyll-site/assets/images/2026-02-11/kungfu-panda-game.jpg,./jekyll-site/assets/images/2026-02-11/kungfu-panda-game-pixar.png,Kung Fu Panda game
-2026-02-11T12:00:11Z,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-52-19-fugazi-dinner.jpg,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-52-32-fugazi-dinner-pixar.png,Fugazi dinner
-2026-02-11T12:00:12Z,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-39-48-kids-petting-donkey.jpg,./jekyll-site/assets/images/2026-02-11/2026-02-25-18-39-59-kids-petting-donkey-pixar.png,Kids petting donkey
-2026-02-12T12:00:00Z,./jekyll-site/assets/images/2026-02-12/2026-02-25-19-04-32-lebos-soweto.jpg,./jekyll-site/assets/images/2026-02-12/2026-02-25-19-04-48-lebos-soweto-pixar.png,Lebo's Soweto
-2026-02-12T12:00:01Z,./jekyll-site/assets/images/2026-02-12/2026-02-25-19-07-40-sebi-and-tuktuk.jpg,./jekyll-site/assets/images/2026-02-12/2026-02-25-19-07-54-sebi-and-tuktuk-pixar.png,Sebi and tuk-tuk
-2026-02-12T12:00:02Z,./jekyll-site/assets/images/2026-02-12/2026-02-25-19-10-49-kate-and-ale-tuktuk.jpg,./jekyll-site/assets/images/2026-02-12/2026-02-25-19-11-03-kate-and-ale-tuktuk-pixar.png,Kate and Ale in tuk-tuk
+2026-02-11T12:00:00Z,./assets/images/2026-02-11/2026-02-25-18-43-14-sebi-feeding-goats.jpg,./assets/images/2026-02-11/2026-02-25-18-43-26-sebi-feeding-goats-pixar.png,Sebi feeding goats
+2026-02-11T12:00:01Z,./assets/images/2026-02-11/2026-02-25-18-44-33-ale-feeding-goats.jpg,./assets/images/2026-02-11/2026-02-25-18-44-44-ale-feeding-goats-pixar.png,Ale feeding goats
+2026-02-11T12:00:02Z,./assets/images/2026-02-11/2026-02-25-18-45-41-sebi-feeding-more-goats.jpg,./assets/images/2026-02-11/2026-02-25-18-45-52-sebi-feeding-more-goats-pixar.png,Sebi feeding more goats
+2026-02-11T12:00:03Z,./assets/images/2026-02-11/cave-kids-gate.jpg,./assets/images/2026-02-11/cave-kids-gate-pixar.png,Kids at cave gate
+2026-02-11T12:00:04Z,./assets/images/2026-02-11/cave-selfie.jpg,./assets/images/2026-02-11/cave-selfie-pixar.png,Cave selfie
+2026-02-11T12:00:05Z,./assets/images/2026-02-11/cave-explorers.jpg,./assets/images/2026-02-11/cave-explorers-pixar.png,Cave explorers
+2026-02-11T12:00:06Z,./assets/images/2026-02-11/weird-goat.jpg,./assets/images/2026-02-11/weird-goat-pixar.png,Weird goat at Neck and Deck
+2026-02-11T12:00:07Z,./assets/images/2026-02-11/2026-02-25-18-47-39-kids-feeding-giraffe.jpg,./assets/images/2026-02-11/2026-02-25-18-47-51-kids-feeding-giraffe-pixar.png,Kids feeding giraffe
+2026-02-11T12:00:08Z,./assets/images/2026-02-11/pool-time.jpg,./assets/images/2026-02-11/pool-time-pixar.png,Pool time
+2026-02-11T12:00:09Z,./assets/images/2026-02-11/bumper-cars.jpg,./assets/images/2026-02-11/bumper-cars-pixar.png,Bumper cars
+2026-02-11T12:00:10Z,./assets/images/2026-02-11/kungfu-panda-game.jpg,./assets/images/2026-02-11/kungfu-panda-game-pixar.png,Kung Fu Panda game
+2026-02-11T12:00:11Z,./assets/images/2026-02-11/2026-02-25-18-52-19-fugazi-dinner.jpg,./assets/images/2026-02-11/2026-02-25-18-52-32-fugazi-dinner-pixar.png,Fugazi dinner
+2026-02-11T12:00:12Z,./assets/images/2026-02-11/2026-02-25-18-39-48-kids-petting-donkey.jpg,./assets/images/2026-02-11/2026-02-25-18-39-59-kids-petting-donkey-pixar.png,Kids petting donkey
+2026-02-12T12:00:00Z,./assets/images/2026-02-12/2026-02-25-19-04-32-lebos-soweto.jpg,./assets/images/2026-02-12/2026-02-25-19-04-48-lebos-soweto-pixar.png,Lebo's Soweto
+2026-02-12T12:00:01Z,./assets/images/2026-02-12/2026-02-25-19-07-40-sebi-and-tuktuk.jpg,./assets/images/2026-02-12/2026-02-25-19-07-54-sebi-and-tuktuk-pixar.png,Sebi and tuk-tuk
+2026-02-12T12:00:02Z,./assets/images/2026-02-12/2026-02-25-19-10-49-kate-and-ale-tuktuk.jpg,./assets/images/2026-02-12/2026-02-25-19-11-03-kate-and-ale-tuktuk-pixar.png,Kate and Ale in tuk-tuk
 2026-03-08T22:03:41Z,./original/20260209/2026-02-09-0821-ale-waffle.jpg,./pixar/20260209/2026-02-09-0821-waffle-brothers.png,Waffle Brothers
 2026-03-08T22:03:41Z,./original/20260209/2026-02-09-0828-sebi-running.jpg,./pixar/20260209/2026-02-09-0828-sebi-running-pixar.png,Sebi running Pixar
 2026-03-08T22:03:41Z,./original/20260209/2026-02-09-0831-sebi-garden-paradise.jpg,./pixar/20260209/2026-02-09-0831-sebi-garden-paradise-pixar.png,Sebi in the garden Pixar
@@ -45,4 +45,4 @@ Timestamp,OriginalPhotoPath,PixarPhotoPath,PixarPhotoDescription
 2026-03-08T22:03:41Z,./original/20260209/2026-02-09-1751-bakubung-gate-map.jpg,./pixar/20260209/2026-02-09-1900-bakubung-gate-sign-pixar.png,Bakubung Gate Sign Pixar
 2026-03-08T22:03:41Z,./original/20260209/2026-02-09-1953-family-dinner.jpg,./pixar/20260209/2026-02-09-1953-family-dinner-pixar.png,Family Dinner Pixar
 2026-03-08T22:03:41Z,./original/20260209/2026-02-09-2054-kids-tv-time-2.jpg,./pixar/20260209/2026-02-09-2112-hippos-in-dam-pixar.png,Hippos in the dam Pixar
-2026-02-13T10:00:00Z,,./jekyll-site/assets/images/2026-02-13/01-plaisir-tasting.png,Plaisir wine tasting with nougats
+2026-02-13T10:00:00Z,,./assets/images/2026-02-13/01-plaisir-tasting.png,Plaisir wine tasting with nougats
