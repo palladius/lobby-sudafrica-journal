@@ -21,6 +21,12 @@ La mattinata è trascorsa in totale relax esplorando e godendoci il lodge prima 
 - **Piscina e tuffi:** I bambini si sono divertiti un mondo in piscina, assaporando l'atmosfera del lodge.
 
 <div class="image-comparison">
+  <img src="/assets/images/original/20260207/pool-real.jpg" width="400">
+  <p><em>Momenti in piscina (Pixar):</em></p>
+  <img src="/assets/images/pixar/20260207/pool-pixar.png" width="400">
+</div>
+
+<div class="image-comparison">
   <img src="/assets/images/original/20260207/2026-02-07-giant-chess-real.jpg" width="400">
   <p><em>La versione Pixar:</em></p>
   <img src="/assets/images/pixar/20260207/2026-02-07-giant-chess-pixar.png" width="400">
@@ -66,6 +72,14 @@ Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner
 <div class="image-comparison">
   <img src="/assets/images/pixar/20260207/2026-02-07-ale-zebra-pixar.png" width="400">
   <p><em>Ale e le zebre (Pixar)</em></p>
+  <img src="/assets/images/original/20260207/zebras-real.jpg" width="400">
+  <img src="/assets/images/pixar/20260207/zebras-pixar.png" width="400">
+</div>
+
+<div class="image-comparison">
+  <img src="/assets/images/original/20260207/savana-landscape-real.jpg" width="400">
+  <p><em>Paesaggio della savana (Pixar):</em></p>
+  <img src="/assets/images/pixar/20260207/savana-landscape-pixar.png" width="400">
 </div>
 
 La serata si è conclusa alla grande e siamo rientrati a tempo di record, tutti a nanna per le 21:00. Domani ci aspetta un'altra levataccia!

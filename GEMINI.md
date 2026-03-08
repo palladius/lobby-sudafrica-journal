@@ -21,6 +21,8 @@ The files are quite messy and unorganized.
   - **Pixar:** Search `~/.openclaw/workspace/nano_banana/` by date/name.
   - **Real:** Search session history for `telegram-USERID-MSGID.jpg` and ask Riccardo to re-upload.
 
+Whenever you add images and you know there's original X and pixar version Y, add both to the post **and** update `images_mappings.csv`!
+
 ## 🧪 Post-Trip Harmonization
 
 1. Ensure all dates/times are correct.
