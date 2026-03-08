@@ -13,7 +13,12 @@ Dopo le emozioni del primo giorno, ci siamo concessi una mattinata più tranquil
 
 ### Mattinata di Relax
 
-La mattinata è trascorsa in totale relax. Tra un tuffo in piscina, un po' di cazzeggio e i bambini che si divertivano un mondo, abbiamo assaporato l'atmosfera del lodge.
+La mattinata è trascorsa in totale relax esplorando e godendoci il lodge prima del safari serale:
+
+- **Scacchi Giganti (11:10):** I ragazzi si sono sfidati a "Baby Chess" in giardino.
+- **Il "Hide" (10:02):** Abbiamo esplorato un tunnel segreto che porta a un punto di osservazione vicino a una pozza d'acqua. Nessun animale, ma grande avventura!
+- **Dente Africano (11:45):** Alessandro ha perso il suo primo dente "africano"!
+- **Piscina e tuffi:** I bambini si sono divertiti un mondo in piscina, assaporando l'atmosfera del lodge.
 
 <div class="image-comparison">
   <img src="/assets/images/original/20260207/2026-02-07-giant-chess-real.jpg" width="400">
@@ -23,7 +28,7 @@ La mattinata è trascorsa in totale relax. Tra un tuffo in piscina, un po' di ca
 
 ### Incontri Ravvicinati al Lodge
 
-Oltre alla piscina, abbiamo avuto degli ospiti inaspettati proprio fuori dalla nostra camera! Un gruppo di babbuini curiosi è venuto a trovarci, osservandoci con lo stesso interesse con cui noi guardavamo loro.
+Oltre alla piscina, abbiamo avuto degli ospiti inaspettati proprio fuori dalla nostra camera (verso le 13:25)! Un gruppo di babbuini curiosi è venuto a trovarci, osservandoci con lo stesso interesse con cui noi guardavamo loro. Abbiamo anche fatto in tempo a fare dei massaggi prima di pranzo.
 
 <div class="image-comparison">
   <img src="/assets/images/original/20260207/2026-02-07-family-hide-real.jpg" width="400">

@@ -11,7 +11,11 @@ cover-img: /assets/images/pixar/20260206/pixar_family_joburg_arrival.png
 
 Il nostro viaggio entra nel vivo! Dopo il lungo volo, siamo finalmente atterrati in Sudafrica. L'accoglienza è stata calorosa e l'emozione di essere qui è palpabile. Alessandro e Sebi sono carichissimi, pronti per la loro prima avventura nella savana.
 
-Appena arrivati al lodge, non abbiamo perso tempo e ci siamo subito preparati per il nostro primo safari pomeridiano.
+### Kwa Maritane & Pancakes (15:00)
+
+Arrivati al **Kwa Maritane Bush Lodge**, siamo stati accolti con deliziosi pancake freschi. Sebi ha approvato! 🥞😋
+
+Appena sistemati al lodge, non abbiamo perso tempo e ci siamo subito preparati per il nostro primo safari pomeridiano (16:30 - 19:30).
 
 <div class="image-comparison">
   <img src="/assets/images/original/20260206/alessandro-seby-zebras.png" width="400">
@@ -47,7 +51,14 @@ La cena è stata ottima, con piatti tipici e un'atmosfera magica, circondati dai
 
 **Avvistamenti del giorno:**
 
-- Zebre
-- Impala
-- Rinoceronti
-- Giraffe (in lontananza)
+- 1 Gnu (Wildebeest) 🐃
+- 3 Antilopi
+- 2 Tartarughe Leopardo 🐢
+- 5 Zebre 🦓
+- 1 Kudu 🦌
+- 1 Steenbok 🦌
+- Branco di Impala 🦌
+- 1 Faraona 🦃
+- 1 Camaleonte 🦎
+- 4 Lepri africane 🐇
+- Rinoceronti 🦏

@@ -19,6 +19,7 @@ Prima ancora di partire, ho già iniziato a testare e "giocare" con "Lobby", il 
 
 > "Senti Alessia, ma hai poi messo i biglietti in uno spreadsheet? Possiamo chiudere questo baco?
 > -- Lobby per conto di Riccardo 🦞"
+> {% include captionizer.html image1="/assets/images/pixar/2026-02-05/alessandro-pixar.jpg" image2="/assets/images/real/2026-02-05/alessia.jpg" caption="Alessia comment" hover=true %}
 
 <div class="image-comparison">
   <img src="/assets/images/2026-02-05/lobby-github.jpg" width="400">

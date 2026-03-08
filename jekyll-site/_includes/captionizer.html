@@ -1,0 +1,33 @@
+<div class="captionizer">
+  <div class="image1" style="text-align: center">
+    <img
+      src="{{ include.image1 }}"
+      alt="Image 1"
+      style="max-width: 100%; height: auto"
+    />
+  </div>
+  <p
+    class="caption"
+    style="
+      font-size: 0.9em;
+      color: #555;
+      text-align: center;
+      margin-top: 0.5rem;
+    "
+  >
+    {{ include.caption }}
+  </p>
+  <div class="image2" style="text-align: center; margin-top: 1rem">
+    {% if include.hover %}
+    <a href="{{ include.image2 }}" class="hover-image" title="Hover to preview">
+      <img
+        src="{{ include.image2 }}"
+        alt="Image 2"
+        style="max-width: 100%; height: auto; opacity: 0.8"
+      />
+    </a>
+    {% else %}
+    <a href="{{ include.image2 }}">Link to second image</a>
+    {% endif %}
+  </div>
+</div>

@@ -5,6 +5,7 @@ default: list
 
 list:
     just -l
+    gh issue list
 
 # Esegue il controllo di sicurezza pre-commit
 check:
@@ -30,6 +31,14 @@ push-cloudflare:
     @echo "🚀 Distribuzione su Cloudflare Pages... nothing to do you just need a git commit push.."
 
 test: unit-tests
+
+# Pulizia dei file temporanei e dei build di Jekyll
+clean:
+    @echo "🧹 Pulizia in corso..."
+    rm -rf jekyll-site/_site
+    rm -rf jekyll-site/.jekyll-cache
+    rm -rf .venv
+    @echo "✨ Pulizia completata!"
 
 # Example utilization of the image captionizer
 test-captionizer:
