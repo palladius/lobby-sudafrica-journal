@@ -26,9 +26,11 @@ unit-tests:
 
 serve:
     cd jekyll-site && bundle install && bundle exec jekyll serve
+web:serve 
 
 push-cloudflare:
     @echo "🚀 Distribuzione su Cloudflare Pages... nothing to do you just need a git commit push.."
+push: push-cloudflare
 
 test: unit-tests
 
