@@ -1,0 +1,108 @@
+---
+layout: post
+title: "🦒 Lunedì 11 Febbraio 2026: Dalle Origini dell'Uomo alle Giraffe"
+date: 2026-02-11 08:00:00 +0200
+categories: diario
+cover-img: /assets/images/2026-02-11/2026-02-25-18-47-51-kids-feeding-giraffe-pixar.png
+thumbnail-img: /assets/images/2026-02-11/2026-02-25-18-47-39-kids-feeding-giraffe.jpg
+---
+
+# 11 Febbraio 2026: Dalle Origini dell'Uomo alle Giraffe
+
+[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-11)
+
+### Capitolo 1: Risveglio in Fattoria
+
+La mattinata di lunedì inizia nello stesso luogo incantato dove la famiglia ha passato la notte. Dopo il risveglio, la prima attività della giornata è tornare a salutare i veri padroni di casa: non solo asini, ma anche tante piccole caprette affamate. I bambini si divertono a dare loro il latte con il biberon, un'esperienza indimenticabile prima di partire per la grande avventura culturale della giornata.
+
+![Sebi e le Caprette](/assets/images/2026-02-11/2026-02-25-18-43-14-sebi-feeding-goats.jpg)
+![La Fattoria della Felicità - Versione Pixar](/assets/images/2026-02-11/2026-02-25-18-43-26-sebi-feeding-goats-pixar.png)
+![Ale e la Capretta](/assets/images/2026-02-11/2026-02-25-18-44-33-ale-feeding-goats.jpg)
+![Un Momento di Tenerezza - Versione Pixar](/assets/images/2026-02-11/2026-02-25-18-44-44-ale-feeding-goats-pixar.png)
+![Sebi Circondato dall'Affetto](/assets/images/2026-02-11/2026-02-25-18-45-41-sebi-feeding-more-goats.jpg)
+![L'Amico degli Animali - Versione Pixar](/assets/images/2026-02-11/2026-02-25-18-45-52-sebi-feeding-more-goats-pixar.png)
+
+### Capitolo 2: Una Delusione Storica nelle Sterkfontein Caves
+
+La tappa principale della giornata è la visita al **Cradle of Humankind** e alle **Sterkfontein Caves**. Nonostante le grandi aspettative per un tuffo nella storia dell'umanità, l'esperienza si rivela una delusione totale per tutta la famiglia. Le caverne sono affascinanti, ma il museo deludente.
+
+![Esploratori nelle Caverne](/assets/images/2026-02-11/cave-kids-gate.jpg)
+![Esploratori - Versione Pixar](/assets/images/2026-02-11/cave-kids-gate-pixar.png)
+![Selfie con Caschetto](/assets/images/2026-02-11/cave-selfie.jpg)
+![Selfie Sotterraneo - Versione Pixar](/assets/images/2026-02-11/cave-selfie-pixar.png)
+![Piccoli Speleologi](/assets/images/2026-02-11/cave-explorers.jpg)
+![Speleologi - Versione Pixar](/assets/images/2026-02-11/cave-explorers-pixar.png)
+
+### Capitolo 3: Pranzo a Sorpresa da "Neck & Deck"
+
+Dopo la delusione culturale, la fame porta la famiglia a cercare un posto per pranzo. La scelta ricade su un locale dall'aria un po' datata, **Neck & Deck**, il cui personale, con un'onestà quasi comica, mette subito in guardia: "Il cibo fa schifo, però ci sono le giraffe."
+
+Il colpo di scena è servito a tavola. Contro ogni previsione, il cibo si rivela fantastico, inclusa quella che Riccardo definisce "la migliore pizza mangiata in Sudafrica". Ma il vero spettacolo sono, ovviamente, le giraffe e gli altri animali.
+
+![Strano Animale a Neck & Deck](/assets/images/2026-02-11/weird-goat.jpg)
+![Che Animale E' - Versione Pixar](/assets/images/2026-02-11/weird-goat-pixar.png)
+![Incontro Ravvicinato con una Giraffa](/assets/images/2026-02-11/2026-02-25-18-47-39-kids-feeding-giraffe.jpg)
+![Il Gigante Gentile - Versione Pixar](/assets/images/2026-02-11/2026-02-25-18-47-51-kids-feeding-giraffe-pixar.png)
+
+### Capitolo 4: Arrivo a Johannesburg e Relax
+
+La giornata si conclude con l'arrivo a Johannesburg, in uno splendido albergo. Il pomeriggio è dedicato al relax in piscina.
+
+![Bagno in piscina](/assets/images/2026-02-11/pool-time.jpg)
+![Bagno in piscina - Pixar](/assets/images/2026-02-11/pool-time-pixar.png)
+
+### Capitolo 5: Divertimento in Sala Giochi
+
+Dopo la piscina, il divertimento continua in una sala giochi con autoscontri e videogiochi a tema Kung Fu Panda.
+
+![Autoscontro](/assets/images/2026-02-11/bumper-cars.jpg)
+![Autoscontro - Pixar](/assets/images/2026-02-11/bumper-cars-pixar.png)
+![Videogioco Kung Fu Panda](/assets/images/2026-02-11/kungfu-panda-game.jpg)
+![Videogioco Kung Fu Panda - Pixar](/assets/images/2026-02-11/kungfu-panda-game-pixar.png)
+
+### Epilogo: Shopping e Cena da "Fugazi"
+
+La serata prosegue con un po' di shopping, seguito da una cena in un ristorante italiano dal nome geniale: **Fugazi**.
+
+![Cena da Fugazi](/assets/images/2026-02-11/2026-02-25-18-52-19-fugazi-dinner.jpg)
+![Fugazi - Versione Pixar](/assets/images/2026-02-11/2026-02-25-18-52-32-fugazi-dinner-pixar.png)
+
+---
+
+### Appunti Originali (da Viaggio-del-sudafrica)
+
+## Mattinata in fattoria
+
+La giornata inizia con la solita routine della fattoria: sveglia all'alba, colazione abbondante e un po' di tempo passato con gli animali.
+
+## Le grotte di Sterkfontein
+
+Partiamo per le grotte di Sterkfontein, un sito patrimonio dell'umanità. La visita è affascinante, un viaggio indietro nel tempo alla scoperta dei nostri antenati.
+
+![Sterkfontein Caves 1](/assets/images/2026-02-11/sterkfontein_caves_1.jpg)
+![Sterkfontein Caves 2](/assets/images/2026-02-11/sterkfontein_caves_2.jpg)
+![Sterkfontein Caves 3](/assets/images/2026-02-11/sterkfontein_caves_3.jpg)
+
+## Pranzo con le giraffe
+
+Pranziamo al Neck & Deck, un ristorante molto particolare dove si mangia in compagnia delle giraffe. E anche di uno strano animale, un incrocio tra una capra e un ariete.
+
+![Weird Goat/Ram](/assets/images/2026-02-11/weird_goat_ram.jpg)
+
+## Arrivo a Johannesburg
+
+Nel pomeriggio arriviamo a Johannesburg. Lasciamo i bagagli in albergo e ci rilassiamo un po'.
+
+## Pomeriggio di relax e divertimento
+
+Un po' di relax in piscina e poi ci sfidiamo ai videogiochi in camera.
+
+![Pool Time](/assets/images/2026-02-11/pool_time.jpg)
+![Video Games 1](/assets/images/2026-02-11/video_games_1.jpg)
+![Video Games 2](/assets/images/2026-02-11/video_games_2.jpg)
+
+## Serata di shopping e sushi
+
+In serata, un po' di shopping in un centro commerciale e poi cena a base di sushi.
+
+![Sushi Dinner](/assets/images/2026-02-11/sushi_dinner.jpg)
