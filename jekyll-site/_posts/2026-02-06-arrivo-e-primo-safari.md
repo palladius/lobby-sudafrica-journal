@@ -9,7 +9,9 @@ cover-img: /assets/images/pixar/20260206/pixar_family_joburg_arrival.png
 
 [📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-06)
 
-Il nostro viaggio entra nel vivo! Dopo il lungo volo, siamo finalmente atterrati in Sudafrica. L'accoglienza è stata calorosa e l'emozione di essere qui è palpabile. Alessandro e Sebi sono carichissimi, pronti per la loro prima avventura nella savana.
+Il nostro viaggio entra nel vivo! Dopo il lungo volo, siamo finalmente atterrati a Johannesburg alle 09:50. L'accoglienza è stata calorosa e l'emozione di essere qui è palpabile. Alessandro e Sebi sono carichissimi, pronti per la loro prima avventura nella savana.
+
+Alle 13:13 eravamo già in un safari drive a Pilanesberg, dove abbiamo fatto i nostri primi emozionanti avvistamenti di rinoceronti e zebre!
 
 ### Kwa Maritane & Pancakes (15:00)
 

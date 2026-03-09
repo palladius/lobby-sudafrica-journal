@@ -40,7 +40,7 @@ La mattinata è trascorsa in totale relax esplorando e godendoci il lodge prima 
 
 ### Incontri Ravvicinati al Lodge
 
-Oltre alla piscina, abbiamo avuto degli ospiti inaspettati proprio fuori dalla nostra camera (verso le 13:25)! Un gruppo di babbuini curiosi è venuto a trovarci, osservandoci con lo stesso interesse con cui noi guardavamo loro. Abbiamo anche fatto in tempo a fare dei massaggi prima di pranzo.
+Alle 13:25 avevamo appena finito un massaggio rilassante e ci preparavamo al pranzo con Alessandro e Sebi, quando c'è stata una sorpresa fuori dalla camera: un gruppo di babbuini curiosi ci ha fatto visita! Poco dopo, alle 13:28, ci siamo concessi un ulteriore momento relax a bordo piscina, magari in attesa del turno successivo per i massaggi.
 
 <div class="image-comparison">
   <img src="/assets/images/original/20260207/2026-02-07-family-hide-real.jpg" width="400">
