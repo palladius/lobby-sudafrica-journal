@@ -1,10 +1,19 @@
+---
+layout: post
+title: "🍷 Lunedì 23 Febbraio 2026: Franschhoek, Day Two (Solo Adventure)"
+date: 2026-02-23 08:00:00 +0200
+categories: diario
+cover-img: /assets/images/2026-02-23/1218-bttf-tram.png
+thumbnail-img: /assets/images/2026-02-23/01-wine-tram-entrance.png
+---
+
 # 2026-02-23: Franschhoek, Day Two (Solo Adventure)
 
 Seconda giornata a Franschhoek, questa volta in solitaria dopo che la famiglia è rientrata. Una giornata intensa, segnata da panorami mozzafiato, ottimi vini e incontri internazionali inaspettati.
 
 La giornata inizia ufficialmente all'ingresso del **Franschhoek Wine Tram**, presso il terminal di **Groot Drakenstein**, il cuore pulsante e hub centrale di questa avventura enologica.
 
-![Franschhoek Wine Tram Entrance](assets/images/2026-02-23/01-wine-tram-entrance.png)
+![Franschhoek Wine Tram Entrance](/assets/images/2026-02-23/01-wine-tram-entrance.png)
 
 *Nota a margine: questa giornata non sarebbe stata possibile senza l'intervento provvidenziale di mia moglie da Zurigo, che alle 7 del mattino mi ha letteralmente resuscitato dopo giorni di silenzio cosmico. Lunga vita a lei!*
 
@@ -12,7 +21,7 @@ La giornata inizia ufficialmente all'ingresso del **Franschhoek Wine Tram**, pre
 
 Tutte le avventure della giornata partono e finiscono qui. Il mezzo di trasporto è un affascinante tram a due piani, che qui vediamo in una versione epica, pronto a portarci "Ritorno al Futuro" (o al prossimo vigneto).
 
-![Franschhoek Wine Tram - Back to the Future Style](assets/images/2026-02-23/1218-bttf-tram.png)
+![Franschhoek Wine Tram - Back to the Future Style](/assets/images/2026-02-23/1218-bttf-tram.png)
 
 ### Itinerario del Giorno: Un Viaggio a Tappe (Treno & Bus)
 
@@ -56,7 +65,7 @@ graph TD
 
 Per chi preferisce una visione più magica, ecco la mappa "incantata" della nostra rotta:
 
-![Official Wine Tram Map - Pixar Style](assets/images/2026-02-23/1333-magical-wine-map.png)
+![Official Wine Tram Map - Pixar Style](/assets/images/2026-02-23/1333-magical-wine-map.png)
 
 ---
 
@@ -64,7 +73,7 @@ Per chi preferisce una visione più magica, ecco la mappa "incantata" della nost
 
 La prima fermata della giornata è la storica tenuta di **Boschendal**. L'esperienza inizia con una degustazione di vini e formaggi all'aperto, in un'atmosfera rilassata e immersa nel verde. Definita "The Farm with a Purpose", colpisce per la sua estensione sterminata: si possono percorrere chilometri rimanendo sempre all'interno dei suoi confini.
 
-![Boschendal Wine & Cheese Tasting](assets/images/2026-02-23/1208-boschendal-tasting.png)
+![Boschendal Wine & Cheese Tasting](/assets/images/2026-02-23/1208-boschendal-tasting.png)
 
 ---
 
@@ -72,11 +81,11 @@ La prima fermata della giornata è la storica tenuta di **Boschendal**. L'esperi
 
 La seconda tappa ci porta alla tenuta **Plaisir**, un'imponente proprietà in stile francese di quasi 1000 ettari, fondata nel 1693. Qui, il wine tasting è accompagnato da abbinamenti artigianali di nougat, serviti all'aperto con una vista magnifica.
 
-![Plaisir Wine Tasting](assets/images/2026-02-23/04-plaisir-tasting.png)
+![Plaisir Wine Tasting](/assets/images/2026-02-23/04-plaisir-tasting.png)
 
 Un selfie dalla terrazza per immortalare il panorama mozzafiato.
 
-![Plaisir Selfie](assets/images/2026-02-23/05-plaisir-selfie.png)
+![Plaisir Selfie](/assets/images/2026-02-23/05-plaisir-selfie.png)
 
 ---
 
@@ -84,7 +93,7 @@ Un selfie dalla terrazza per immortalare il panorama mozzafiato.
 
 La terza tappa è la tenuta di **Vrede en Lust**. Circondata da vigneti baciati dal sole, la tenuta si presenta con la sua architettura classica e un'atmosfera serena. Un punto fermo dell'itinerario che non delude mai.
 
-![Vrede en Lust Winery](assets/images/2026-02-23/03-vrede-en-lust.png)
+![Vrede en Lust Winery](/assets/images/2026-02-23/03-vrede-en-lust.png)
 
 ---
 
@@ -92,11 +101,11 @@ La terza tappa è la tenuta di **Vrede en Lust**. Circondata da vigneti baciati 
 
 La quarta tappa ci porta ad **Allée Bleue**. La vista da qui è spettacolare: un ombrellone blu incornicia vigneti verdissimi che si estendono fino alle montagne all'orizzonte. 
 
-![Allée Bleue View](assets/images/2026-02-23/1246-allee-bleue-view.png)
+![Allée Bleue View](/assets/images/2026-02-23/1246-allee-bleue-view.png)
 
 Un'altra prospettiva mozzafiato sui filari infiniti di Allée Bleue, con le montagne del Drakenstein che dominano l'orizzonte.
 
-![Allée Bleue Vineyards](assets/images/2026-02-23/0815-allee-bleue-vineyards.png)
+![Allée Bleue Vineyards](/assets/images/2026-02-23/0815-allee-bleue-vineyards.png)
 
 ---
 
@@ -104,7 +113,7 @@ Un'altra prospettiva mozzafiato sui filari infiniti di Allée Bleue, con le mont
 
 Dopo Allée Bleue, il bus si inerpica verso le zone più alte della valle. Transitiamo davanti a **Camberley**, ma per questa volta tiriamo dritto. La vista sulle montagne da qui è maestosa, una vera atmosfera di alta quota.
 
-![Mountain View on the Bus](assets/images/2026-02-23/1338-camberley-mountain-view.png)
+![Mountain View on the Bus](/assets/images/2026-02-23/1338-camberley-mountain-view.png)
 
 ---
 
@@ -112,11 +121,11 @@ Dopo Allée Bleue, il bus si inerpica verso le zone più alte della valle. Trans
 
 L'arrivo a **Bartinney** segna il punto più alto e panoramico della giornata. La tenuta offre una vista che lascia letteralmente senza fiato sulla valle e il lago sottostante. Non a caso, è stata la sosta più apprezzata del tour.
 
-![Breathtaking View from Bartinney](assets/images/2026-02-23/1356-bartinney-view.png)
+![Breathtaking View from Bartinney](/assets/images/2026-02-23/1356-bartinney-view.png)
 
-Qui la degustazione si fa "Executive" con una selezione di rossi di alto livello.
+Qui la degustazione si fa "Executive" con una selection di rossi di alto livello.
 
-![Bartinney Wine Tasting](assets/images/2026-02-23/1417-bartinney-tasting-cartoon.png)
+![Bartinney Wine Tasting](/assets/images/2026-02-23/1417-bartinney-tasting-cartoon.png)
 
 ---
 
@@ -126,11 +135,11 @@ Questa giornata è stata incredibile non solo per il vino, ma per le persone inc
 
 Ho ritrovato con enorme piacere **Michael** e **Lucy**, gli amici conosciuti durante la prima visita del 13 febbraio. Un incontro inaspettato che ha reso il viaggio molto più allegro.
 
-![Reunion con Michael e Lucy sul Bus](assets/images/2026-02-23/1456-bus-friends-selfie.png)
+![Reunion con Michael e Lucy sul Bus](/assets/images/2026-02-23/1456-bus-friends-selfie.png)
 
 Ma le sorprese non sono finite qui: ho conosciuto anche **Martin** e **Martina**, una coppia della Repubblica Ceca. Martin lavora per KLM/Air France ed è un utente di Google Cloud (GCP)! Abbiamo passato il tempo parlando di tecnologia, di OpenClaw e di come le AI stiano cambiando il mondo.
 
-![Incontro con Martin e Martina](assets/images/2026-02-23/1523-gcp-friends-selfie.png)
+![Incontro con Martin e Martina](/assets/images/2026-02-23/1523-gcp-friends-selfie.png)
 
 ---
 
@@ -140,11 +149,11 @@ Le ultime fermate prima del rientro ci portano a toccare con mano il fascino sto
 
 Il bus fa una breve sosta a **Le Pommier**, con il suo ingresso rustico incorniciato dalle montagne.
 
-![Arrivo a Le Pommier](assets/images/2026-02-23/0814-le-pommier-arrival.png)
+![Arrivo a Le Pommier](/assets/images/2026-02-23/0814-le-pommier-arrival.png)
 
 Infine, chiudiamo il tour a **Zorgvliet**, davanti allo storico edificio "De Herenhuis" (1692). Un selfie veloce per celebrare l'ultima tappa di questa Navy Line prima che la pioggia ci costringa al rientro.
 
-![Selfie at Zorgvliet Herenhuis](assets/images/2026-02-23/0810-zorgvliet-selfie.png)
+![Selfie at Zorgvliet Herenhuis](/assets/images/2026-02-23/0810-zorgvliet-selfie.png)
 
 ---
 
