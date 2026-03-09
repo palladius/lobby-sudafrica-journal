@@ -13,7 +13,12 @@ thumbnail-img: /assets/images/2026-02-11/2026-02-25-18-47-39-kids-feeding-giraff
 
 ### Capitolo 1: Risveglio in Fattoria
 
-La mattinata di lunedì inizia nello stesso luogo incantato dove la famiglia ha passato la notte. Dopo il risveglio, la prima attività della giornata è tornare a salutare i veri padroni di casa: non solo asini, ma anche tante piccole caprette affamate. I bambini si divertono a dare loro il latte con il biberon, un'esperienza indimenticabile prima di partire per la grande avventura culturale della giornata.
+La mattinata di lunedì inizia nello stesso luogo incantato dove la famiglia ha passato la notte. La giornata inizia con un momento di tenerezza: i bambini fanno conoscenza con un simpatico asinello, un piccolo diversivo prima di immergersi nella storia profonda dell'umanità.
+
+![Ale, Sebi e l'Asinello](/assets/images/2026-02-11/2026-02-25-18-39-48-kids-petting-donkey.jpg)
+![Nuovi Amici - Versione Pixar](/assets/images/2026-02-11/2026-02-25-18-39-59-kids-petting-donkey-pixar.png)
+
+Dopo il risveglio, la prima attività della giornata è tornare a salutare i veri padroni di casa: non solo asini, ma anche tante piccole caprette affamate. I bambini si divertono a dare loro il latte con il biberon, un'esperienza indimenticabile prima di partire per la grande avventura culturale della giornata.
 
 ![Sebi e le Caprette](/assets/images/2026-02-11/2026-02-25-18-43-14-sebi-feeding-goats.jpg)
 ![La Fattoria della Felicità - Versione Pixar](/assets/images/2026-02-11/2026-02-25-18-43-26-sebi-feeding-goats-pixar.png)

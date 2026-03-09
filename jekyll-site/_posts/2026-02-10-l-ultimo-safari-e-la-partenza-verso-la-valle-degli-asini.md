@@ -3,17 +3,19 @@ layout: post
 title: "🇿🇦 Diario di Viaggio - 10 Febbraio 2026: l'ultimo safari e la partenza verso la valle degli asini"
 date: 2026-02-10 05:00:00 +0200
 categories: diario
+cover-img: /assets/images/pixar/20260210/lions_nuzzling_pixar_style_20260210.png
+thumbnail-img: /assets/images/original/20260210/2026-02-25-18-36-57-kids-and-donkey.jpg
 ---
 
 ## 🐾 Incontro Notturno con un Bushbaby
 
 **Ore 05:06, Kapama River Lodge**
 
-Proprio mentre ci stavamo dirigendo verso la reception per l'ultimo safari del nostro viaggio, abbiamo fatto un incontro inaspettato. Arrampicato su un albero, un piccolo esserino con due occhi giganti ci osservava: un **Galagone del Senegal**, meglio conosciuto come **Bushbaby** (*Galago moholi*). 
+Proprio mentre ci stavamo dirigendo verso la reception per l'ultimo safari del nostro viaggio, abbiamo fatto un incontro inaspettato. Arrampicato su un albero, un piccolo esserino con due occhi giganti ci osservava: un **Galagone del Senegal**, meglio conosciuto come **Bushbaby** (_Galago moholi_).
 
 Inizialmente pensavamo fosse una mangusta, ma la foto ha rivelato la sua vera identità. Un bellissimo e tenero modo per iniziare l'ultima giornata qui.
 
-*(Nota di Lobby: ho passato i successivi 20 minuti a combattere con le mie dipendenze software nel tentativo fallimentare di creare un'immagine in stile Pixar di questo animale. Ho perso. La tecnologia a volte è una merda.)*
+_(Nota di Lobby: ho passato i successivi 20 minuti a combattere con le mie dipendenze software nel tentativo fallimentare di creare un'immagine in stile Pixar di questo animale. Ho perso. La tecnologia a volte è una merda.)_
 
 ## 🙏 Un Saluto al Grande Francois Marais
 
@@ -21,13 +23,13 @@ Oggi è anche l'ultimo giorno con la nostra guida e ranger preferito, **Francois
 
 ## 🤯 Una Mattinata Indimenticabile: Leoni, Elefanti e Rinoceronti
 
-Quello che è seguito è stato semplicemente il safari più incredibile del viaggio. 
+Quello che è seguito è stato semplicemente il safari più incredibile del viaggio.
 
 Il primo grande incontro è stato con un branco di **otto leoni**, tra cui alcuni maschi magnifici e delle leonesse che si scambiavano tenerezze all'ombra di un cespuglio. L'avvistamento ha creato un piccolo ingorgo di jeep, tutti fermi ad ammirare la scena.
 
 Subito dopo, l'esperienza si è fatta ancora più immersiva: siamo stati letteralmente circondati da un branco di circa **trenta elefanti**. Ci hanno bloccato la strada, passandoci a pochi metri di distanza da ogni lato. I bambini erano estasiati, sporgendosi per fotografare e osservare i giganti buoni che sfilavano davanti a loro. Tra questi, un adorabile cucciolo che giocava con la sabbia su un ponte, spruzzandosela addosso con la proboscide. Uno degli elefanti adulti si è avvicinato così tanto al posto di guida che è nata anche una foto-ricordo memorabile con Francois.
 
-A coronare una mattinata già ricca, Francois, Kate e Alessandro hanno dato prova di avere un occhio di falco avvistando un **cobra dal muso a scudo** (*snouted cobra*). Un incontro raro e potente che io (Riccardo) mi sono perso, probabilmente perché ero distratto. La lista degli avvistamenti include anche facoceri, un branco di venti zebre, una **tartaruga leopardo**, un grande **coccodrillo** avvistato in lontananza in un fiume a ovest della Makorwane Dam (con grande gioia di Sebi, suo fan numero uno!), e infine due rari **rinoceronti neri** visti in lontananza vicino a una diga.
+A coronare una mattinata già ricca, Francois, Kate e Alessandro hanno dato prova di avere un occhio di falco avvistando un **cobra dal muso a scudo** (_snouted cobra_). Un incontro raro e potente che io (Riccardo) mi sono perso, probabilmente perché ero distratto. La lista degli avvistamenti include anche facoceri, un branco di venti zebre, una **tartaruga leopardo**, un grande **coccodrillo** avvistato in lontananza in un fiume a ovest della Makorwane Dam (con grande gioia di Sebi, suo fan numero uno!), e infine due rari **rinoceronti neri** visti in lontananza vicino a una diga.
 
 ## 🐍 La Strada del Serpente (Noga/Noha)
 
@@ -75,7 +77,11 @@ Dopo circa un'ora di viaggio verso sud dal Waterfall Mall, siamo arrivati alla n
 
 ![Benvenuti al Donkey Dairy!](/assets/images/pixar/20260210/welcome_to_donkey_dairy_pixar_style_20260210.png)
 
-Il benvenuto ce l'ha dato subito la fauna locale: appena entrati nella riserva abbiamo avvistato uno gnu, un bellissimo waterbuck, cinque giraffe con zebre e uno struzzo. 
+Il benvenuto ce l'ha dato subito la fauna locale: appena entrati nella riserva abbiamo avvistato uno gnu, un bellissimo waterbuck, cinque giraffe con zebre e uno struzzo.
+
+## ❤️ Amarcord: Addio al Kwa Maritane
+
+Prima di partire, un momento di nostalgia. Lasciamo il Kwa Maritane, un resort bellissimo che ci ha trattato splendidamente. I suoi giardini, con le magnifiche piante grasse, e l'atmosfera generale ci mancheranno. Un posto a cui voler bene e in cui tornare.
 
 Il pomeriggio è stato dedicato all'attività preferita dai bambini: dar da mangiare agli animali della fattoria. Ale si è divertito a dare il biberon a due caprette, mentre Sebi ha fatto amicizia con gli asinelli, nutrendo con delicatezza sia la mamma che il suo piccolo. Come ci ha raccontato Ale, le caprette si sono rivelate insaziabili: anche dopo aver finito il cibo, continuavano a seguirli sperando in un altro spuntino! Durante il giro, hanno anche avvistato un magnifico **bovino Nguni**, una razza africana dalle corna imponenti e dal mantello maculato, che Ale aveva descritto perfettamente come una "mucca con le cornona".
 

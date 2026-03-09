@@ -12,12 +12,21 @@ DIR = File.expand_path('..', __dir__)
 def run_tests_for_date(date)
   date_str = date.strftime('%Y-%m-%d')
   date_no_dash = date.strftime('%Y%m%d')
+  
+  # Try root file first (legacy)
   file_path = File.join(DIR, "#{date_str}.md")
   
+  # Try Jekyll post if root doesn't exist
+  unless File.exist?(file_path)
+    posts_dir = File.join(DIR, 'jekyll-site', '_posts')
+    candidates = Dir.glob(File.join(posts_dir, "#{date_str}-*.md"))
+    file_path = candidates.first if candidates.any?
+  end
+
   puts "Testing #{date_str}..."
   
-  unless File.exist?(file_path)
-    puts "  [SKIP] File #{date_str}.md does not exist."
+  unless file_path && File.exist?(file_path)
+    puts "  [SKIP] No journal file found for #{date_str} in root or jekyll-site/_posts."
     return
   end
 
@@ -87,7 +96,19 @@ def run_tests_for_date(date)
   puts "--------------------------------------------------------"
 end
 
-if ARGV.empty?
+filter_day_env = ENV['TEST_SUDAFRICA_DAY']
+
+if !filter_day_env.nil? && !filter_day_env.empty?
+  puts "Running tests for single day (env): #{filter_day_env}"
+  puts "========================================================"
+  begin
+    date = Date.parse(filter_day_env)
+    run_tests_for_date(date)
+  rescue ArgumentError
+    puts "Invalid date format in TEST_SUDAFRICA_DAY. Please use YYYY-MM-DD or YYYYMMDD"
+    exit 1
+  end
+elsif ARGV.empty?
   puts "Running tests for all dates between #{START_DATE} and #{END_DATE}"
   puts "========================================================"
   (START_DATE..END_DATE).each do |date|

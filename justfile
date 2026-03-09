@@ -19,10 +19,8 @@ check:
 
 # Esegue i test logici giornalieri (Google Photos, Link, Aggregazione)
 unit-tests:
-    @echo "🧪 Eseguo Unit Tests (Date from Feb 5 to 25)..."
-    @ruby test/test_day.rb
-    @echo "🖼️ Eseguo Test Immagini..."
-    @ruby test/test_images.rb
+    @ruby test/main.rb
+
 
 serve:
     cd jekyll-site && bundle install && bundle exec jekyll serve

@@ -4,6 +4,7 @@ title: "🍷 Venerdì 13 Febbraio 2026: Franschhoek Wine Tram - Navy Line"
 date: 2026-02-13 08:45:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-13/01-plaisir-tasting.png
+thumbnail-img: /assets/images/2026-02-13/01-plaisir-tasting.png
 ---
 
 # 2026-02-13: Franschhoek Wine Tram - Navy Line

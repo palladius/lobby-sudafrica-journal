@@ -6,12 +6,20 @@ require 'yaml'
 
 posts_dir = File.expand_path('../../jekyll-site/_posts', __FILE__)
 site_dir = File.expand_path('../../jekyll-site', __FILE__)
+filter_day = ENV['TEST_SUDAFRICA_DAY']
 
 puts "🔍 Checking for broken images in #{posts_dir}"
+puts "📅 Filtering for day: #{filter_day}" if filter_day
 
 broken_images = Hash.new { |hash, key| hash[key] = [] }
 
 Dir.glob(File.join(posts_dir, '*.md')).each do |file|
+  basename = File.basename(file)
+  if filter_day
+    normalized_filter = filter_day.gsub('-', '')
+    normalized_file_date = basename[0..9].gsub('-', '')
+    next unless normalized_file_date == normalized_filter
+  end
   content = File.read(file)
   
   # Parse front matter
