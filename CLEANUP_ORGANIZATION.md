@@ -17,5 +17,3 @@ bin/find_openclaw_images.sh 2026-02-XX
 7. Update the `image_mappings.csv` file to include the new mappings.
 8. Commit the changes with a message like "Day 2026-02-XX: Images and mappings updated".
 9. Any doubt, ideas, log, questions, log them into tmp/YYYY-MM-DD.md
-
-Test a single day like this: `TEST_SUDAFRICA_DAY=20260210 just test`
