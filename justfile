@@ -32,6 +32,9 @@ push: push-cloudflare
 
 test: unit-tests
 
+test-failing:
+    @ruby test/main.rb | egrep '^Testing|FAIL'
+
 # Pulizia dei file temporanei e dei build di Jekyll
 clean:
     @echo "🧹 Pulizia in corso..."

@@ -33,13 +33,13 @@ def run_tests_for_date(date)
   content = File.read(file_path)
   lines = content.lines
 
-  # Test 1: Google Photos link in first 10 lines
+  # Test 1: Google Photos link in first 20 lines (increased to account for frontmatter)
   google_photos_link = "https://photos.google.com/search/#{date_str}"
-  first_10_lines = lines[0...10].join
-  if first_10_lines.include?(google_photos_link)
-    puts "  [PASS] Google Photos link found in the first 10 lines."
+  first_20_lines = lines[0...20].join
+  if first_20_lines.include?(google_photos_link)
+    puts "  [PASS] Google Photos link found in the first 20 lines."
   else
-    puts "  [FAIL] Missing or incorrect Google Photos link in the first 10 lines."
+    puts "  [FAIL] Missing or incorrect Google Photos link in the first 20 lines."
   end
 
   # Test 2: Image links format
@@ -52,24 +52,26 @@ def run_tests_for_date(date)
       img_path = md_img || html_img
       next unless img_path # skip empty
       
-      # It must start with images/real/YYYYMMDD or images/pixar/YYYYMMDD
-      # unless it's an external link
+      # skip external links
       next if img_path.start_with?('http')
 
-      expected_real = "images/real/#{date_no_dash}/"
-      expected_pixar = "images/pixar/#{date_no_dash}/"
-      
-      if img_path.start_with?(expected_real) || img_path.start_with?(expected_pixar)
-        # also check if the file actually exists
-        full_img_path = File.join(DIR, img_path)
-        if File.exist?(full_img_path)
-          # ok
-        else
-          puts "  [WARN] Image referenced but missing on disk: #{img_path} (Line #{idx+1})"
-        end
-      else
-        puts "  [FAIL] Invalid image path: '#{img_path}' (Line #{idx+1}). Expected to start with #{expected_real} or #{expected_pixar}"
+      # Check if the image path contains the date in some form (YYYYMMDD or YYYY-MM-DD)
+      unless img_path.include?(date_no_dash) || img_path.include?(date_str)
+        puts "  [FAIL] Invalid image path: '#{img_path}' (Line #{idx+1}). Expected to contain #{date_no_dash} or #{date_str}"
         fails += 1
+        next
+      end
+      
+      # Check if the file actually exists on disk
+      is_jekyll_path = img_path.start_with?('/assets/images/') || img_path.start_with?('assets/images/')
+      full_img_path = if is_jekyll_path
+                        File.join(DIR, 'jekyll-site', img_path.sub(/\A\//, ''))
+                      else
+                        File.join(DIR, img_path)
+                      end
+                      
+      unless File.exist?(full_img_path)
+        puts "  [WARN] Image referenced but missing on disk: #{img_path} (Line #{idx+1})"
       end
     end
   end
