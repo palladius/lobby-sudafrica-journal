@@ -1,0 +1,383 @@
+commit 7f997ea0c8965a8e6a5f41d2b3e6f3366288dfa1
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Mar 1 18:05:29 2026 +0100
+
+    feat(journal): add chameleon photos and Pixar version -- made with Gemini CLI
+
+diff --git a/2026-02-06.md b/2026-02-06.md
+index f9b4d61..816c418 100644
+--- a/2026-02-06.md
++++ b/2026-02-06.md
+@@ -43,6 +43,11 @@ Il primo game drive non ha deluso!
+ - Branco di Impala 🦌
+ - 1 Faraona 🦃
+ - 1 Camaleonte 🦎
++
++<img src="images/real/20260206/chameleon.jpg" width="400">
++*Un timido camaleonte tra i rami:*
++<img src="images/pixar/20260206/chameleon-pixar.png" width="400">
++
+ - 4 Lepri africane 🐇
+ - Rinoceronti 🦏
+ 
+@@ -57,7 +62,7 @@ Il primo game drive non ha deluso!
+ | Animale            | Conteggio  | Thumbnail                                                                        |
+ | :----------------- | :--------- | :------------------------------------------------------------------------------- |
+ | Antilope           | 3          | _(no photo)_                                                                     |
+-| Camaleonte         | 1          | <img src="images/real/20260206/chameleon.jpg" width="100">                       |
++| Camaleonte         | 1          | <img src="images/pixar/20260206/chameleon-pixar.png" width="100">               |
+ | Faraona            | 1          | _(no photo)_                                                                     |
+ | Gnu                | 1          | _(no photo)_                                                                     |
+ | Impala             | 1 (branco) | _(no photo)_                                                                     |
+
+commit 2409430a2cc09b6dc33ab418cd91f251dc51d844
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Mar 1 17:49:38 2026 +0100
+
+    feat(journal): complete 6feb entry with landed family and zebras photos -- made with Gemini CLI
+
+diff --git a/2026-02-06.md b/2026-02-06.md
+index 359c3ac..f9b4d61 100644
+--- a/2026-02-06.md
++++ b/2026-02-06.md
+@@ -12,6 +12,10 @@ Finalmente in Sudafrica! 🛬 Atterrati puntuali, recuperata l'auto a noleggio e
+ *La versione Pixar:*
+ <img src="images/pixar/20260206/pixar_family_joburg_arrival.png" width="400">
+ 
++<img src="images/real/20260206/family-landed-real.png" width="400">
++*In aeroporto, pronti per l'avventura:*
++<img src="images/pixar/20260206/family-landed-pixar.png" width="400">
++
+ ### Kwa Maritane & Pancakes (15:00)
+ 
+ Arrivati al **Kwa Maritane Bush Lodge** e accolti con deliziosi pancake freschi. Sebi ha approvato! 🥞😋
+@@ -42,6 +46,10 @@ Il primo game drive non ha deluso!
+ - 4 Lepri africane 🐇
+ - Rinoceronti 🦏
+ 
++<img src="images/real/20260206/alessandro-seby-zebras.png" width="400">
++*I ragazzi ammirano le zebre:*
++<img src="images/pixar/20260206/alessandro-seby-zebras-pixar.png" width="400">
++
+ <img src="images/pixar/20260206/2026-02-06-13-13-pilanesberg-safari-drive.png" width="400">
+ 
+ ## Riepilogo Avvistamenti di Oggi
+@@ -58,7 +66,7 @@ Il primo game drive non ha deluso!
+ | Rinoceronte        | 2+         | <img src="images/pixar/20260206/2026-02-06-20-29-rhino-cartoon.png" width="100"> |
+ | Steenbok           | 1          | _(no photo)_                                                                     |
+ | Tartaruga Leopardo | 2          | <img src="images/real/20260206/tortoise.jpg" width="100">                        |
+-| Zebra              | 5          | <img src="images/real/20260206/zebra-yesterday.jpg" width="100">                 |
++| Zebra              | 5          | <img src="images/pixar/20260206/alessandro-seby-zebras-pixar.png" width="100">   |
+ 
+ ---
+ 
+
+commit b4688b2fa341c692bc6481fa8871e1847aa9c876
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Mar 1 13:51:28 2026 +0100
+
+    fix(journal): expand 2026-02-06 entry and add unit-tests to justfile -- made with Gemini CLI
+
+diff --git a/2026-02-06.md b/2026-02-06.md
+index 76db525..359c3ac 100644
+--- a/2026-02-06.md
++++ b/2026-02-06.md
+@@ -1,24 +1,64 @@
+ # 🇿🇦 Venerdì 6 Febbraio 2026: Arrivo e Primo Safari
+ 
++[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-06)
++
+ ## Diario della Giornata
+ 
+-## ... (contenuto narrativo come prima) ...
++### Arrivo a Johannesburg (10:30)
++
++Finalmente in Sudafrica! 🛬 Atterrati puntuali, recuperata l'auto a noleggio e subito in viaggio verso il Pilanesberg.
++
++<img src="images/real/20260206/riccardo_family_airport_v2.png" width="400">
++*La versione Pixar:*
++<img src="images/pixar/20260206/pixar_family_joburg_arrival.png" width="400">
++
++### Kwa Maritane & Pancakes (15:00)
++
++Arrivati al **Kwa Maritane Bush Lodge** e accolti con deliziosi pancake freschi. Sebi ha approvato! 🥞😋
++
++### Tuffo in Piscina (15:45)
++
++Mentre la mamma si preparava, ci siamo concessi un bagno veloce nella piscina riscaldata. Lo scivolo non era un granché, a detta dei ragazzi.
++
++<img src="images/real/20260206/2026-02-06-pool-real.jpg" width="400">
++*La versione Pixar:*
++<img src="images/pixar/20260206/2026-02-06-pool-slide-pixar.png" width="400">
++
++### Safari Pomeridiano (16:30 - 19:30)
++
++Il primo game drive non ha deluso!
++
++**Avvistamenti:**
++
++- 1 Gnu (Wildebeest) 🐃
++- 3 Antilopi
++- 2 Tartarughe Leopardo 🐢
++- 5 Zebre 🦓
++- 1 Kudu 🦌
++- 1 Steenbok 🦌
++- Branco di Impala 🦌
++- 1 Faraona 🦃
++- 1 Camaleonte 🦎
++- 4 Lepri africane 🐇
++- Rinoceronti 🦏
++
++<img src="images/pixar/20260206/2026-02-06-13-13-pilanesberg-safari-drive.png" width="400">
+ 
+ ## Riepilogo Avvistamenti di Oggi
+ 
+-| Animale            | Conteggio  | Thumbnail                                                               |
+-| :----------------- | :--------- | :---------------------------------------------------------------------- |
+-| Antilope           | 3          | _(no photo)_                                                            |
+-| Camaleonte         | 1          | <img src="images/real/chameleon.jpg" width="100">                       |
+-| Faraona            | 1          | _(no photo)_                                                            |
+-| Gnu                | 1          | _(no photo)_                                                            |
+-| Impala             | 1 (branco) | _(no photo)_                                                            |
+-| Kudu               | 1          | _(no photo)_                                                            |
+-| Lepre africana     | 4          | _(no photo)_                                                            |
+-| Rinoceronte        | 2+         | <img src="images/pixar/2026-02-06-20-29-rhino-cartoon.png" width="100"> |
+-| Steenbok           | 1          | _(no photo)_                                                            |
+-| Tartaruga Leopardo | 2          | <img src="images/real/tortoise.jpg" width="100">                        |
+-| Zebra              | 5          | <img src="images/real/zebra-yesterday.jpg" width="100">                 |
++| Animale            | Conteggio  | Thumbnail                                                                        |
++| :----------------- | :--------- | :------------------------------------------------------------------------------- |
++| Antilope           | 3          | _(no photo)_                                                                     |
++| Camaleonte         | 1          | <img src="images/real/20260206/chameleon.jpg" width="100">                       |
++| Faraona            | 1          | _(no photo)_                                                                     |
++| Gnu                | 1          | _(no photo)_                                                                     |
++| Impala             | 1 (branco) | _(no photo)_                                                                     |
++| Kudu               | 1          | _(no photo)_                                                                     |
++| Lepre africana     | 4          | _(no photo)_                                                                     |
++| Rinoceronte        | 2+         | <img src="images/pixar/20260206/2026-02-06-20-29-rhino-cartoon.png" width="100"> |
++| Steenbok           | 1          | _(no photo)_                                                                     |
++| Tartaruga Leopardo | 2          | <img src="images/real/20260206/tortoise.jpg" width="100">                        |
++| Zebra              | 5          | <img src="images/real/20260206/zebra-yesterday.jpg" width="100">                 |
+ 
+ ---
+ 
+
+commit d2e6b6e9989752001a78520b367c282be1e63575
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sat Feb 28 17:36:01 2026 +0100
+
+    chore: merge viaggio-del-sudafrica content and remove nested repo
+
+diff --git a/2026-02-06.md b/2026-02-06.md
+index 8d54ad1..76db525 100644
+--- a/2026-02-06.md
++++ b/2026-02-06.md
+@@ -1,20 +1,28 @@
+ # 🇿🇦 Venerdì 6 Febbraio 2026: Arrivo e Primo Safari
+ 
+ ## Diario della Giornata
+-... (contenuto narrativo come prima) ...
+----
++
++## ... (contenuto narrativo come prima) ...
++
+ ## Riepilogo Avvistamenti di Oggi
+ 
+-| Animale | Conteggio | Thumbnail |
+-| :--- | :--- | :--- |
+-| Antilope | 3 | *(no photo)* |
+-| Camaleonte | 1 | <img src="images/real/chameleon.jpg" width="100"> |
+-| Faraona | 1 | *(no photo)* |
+-| Gnu | 1 | *(no photo)* |
+-| Impala | 1 (branco) | *(no photo)* |
+-| Kudu | 1 | *(no photo)* |
+-| Lepre africana | 4 | *(no photo)* |
+-| Rinoceronte | 2+ | <img src="images/pixar/2026-02-06-20-29-rhino-cartoon.png" width="100"> |
+-| Steenbok | 1 | *(no photo)* |
+-| Tartaruga Leopardo | 2 | <img src="images/real/tortoise.jpg" width="100"> |
+-| Zebra | 5 | <img src="images/real/zebra-yesterday.jpg" width="100"> |
++| Animale            | Conteggio  | Thumbnail                                                               |
++| :----------------- | :--------- | :---------------------------------------------------------------------- |
++| Antilope           | 3          | _(no photo)_                                                            |
++| Camaleonte         | 1          | <img src="images/real/chameleon.jpg" width="100">                       |
++| Faraona            | 1          | _(no photo)_                                                            |
++| Gnu                | 1          | _(no photo)_                                                            |
++| Impala             | 1 (branco) | _(no photo)_                                                            |
++| Kudu               | 1          | _(no photo)_                                                            |
++| Lepre africana     | 4          | _(no photo)_                                                            |
++| Rinoceronte        | 2+         | <img src="images/pixar/2026-02-06-20-29-rhino-cartoon.png" width="100"> |
++| Steenbok           | 1          | _(no photo)_                                                            |
++| Tartaruga Leopardo | 2          | <img src="images/real/tortoise.jpg" width="100">                        |
++| Zebra              | 5          | <img src="images/real/zebra-yesterday.jpg" width="100">                 |
++
++---
++
++### Appunti Originali (da Viaggio-del-sudafrica)
++
++- `20260206 09:50` Arrivo a Johannesburg.
++- `20260206 13:13` Safari drive a Pilanesberg, con avvistamenti di rinoceronti e zebre.
+
+commit c2a79c3e0f697a8dfa0388a2962bda3e2d760ac5
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Feb 8 20:18:28 2026 +0100
+
+    fix(journal)!: Revert to img tags for thumbnails
+
+diff --git a/2026-02-06.md b/2026-02-06.md
+index 7224a61..8d54ad1 100644
+--- a/2026-02-06.md
++++ b/2026-02-06.md
+@@ -1,26 +1,20 @@
+ # 🇿🇦 Venerdì 6 Febbraio 2026: Arrivo e Primo Safari
+ 
+ ## Diario della Giornata
+-
+-### Arrivo a Johannesburg (10:30)
+ ... (contenuto narrativo come prima) ...
+-
+-### Safari Pomeridiano (16:30 - 19:30)
+-... (contenuto narrativo e foto come prima) ...
+-
+ ---
+ ## Riepilogo Avvistamenti di Oggi
+ 
+ | Animale | Conteggio | Thumbnail |
+ | :--- | :--- | :--- |
+ | Antilope | 3 | *(no photo)* |
+-| Camaleonte | 1 | [![thumb](images/real/chameleon.jpg)](images/real/chameleon.jpg) |
++| Camaleonte | 1 | <img src="images/real/chameleon.jpg" width="100"> |
+ | Faraona | 1 | *(no photo)* |
+ | Gnu | 1 | *(no photo)* |
+ | Impala | 1 (branco) | *(no photo)* |
+ | Kudu | 1 | *(no photo)* |
+ | Lepre africana | 4 | *(no photo)* |
+-| Rinoceronte | 2+ | [![thumb](images/pixar/2026-02-06-20-29-rhino-cartoon.png)](images/pixar/2026-02-06-20-29-rhino-cartoon.png) |
++| Rinoceronte | 2+ | <img src="images/pixar/2026-02-06-20-29-rhino-cartoon.png" width="100"> |
+ | Steenbok | 1 | *(no photo)* |
+-| Tartaruga Leopardo | 2 | [![thumb](images/real/tortoise.jpg)](images/real/tortoise.jpg) |
+-| Zebra | 5 | [![thumb](images/real/zebra-yesterday.jpg)](images/real/zebra-yesterday.jpg) |
++| Tartaruga Leopardo | 2 | <img src="images/real/tortoise.jpg" width="100"> |
++| Zebra | 5 | <img src="images/real/zebra-yesterday.jpg" width="100"> |
+
+commit 3190f73567ae9df543bf12496bf9a0735c2a37e1
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Feb 8 19:31:28 2026 +0100
+
+    fix(journal)!: Restore all days from history
+
+diff --git a/2026-02-06.md b/2026-02-06.md
+index 9442f0a..7224a61 100644
+--- a/2026-02-06.md
++++ b/2026-02-06.md
+@@ -1,37 +1,26 @@
+ # 🇿🇦 Venerdì 6 Febbraio 2026: Arrivo e Primo Safari
+ 
+-## Arrivo a Johannesburg (10:30)
+-Finalmente in Sudafrica! 🛬 Atterrati puntuali, recuperata l'auto a noleggio e subito in viaggio verso il Pilanesberg.
+-
+-![Family Arrival at Airport](images/real/riccardo_family_airport_v2.png)
+-*La versione Pixar:*
+-![Pixar Family Arrival](images/pixar/pixar_family_joburg_arrival.png)
+-
+-## Kwa Maritane & Pancakes (15:00)
+-Arrivati al **Kwa Maritane Bush Lodge** e accolti con deliziosi pancake freschi. Sebi ha approvato! 🥞😋
+-
+-## Tuffo in Piscina (15:45)
+-Mentre la mamma si preparava, ci siamo concessi un bagno veloce nella piscina riscaldata. Lo scivolo non era un granché, a detta dei ragazzi.
+-
+-![Pool Time (Real)](images/real/2026-02-06-pool-real.jpg)
+-*La versione Pixar:*
+-![Pool Fun (Pixar)](images/pixar/2026-02-06-pool-slide-pixar.png)
+-
+-## Safari Pomeridiano (16:30 - 19:30)
+-Il primo game drive non ha deluso!
+-
+-**Avvistamenti:**
+-- 1 Gnu (Wildebeest) 🐃
+-- 3 Antilopi
+-- 2 Tartarughe Leopardo 🐢
+-- 5 Zebre 🦓
+-- 1 Kudu 🦌
+-- 1 Steenbok 🦌
+-- Branco di Impala 🦌
+-- 1 Faraona 🦃
+-- 1 Camaleonte 🦎
+-- 4 Lepri africane 🐇
+-- Rinoceronti 🦏
+-
+-![Safari Drive](images/pixar/2026-02-06-13-13-pilanesberg-safari-drive.png)
+-... (immagini di animali del 6 Feb) ...
++## Diario della Giornata
++
++### Arrivo a Johannesburg (10:30)
++... (contenuto narrativo come prima) ...
++
++### Safari Pomeridiano (16:30 - 19:30)
++... (contenuto narrativo e foto come prima) ...
++
++---
++## Riepilogo Avvistamenti di Oggi
++
++| Animale | Conteggio | Thumbnail |
++| :--- | :--- | :--- |
++| Antilope | 3 | *(no photo)* |
++| Camaleonte | 1 | [![thumb](images/real/chameleon.jpg)](images/real/chameleon.jpg) |
++| Faraona | 1 | *(no photo)* |
++| Gnu | 1 | *(no photo)* |
++| Impala | 1 (branco) | *(no photo)* |
++| Kudu | 1 | *(no photo)* |
++| Lepre africana | 4 | *(no photo)* |
++| Rinoceronte | 2+ | [![thumb](images/pixar/2026-02-06-20-29-rhino-cartoon.png)](images/pixar/2026-02-06-20-29-rhino-cartoon.png) |
++| Steenbok | 1 | *(no photo)* |
++| Tartaruga Leopardo | 2 | [![thumb](images/real/tortoise.jpg)](images/real/tortoise.jpg) |
++| Zebra | 5 | [![thumb](images/real/zebra-yesterday.jpg)](images/real/zebra-yesterday.jpg) |
+
+commit afb528b395a3d5d64988e6a42aef298c282aa7b2
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Feb 8 09:33:24 2026 +0100
+
+    refactor: Split diary into daily files
+
+diff --git a/2026-02-06.md b/2026-02-06.md
+new file mode 100644
+index 0000000..9442f0a
+--- /dev/null
++++ b/2026-02-06.md
+@@ -0,0 +1,37 @@
++# 🇿🇦 Venerdì 6 Febbraio 2026: Arrivo e Primo Safari
++
++## Arrivo a Johannesburg (10:30)
++Finalmente in Sudafrica! 🛬 Atterrati puntuali, recuperata l'auto a noleggio e subito in viaggio verso il Pilanesberg.
++
++![Family Arrival at Airport](images/real/riccardo_family_airport_v2.png)
++*La versione Pixar:*
++![Pixar Family Arrival](images/pixar/pixar_family_joburg_arrival.png)
++
++## Kwa Maritane & Pancakes (15:00)
++Arrivati al **Kwa Maritane Bush Lodge** e accolti con deliziosi pancake freschi. Sebi ha approvato! 🥞😋
++
++## Tuffo in Piscina (15:45)
++Mentre la mamma si preparava, ci siamo concessi un bagno veloce nella piscina riscaldata. Lo scivolo non era un granché, a detta dei ragazzi.
++
++![Pool Time (Real)](images/real/2026-02-06-pool-real.jpg)
++*La versione Pixar:*
++![Pool Fun (Pixar)](images/pixar/2026-02-06-pool-slide-pixar.png)
++
++## Safari Pomeridiano (16:30 - 19:30)
++Il primo game drive non ha deluso!
++
++**Avvistamenti:**
++- 1 Gnu (Wildebeest) 🐃
++- 3 Antilopi
++- 2 Tartarughe Leopardo 🐢
++- 5 Zebre 🦓
++- 1 Kudu 🦌
++- 1 Steenbok 🦌
++- Branco di Impala 🦌
++- 1 Faraona 🦃
++- 1 Camaleonte 🦎
++- 4 Lepri africane 🐇
++- Rinoceronti 🦏
++
++![Safari Drive](images/pixar/2026-02-06-13-13-pilanesberg-safari-drive.png)
++... (immagini di animali del 6 Feb) ...

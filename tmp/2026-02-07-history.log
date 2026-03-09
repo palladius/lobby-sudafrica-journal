@@ -1,0 +1,373 @@
+commit d2e6b6e9989752001a78520b367c282be1e63575
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sat Feb 28 17:36:01 2026 +0100
+
+    chore: merge viaggio-del-sudafrica content and remove nested repo
+
+diff --git a/2026-02-07.md b/2026-02-07.md
+index 2c9152d..f6572f5 100644
+--- a/2026-02-07.md
++++ b/2026-02-07.md
+@@ -3,23 +3,27 @@
+ Dopo le emozioni del primo giorno, ci siamo concessi una mattinata più tranquilla per ricaricare le energie.
+ 
+ ### Mattinata di Relax
++
+ La mattinata è trascorsa in totale relax. Tra un tuffo in piscina, un po' di cazzeggio e i bambini che si divertivano un mondo, abbiamo assaporato l'atmosfera del lodge.
+ 
+ ![I bambini si divertono in piscina](images/real/kids-pool-2.jpg)
+-*La versione Pixar:*
++_La versione Pixar:_
+ ![I bambini si divertono in piscina stile Pixar](images/pixar/kids-pool-2.png)
+ 
+ ### Incontri Ravvicinati al Lodge
++
+ Oltre alla piscina, abbiamo avuto degli ospiti inaspettati proprio fuori dalla nostra camera! Un gruppo di babbuini curiosi è venuto a trovarci, osservandoci con lo stesso interesse con cui noi guardavamo loro.
+ 
+ ![Babbuini Curiosi - Versione Pixar](assets/images/2026-02-07/baboons.png)
+ 
+ ### Safari Pomeridiano (dalle 16:30)
++
+ Nel pomeriggio, di nuovo sulla jeep per un'altra avventura. Il safari è stato ricco di sorprese, con Ale in prima linea armato di binocolo, pronto a non perdersi nulla.
+ 
+ ![Ale in avanscoperta](images/real/rhino-and-son-real.jpg)
+ 
+ La lista degli avvistamenti è stata impressionante:
++
+ - **Tsessebe** e **Red Hartebeest** (due tipi di antilopi)
+ - 2 **Sciacalli**
+ - Un **Kori Bustard** (un uccello maestoso)
+@@ -32,30 +36,43 @@ La lista degli avvistamenti è stata impressionante:
+ E poi, il momento che ha elettrizzato tutti: l'avvistamento di un **Tasso del miele** (Honey Badger)! Un animale notoriamente difficile da vedere, scovato dal nostro campione, Alessandro! L'emozione era palpabile. La foto originale era un po'... "artistica", ma la versione Pixar rende giustizia!
+ 
+ ![Il Tasso del Miele... forse](images/real/honey-badger-blurry-real.jpg)
+-*La versione "migliorata":*
++_La versione "migliorata":_
+ ![Il Tasso del Miele stile Pixar](images/pixar/honey-badger-enhanced-pixar.png)
+ 
+ Abbiamo anche avuto un incontro ravvicinato e affascinante con un **Camaleonte** che attraversava lentamente la strada.
+ 
+ ![Camaleonte](images/real/chameleon.jpg)
+-*La versione Pixar:*
++_La versione Pixar:_
+ ![Camaleonte stile Pixar](images/pixar/chameleon.png)
+ 
+ ### Avvistamenti Notturni e Cena BOMA
++
+ Al calar della notte, proprio mentre il buio avvolgeva la savana, abbiamo avuto un avvistamento davvero speciale: non uno, ma ben due **Gufi reali maculati** (Spotted eagle owl) appollaiati su un ramo, poco prima di arrivare per la cena.
+ 
+ ![Doppio gufo](images/real/double-owl-real.jpg)
+-*La versione Pixar:*
++_La versione Pixar:_
+ ![Doppio gufo stile Pixar](images/pixar/double-owl-pixar.png)
+ 
+ Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner**. Una cena fantastica attorno a un grande falò sotto le stelle. L'atmosfera era magica, con musica dal vivo. Alessandro si è persino unito alla band, suonando la marimba con grande entusiasmo!
+ 
+ ![La Boma Dinner](images/real/boma-dinner-overview.jpg)
+-*Versione Pixar:*
++_Versione Pixar:_
+ ![La Boma Dinner stile Pixar](images/pixar/boma-dinner-overview.png)
+ 
+ ![Ale suona la marimba](images/real/ale-marimba.jpg)
+-*Versione Pixar:*
++_Versione Pixar:_
+ ![Ale suona la marimba stile Pixar](images/pixar/ale-marimba.png)
+ 
+ La serata si è conclusa alla grande e siamo rientrati a tempo di record, tutti a nanna per le 21:00. Domani ci aspetta un'altra levataccia!
++
++---
++
++### Appunti Originali (da Viaggio-del-sudafrica)
++
++- `20260207 13:25` Finito un massaggio rilassante, poi pranzo con Alessandro e Sebi.
++- `20260207 13:25` Sorpresa fuori dalla camera: un gruppo di babbuini curiosi ci ha fatto visita!
++  ![Babbuini originali](./images/real/viaggio_recovered/baboons.jpg)
++  ![Babbuini in stile Pixar](./images/pixar/viaggio_recovered/baboons.png)
++- `20260207 13:28` Momento relax in attesa del massaggio, a bordo piscina.
++  ![Riccardo originale](./images/real/viaggio_recovered/riccardo-pool.jpg)
++  ![Riccardo in stile Pixar](./images/pixar/viaggio_recovered/riccardo-pool.png)
+
+commit 3799aadf881babb7c9a767a8f7bc71c1c37f6d44
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Thu Feb 26 09:42:55 2026 +0100
+
+    feat(journal): Add missing baboon photo for Feb 7 from legacy repo
+
+diff --git a/2026-02-07.md b/2026-02-07.md
+index 676d144..2c9152d 100644
+--- a/2026-02-07.md
++++ b/2026-02-07.md
+@@ -9,6 +9,11 @@ La mattinata è trascorsa in totale relax. Tra un tuffo in piscina, un po' di ca
+ *La versione Pixar:*
+ ![I bambini si divertono in piscina stile Pixar](images/pixar/kids-pool-2.png)
+ 
++### Incontri Ravvicinati al Lodge
++Oltre alla piscina, abbiamo avuto degli ospiti inaspettati proprio fuori dalla nostra camera! Un gruppo di babbuini curiosi è venuto a trovarci, osservandoci con lo stesso interesse con cui noi guardavamo loro.
++
++![Babbuini Curiosi - Versione Pixar](assets/images/2026-02-07/baboons.png)
++
+ ### Safari Pomeridiano (dalle 16:30)
+ Nel pomeriggio, di nuovo sulla jeep per un'altra avventura. Il safari è stato ricco di sorprese, con Ale in prima linea armato di binocolo, pronto a non perdersi nulla.
+ 
+
+commit 130bf7758925ab976eb6caab92a44fea746ac9b2
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Mon Feb 9 01:56:53 2026 +0100
+
+    feat(journal): Rebuild Day 2 narrative and pixar images
+
+diff --git a/2026-02-07.md b/2026-02-07.md
+index 4ca6be7..676d144 100644
+--- a/2026-02-07.md
++++ b/2026-02-07.md
+@@ -1,22 +1,56 @@
+-# 🇿🇦 Sabato 7 Febbraio 2026: Safari, Boma Dinner e Tanti Avvistamenti
+-
+-## Diario della Giornata
+-... (contenuto narrativo come prima) ...
+----
+-## Riepilogo Avvistamenti di Oggi
+-
+-| Animale | Conteggio | Thumbnail |
+-| :--- | :--- | :--- |
+-| Elefante | 1+ | <img src="images/real/elephant-real.jpg" width="100"> |
+-| Faraona | 6 | *(no photo)* |
+-| Gufo Reale Maculato | 2 | <img src="images/real/double-owl-real.jpg" width="100"> |
+-| Impala | 1+ (branco) | *(no photo)* |
+-| Ippopotamo | 1+ | <img src="images/real/hippo-yawn-real.jpg" width="100"> |
+-| Kori Bustard | 1 | <img src="images/real/kori-bustards-real.jpg" width="100"> |
+-| Kudu | 1 | <img src="images/real/kudu-real.jpg" width="100"> |
+-| Red Hartebeest | 1 | *(no photo)* |
+-| Rinoceronte bianco | 1 | <img src="images/real/ale-and-rhino-real.jpg" width="100"> |
+-| Sciacallo | 2 | *(no photo)* |
+-| Tasso del miele | 1 | <img src="images/pixar/honey-badger-enhanced-pixar.png" width="100"> |
+-| Tsessebe | 1 | <img src="images/real/tsessebe-antelopes-real.jpg" width="100"> |
+-| Vervet Monkey | 1 | *(no photo)* |
++# 🇿🇦 Sabato 7 Febbraio 2026: Relax, Safari e una Cena Sotto le Stelle
++
++Dopo le emozioni del primo giorno, ci siamo concessi una mattinata più tranquilla per ricaricare le energie.
++
++### Mattinata di Relax
++La mattinata è trascorsa in totale relax. Tra un tuffo in piscina, un po' di cazzeggio e i bambini che si divertivano un mondo, abbiamo assaporato l'atmosfera del lodge.
++
++![I bambini si divertono in piscina](images/real/kids-pool-2.jpg)
++*La versione Pixar:*
++![I bambini si divertono in piscina stile Pixar](images/pixar/kids-pool-2.png)
++
++### Safari Pomeridiano (dalle 16:30)
++Nel pomeriggio, di nuovo sulla jeep per un'altra avventura. Il safari è stato ricco di sorprese, con Ale in prima linea armato di binocolo, pronto a non perdersi nulla.
++
++![Ale in avanscoperta](images/real/rhino-and-son-real.jpg)
++
++La lista degli avvistamenti è stata impressionante:
++- **Tsessebe** e **Red Hartebeest** (due tipi di antilopi)
++- 2 **Sciacalli**
++- Un **Kori Bustard** (un uccello maestoso)
++- Un **Elefante** in lontananza
++- Un magnifico **Kudu** con le sue corna a spirale
++- 6 **Faraone**
++- Un **Vervet Monkey** 🐒 (avvistato da un attentissimo Seby!)
++- Un branco di **Impala** composto da soli maschi ("bachelor herd")
++
++E poi, il momento che ha elettrizzato tutti: l'avvistamento di un **Tasso del miele** (Honey Badger)! Un animale notoriamente difficile da vedere, scovato dal nostro campione, Alessandro! L'emozione era palpabile. La foto originale era un po'... "artistica", ma la versione Pixar rende giustizia!
++
++![Il Tasso del Miele... forse](images/real/honey-badger-blurry-real.jpg)
++*La versione "migliorata":*
++![Il Tasso del Miele stile Pixar](images/pixar/honey-badger-enhanced-pixar.png)
++
++Abbiamo anche avuto un incontro ravvicinato e affascinante con un **Camaleonte** che attraversava lentamente la strada.
++
++![Camaleonte](images/real/chameleon.jpg)
++*La versione Pixar:*
++![Camaleonte stile Pixar](images/pixar/chameleon.png)
++
++### Avvistamenti Notturni e Cena BOMA
++Al calar della notte, proprio mentre il buio avvolgeva la savana, abbiamo avuto un avvistamento davvero speciale: non uno, ma ben due **Gufi reali maculati** (Spotted eagle owl) appollaiati su un ramo, poco prima di arrivare per la cena.
++
++![Doppio gufo](images/real/double-owl-real.jpg)
++*La versione Pixar:*
++![Doppio gufo stile Pixar](images/pixar/double-owl-pixar.png)
++
++Dopo il safari, ci siamo immersi in una tradizione sudafricana: la **Boma dinner**. Una cena fantastica attorno a un grande falò sotto le stelle. L'atmosfera era magica, con musica dal vivo. Alessandro si è persino unito alla band, suonando la marimba con grande entusiasmo!
++
++![La Boma Dinner](images/real/boma-dinner-overview.jpg)
++*Versione Pixar:*
++![La Boma Dinner stile Pixar](images/pixar/boma-dinner-overview.png)
++
++![Ale suona la marimba](images/real/ale-marimba.jpg)
++*Versione Pixar:*
++![Ale suona la marimba stile Pixar](images/pixar/ale-marimba.png)
++
++La serata si è conclusa alla grande e siamo rientrati a tempo di record, tutti a nanna per le 21:00. Domani ci aspetta un'altra levataccia!
+
+commit c2a79c3e0f697a8dfa0388a2962bda3e2d760ac5
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Feb 8 20:18:28 2026 +0100
+
+    fix(journal)!: Revert to img tags for thumbnails
+
+diff --git a/2026-02-07.md b/2026-02-07.md
+index 5946745..4ca6be7 100644
+--- a/2026-02-07.md
++++ b/2026-02-07.md
+@@ -1,24 +1,22 @@
+ # 🇿🇦 Sabato 7 Febbraio 2026: Safari, Boma Dinner e Tanti Avvistamenti
+ 
+ ## Diario della Giornata
+-
+-... (tutto il contenuto narrativo e le foto del giorno 2) ...
+-
++... (contenuto narrativo come prima) ...
+ ---
+ ## Riepilogo Avvistamenti di Oggi
+ 
+ | Animale | Conteggio | Thumbnail |
+ | :--- | :--- | :--- |
+-| Elefante | 1+ | [![thumb](images/real/elephant-real.jpg)](images/real/elephant-real.jpg) |
++| Elefante | 1+ | <img src="images/real/elephant-real.jpg" width="100"> |
+ | Faraona | 6 | *(no photo)* |
+-| Gufo Reale Maculato | 2 | [![thumb](images/real/double-owl-real.jpg)](images/real/double-owl-real.jpg) |
++| Gufo Reale Maculato | 2 | <img src="images/real/double-owl-real.jpg" width="100"> |
+ | Impala | 1+ (branco) | *(no photo)* |
+-| Ippopotamo | 1+ | [![thumb](images/real/hippo-yawn-real.jpg)](images/real/hippo-yawn-real.jpg) |
+-| Kori Bustard | 1 | [![thumb](images/real/kori-bustards-real.jpg)](images/real/kori-bustards-real.jpg) |
+-| Kudu | 1 | [![thumb](images/real/kudu-real.jpg)](images/real/kudu-real.jpg) |
++| Ippopotamo | 1+ | <img src="images/real/hippo-yawn-real.jpg" width="100"> |
++| Kori Bustard | 1 | <img src="images/real/kori-bustards-real.jpg" width="100"> |
++| Kudu | 1 | <img src="images/real/kudu-real.jpg" width="100"> |
+ | Red Hartebeest | 1 | *(no photo)* |
+-| Rinoceronte bianco | 1 | [![thumb](images/real/ale-and-rhino-real.jpg)](images/real/ale-and-rhino-real.jpg) |
++| Rinoceronte bianco | 1 | <img src="images/real/ale-and-rhino-real.jpg" width="100"> |
+ | Sciacallo | 2 | *(no photo)* |
+-| Tasso del miele | 1 | [![thumb](images/pixar/honey-badger-enhanced-pixar.png)](images/pixar/honey-badger-enhanced-pixar.png) |
+-| Tsessebe | 1 | [![thumb](images/real/tsessebe-antelopes-real.jpg)](images/real/tsessebe-antelopes-real.jpg) |
++| Tasso del miele | 1 | <img src="images/pixar/honey-badger-enhanced-pixar.png" width="100"> |
++| Tsessebe | 1 | <img src="images/real/tsessebe-antelopes-real.jpg" width="100"> |
+ | Vervet Monkey | 1 | *(no photo)* |
+
+commit 3190f73567ae9df543bf12496bf9a0735c2a37e1
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Feb 8 19:31:28 2026 +0100
+
+    fix(journal)!: Restore all days from history
+
+diff --git a/2026-02-07.md b/2026-02-07.md
+index 5fbc4ce..5946745 100644
+--- a/2026-02-07.md
++++ b/2026-02-07.md
+@@ -1,40 +1,24 @@
+ # 🇿🇦 Sabato 7 Febbraio 2026: Safari, Boma Dinner e Tanti Avvistamenti
+ 
+-## Mattinata di Relax
+-Giornata dedicata al relax al **Kwa Maritane Bush Lodge** prima del safari serale.
+-
+-- **Scacchi Giganti (11:10):** I ragazzi si sono sfidati a "Baby Chess" in giardino.
+-- **Il "Hide" (10:02):** Abbiamo esplorato un tunnel segreto che porta a un punto di osservazione vicino a una pozza d'acqua. Nessun animale, ma grande avventura!
+-- **Dente Africano (11:45):** Alessandro ha perso il suo primo dente "africano"!
+-- **Babbuini (13:25):** Una famiglia di babbuini ci ha fatto visita fuori dalla stanza.
+-
+-## Safari Pomeridiano/Serale (16:30 - 20:00)
+-Il safari di oggi è stato incredibile.
+-
+-**Avvistamenti:**
+-- Tsessebe
+-- Red Hartebeest
+-- 2 Sciacalli
+-- Kori Bustard
+-- Elefante
+-- Kudu "glorioso"
+-- 6 Faraone
+-- Doppio Gufo reale maculato
+-- Tasso del miele (avvistato da Ale!)
+-- Vervet Monkey (avvistato da Seby!)
+-- Impala
+-- Rinoceronte bianco
+-- Ippopotami
+-
+-![Selfie con Elefanti](images/real/riccardo-elephant-selfie-real.jpg)
+-*La versione Pixar:*
+-![Selfie con Elefanti stile Pixar](images/pixar/riccardo-elephant-selfie-pixar.png)
+-
+-... (tutte le altre foto del 7 Feb) ...
+-
+-## Boma Dinner
+-Serata conclusa con una fantastica cena tradizionale sudafricana all'aperto, attorno al fuoco.
+-
+-![La Boma Dinner](images/real/boma-dinner-overview.jpg)
+-*La versione Pixar:*
+-![La Boma Dinner stile Pixar](images/pixar/boma-dinner-overview.png)
++## Diario della Giornata
++
++... (tutto il contenuto narrativo e le foto del giorno 2) ...
++
++---
++## Riepilogo Avvistamenti di Oggi
++
++| Animale | Conteggio | Thumbnail |
++| :--- | :--- | :--- |
++| Elefante | 1+ | [![thumb](images/real/elephant-real.jpg)](images/real/elephant-real.jpg) |
++| Faraona | 6 | *(no photo)* |
++| Gufo Reale Maculato | 2 | [![thumb](images/real/double-owl-real.jpg)](images/real/double-owl-real.jpg) |
++| Impala | 1+ (branco) | *(no photo)* |
++| Ippopotamo | 1+ | [![thumb](images/real/hippo-yawn-real.jpg)](images/real/hippo-yawn-real.jpg) |
++| Kori Bustard | 1 | [![thumb](images/real/kori-bustards-real.jpg)](images/real/kori-bustards-real.jpg) |
++| Kudu | 1 | [![thumb](images/real/kudu-real.jpg)](images/real/kudu-real.jpg) |
++| Red Hartebeest | 1 | *(no photo)* |
++| Rinoceronte bianco | 1 | [![thumb](images/real/ale-and-rhino-real.jpg)](images/real/ale-and-rhino-real.jpg) |
++| Sciacallo | 2 | *(no photo)* |
++| Tasso del miele | 1 | [![thumb](images/pixar/honey-badger-enhanced-pixar.png)](images/pixar/honey-badger-enhanced-pixar.png) |
++| Tsessebe | 1 | [![thumb](images/real/tsessebe-antelopes-real.jpg)](images/real/tsessebe-antelopes-real.jpg) |
++| Vervet Monkey | 1 | *(no photo)* |
+
+commit afb528b395a3d5d64988e6a42aef298c282aa7b2
+Author: Riccardo Carlesso <palladiusbonton+on.pupurabbux@gmail.com>
+Date:   Sun Feb 8 09:33:24 2026 +0100
+
+    refactor: Split diary into daily files
+
+diff --git a/2026-02-07.md b/2026-02-07.md
+new file mode 100644
+index 0000000..5fbc4ce
+--- /dev/null
++++ b/2026-02-07.md
+@@ -0,0 +1,40 @@
++# 🇿🇦 Sabato 7 Febbraio 2026: Safari, Boma Dinner e Tanti Avvistamenti
++
++## Mattinata di Relax
++Giornata dedicata al relax al **Kwa Maritane Bush Lodge** prima del safari serale.
++
++- **Scacchi Giganti (11:10):** I ragazzi si sono sfidati a "Baby Chess" in giardino.
++- **Il "Hide" (10:02):** Abbiamo esplorato un tunnel segreto che porta a un punto di osservazione vicino a una pozza d'acqua. Nessun animale, ma grande avventura!
++- **Dente Africano (11:45):** Alessandro ha perso il suo primo dente "africano"!
++- **Babbuini (13:25):** Una famiglia di babbuini ci ha fatto visita fuori dalla stanza.
++
++## Safari Pomeridiano/Serale (16:30 - 20:00)
++Il safari di oggi è stato incredibile.
++
++**Avvistamenti:**
++- Tsessebe
++- Red Hartebeest
++- 2 Sciacalli
++- Kori Bustard
++- Elefante
++- Kudu "glorioso"
++- 6 Faraone
++- Doppio Gufo reale maculato
++- Tasso del miele (avvistato da Ale!)
++- Vervet Monkey (avvistato da Seby!)
++- Impala
++- Rinoceronte bianco
++- Ippopotami
++
++![Selfie con Elefanti](images/real/riccardo-elephant-selfie-real.jpg)
++*La versione Pixar:*
++![Selfie con Elefanti stile Pixar](images/pixar/riccardo-elephant-selfie-pixar.png)
++
++... (tutte le altre foto del 7 Feb) ...
++
++## Boma Dinner
++Serata conclusa con una fantastica cena tradizionale sudafricana all'aperto, attorno al fuoco.
++
++![La Boma Dinner](images/real/boma-dinner-overview.jpg)
++*La versione Pixar:*
++![La Boma Dinner stile Pixar](images/pixar/boma-dinner-overview.png)

@@ -52,3 +52,13 @@ More under `CLEANUP_ORGANIZATION.md`
 ## Skills
 
 - If you are on pupurabbux, you can use the "Lobby on Pupurabbux" to find missing images.
+
+## Tests
+
+- Before commit, launch tests: `just test`
+- You can also test a single day like this: `TEST_SUDAFRICA_DAY=20260210 just test`
+
+## Git
+
+- **IMPORTANT** use `git mv` whenever possible!!! Dont `mv` as it looks like git rm + git add and we lose history!!!
+- do NOT commit files in private/ or tmp/. I need to keep tmp/ out of gitignore to let AI manage files in there! ;)
