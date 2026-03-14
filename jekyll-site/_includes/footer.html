@@ -1,9 +1,10 @@
-<footer>
-  <div class="footer-content-wrapper" {% if site.footer-img %}style="background-image: url('{{ site.footer-img | relative_url }}');"{% endif %}>
-    <div class="container-md beautiful-jekyll-footer">
-      <div class="row">
-        <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+<footer class="site-footer" 
+  {% if site.footer-img %}style="--footer-bg: url('{{ site.footer-img | relative_url }}');"{% endif %}>
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         {% include social-networks-links.html %}
+        
         {% if page.footer-extra %}
           <div class="footer-custom-content">
             {% for file in page.footer-extra %}
@@ -11,40 +12,30 @@
             {% endfor %}
           </div>
         {% endif %}
+
         <p class="copyright">
-        {% if site.author %}
-          {{ site.author }}
+          {% if site.author %}{{ site.author }}{% endif %}
           &nbsp;&bull;&nbsp;
-        {% endif %}
-        {{ site.time | date: '%Y' }}
-
-        {% if site.url-pretty %}
-          &nbsp;&bull;&nbsp;
-          <span class="author-site">
-            <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-          </span>
-        {% endif %}
-
-        {% if site.matomo %}
-          {% if site.matomo.opt-out %}
+          {{ site.time | date: '%Y' }}
+          
+          {% if site.url-pretty %}
             &nbsp;&bull;&nbsp;
-            <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank">Do-not-Track</a>
+            <span class="footer-url">
+              <a href="{{ site.url }}">{{ site.url-pretty | remove: "https://" | remove: "http://" }}</a>
+            </span>
           {% endif %}
-        {% endif%}
 
-        {% if site.edit_page_button and site.github.repository_url %}
-          &nbsp;&bull;&nbsp;
-          <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}">Edit page</a>
-         {% endif%}
-
+          {% if site.edit_page_button and site.github.repository_url %}
+            &nbsp;&bull;&nbsp;
+            <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}">Edit page</a>
+          {% endif %}
         </p>
-        {% unless site.remove-ads %}<p class="theme-by">
-          Journal by
-          <a href="https://github.com/palladius/lobby-sudafrica-journal">Lobby & Riccardo</a>
-          &bull; Powered by
-          <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
-        </p>{% endunless %}
-        </div>
+
+        <p class="theme-by">
+          Journal by <a href="https://github.com/palladius/lobby-sudafrica-journal">Lobby & Riccardo</a>
+          &nbsp;&bull;&nbsp;
+          Powered by <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+        </p>
       </div>
     </div>
   </div>
