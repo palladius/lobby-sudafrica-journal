@@ -21,9 +21,10 @@ check:
 unit-tests:
     @ruby test/main.rb
 
-
+# Serve on port 4041 since 4000 is used also by NX.
 serve:
-    cd jekyll-site && bundle install && bundle exec jekyll serve
+    cd jekyll-site && bundle install && bundle exec jekyll serve --port 4041
+
 web:serve 
 
 push-cloudflare:
