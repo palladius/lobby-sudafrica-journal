@@ -60,3 +60,71 @@
   box-shadow: 0 4px 12px rgba(44, 122, 75, 0.4);
   color: #fff !important;
 }
+
+/* Footer Image Slice (Integrated into footer) */
+footer {
+  margin-top: 5rem;
+  border-top: 5px solid #2c7a4b;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  background-color: #1a1a1a;
+  /* Dark base */
+}
+
+.footer-content-wrapper {
+  position: relative;
+  padding: 3rem 1rem 2.5rem 1rem;
+  color: white !important;
+  background-size: cover;
+  background-position: center 25%;
+  background-repeat: no-repeat;
+  text-align: center;
+  min-height: 120px;
+}
+
+/* Dark overlay for readability - ensuring it covers EVERYTHING */
+.footer-content-wrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7));
+  z-index: 1;
+}
+
+.footer-content-wrapper .container-md {
+  position: relative;
+  z-index: 2;
+}
+
+.footer-content-wrapper a {
+  color: #a5d6a7 !important;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.footer-content-wrapper a:hover {
+  color: #fff !important;
+  text-decoration: none;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+.footer-content-wrapper .copyright {
+  color: rgba(255, 255, 255, 0.9) !important;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-content-wrapper .theme-by {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.beautiful-jekyll-footer {
+  padding: 0 !important;
+}
