@@ -27,6 +27,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
+# Navigation bar links
+navbar-links:
+  "📖 Diario": "/diario/"
+  "About": "/about/"
+
+# Custom CSS
+site-css:
+  - "/assets/css/diary-nav.css"
+
 # Build settings
 theme: beautiful-jekyll-theme
 # remote_theme: LeNPaul/Millennial

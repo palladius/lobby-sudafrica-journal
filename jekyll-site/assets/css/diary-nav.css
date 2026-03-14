@@ -1,0 +1,62 @@
+/* Diary breadcrumb navigation */
+.diary-breadcrumb {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0 1.5rem 0;
+  background: linear-gradient(135deg, #f0f7f0, #e8f5e9);
+  border-radius: 8px;
+  border-left: 4px solid #2c7a4b;
+  font-size: 0.9rem;
+}
+
+.breadcrumb-link {
+  color: #2c7a4b;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+  color: #1b5e30;
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  color: #999;
+  font-weight: 300;
+  font-size: 1.1rem;
+}
+
+.breadcrumb-current {
+  color: #666;
+  font-weight: 400;
+}
+
+/* Back to diary button (bottom) */
+.diary-back-bottom {
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+}
+
+.btn-back-diary {
+  display: inline-block;
+  padding: 0.6rem 1.5rem;
+  background: linear-gradient(135deg, #2c7a4b, #3d9b63);
+  color: #fff !important;
+  border-radius: 25px;
+  text-decoration: none !important;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(44, 122, 75, 0.3);
+}
+
+.btn-back-diary:hover {
+  background: linear-gradient(135deg, #1b5e30, #2c7a4b);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(44, 122, 75, 0.4);
+  color: #fff !important;
+}
