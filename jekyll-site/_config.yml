@@ -29,8 +29,8 @@ github_username: jekyll
 
 # Navigation bar links
 navbar-links:
-  "📖 Diario": "/diario/"
-  "About": "/about/"
+  📖 Diario: "diario"
+  About: "about"
 
 # Custom CSS
 site-css:

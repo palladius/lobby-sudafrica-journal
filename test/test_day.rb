@@ -58,10 +58,18 @@ def run_tests_for_date(date)
 
       expected_real = "images/real/#{date_no_dash}/"
       expected_pixar = "images/pixar/#{date_no_dash}/"
+      expected_jekyll = "/assets/images/#{date_str}/"
+      expected_jekyll_rel = "assets/images/#{date_str}/"
       
-      if img_path.start_with?(expected_real) || img_path.start_with?(expected_pixar)
+      if img_path.start_with?(expected_real) || img_path.start_with?(expected_pixar) || img_path.start_with?(expected_jekyll) || img_path.start_with?(expected_jekyll_rel)
         # also check if the file actually exists
-        full_img_path = File.join(DIR, img_path)
+        img_path_rel = img_path.sub(/\A\//, '')
+        if img_path_rel.start_with?('assets/')
+          full_img_path = File.join(DIR, 'jekyll-site', img_path_rel)
+        else
+          full_img_path = File.join(DIR, img_path_rel)
+        end
+        
         if File.exist?(full_img_path)
           # ok
         else
