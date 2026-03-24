@@ -3,7 +3,7 @@ layout: post
 title: "✈️ Mercoledì 25 Febbraio 2026: Viaggio di Ritorno e Riflessioni Finali"
 date: 2026-02-25 04:00:00 +0200
 categories: diario
-cover-img: /assets/images/2026-02-25/2026-02-25-07-30-25-legroom-of-the-gods-moro.png
+cover-img: /assets/images/2026-02-25/2026-02-25-23-00-55-kids-sleeping-pixar.png
 thumbnail-img: /assets/images/2026-02-25/2026-02-25-05-48-00-gate-a3-selfie.jpg
 ---
 
