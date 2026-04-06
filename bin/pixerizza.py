@@ -3,6 +3,8 @@
 # requires-python = ">=3.11"
 # dependencies = [
 #     "google-genai",
+#     "python-dotenv",
+#     "pillow"
 # ]
 # ///
 import os

@@ -65,7 +65,7 @@ Finita la pausa pranzo, la famiglia sale in macchina per raggiungere un belveder
 
 Il punto panoramico è anche dotato di una iconica cornice gialla, un invito a "inquadrare" la Table Mountain e Lion's Head in una foto ricordo perfetta.
 
-{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" caption="In Cornice sulla Table Mountain" %}
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-49-08-table-mountain-frame-pixar.png" caption="In Cornice sulla Table Mountain" %}
 
 ### Capitolo 6: Meritata Piscina
 
