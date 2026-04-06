@@ -1,0 +1,23 @@
+On branch master                                                                      
+Your branch is up to date with 'origin/master'.                                       
+                                                                                      
+Changes not staged for commit:                                                        
+  (use "git add <file>..." to update what will be committed)                          
+  (use "git restore <file>..." to discard changes in working directory)               
+        modified:   ../../../bin/pixerizza.py                                         
+        modified:   ../../../jekyll-site/_posts/2026-02-21-colori-panorami-e-una-lezio
+ne-di-vita.md                                                                         
+        modified:   ../../../jekyll-site/assets/images/2026-02-21/museum-ale-dinosauro
+-pixar.png                                                                            
+        modified:   ../../../jekyll-site/assets/images/2026-02-21/museum-papino-elefan
+te-pixar.png                                                                          
+        modified:   ../../../jekyll-site/assets/images/2026-02-21/museum-seby-dinosaur
+o-pixar.png                                                                           
+                                                                                      
+Untracked files:                                                                      
+  (use "git add <file>..." to include in what will be committed)                      
+        watch_20260406-085245                                                         
+        watch_20260406-085934                                                         
+        watch_20260406-085949                                                         
+        ../../../jekyll-site/assets/images/2026-02-21/cena-kate-bimbi-pixar.png       
+        ../../../jekyll-site/assets/images/2026-02-21/cena-kate-bimbi.png             
