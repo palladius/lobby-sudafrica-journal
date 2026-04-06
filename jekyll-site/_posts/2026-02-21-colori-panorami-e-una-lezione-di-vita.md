@@ -29,17 +29,7 @@ Dopo colazione, la giornata prosegue con una visita a Bo-Kaap, il celebre quarti
 
 {% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-40-28-bo-kaap-street-art.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-40-38-bo-kaap-street-art-pixar.png" caption="Arte di Strada a Cape Town" %}
 
-### Capitolo 3: In Cima al Belvedere
-
-Finita la visita a Bo-Kaap, la famiglia sale in macchina per raggiungere un belvedere mozzafiato, una terrazza panoramica sulla collina di fianco a Lion's Head. Mentre in auto risuona una canzone composta da Gemini, che celebra i bambini come eroi bevitori di limonata, Riccardo riesce a "strappare" due foto a sua moglie, che soffre di vertigini ma non si tira indietro.
-
-{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-48-09-belvedere-selfie-pixar.png" caption="Selfie di Famiglia sul Belvedere" %}
-
-Il punto panoramico è anche dotato di una iconica cornice gialla, un invito a "inquadrare" la Table Mountain e Lion's Head in una foto ricordo perfetta.
-
-{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-49-08-table-mountain-frame-pixar.png" caption="In Cornice sulla Table Mountain" %}
-
-### Capitolo 4: Dagli Squali agli Scoiattoli
+### Capitolo 3: Dagli Squali agli Scoiattoli
 
 Più tardi, la giornata riprende con una passeggiata verso il Museo di Storia Naturale, un paradiso per i bambini (e non solo) con le sue esposizioni di squali, balene e ogni sorta di animale. 
 
@@ -56,6 +46,16 @@ L'uscita dal museo porta la famiglia nei giardini circostanti, un'oasi di pace d
 {% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-43-31-squirrel-closeup.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-43-43-squirrel-closeup-pixar.png" caption="Scoiattolo Curioso" %}
 
 {% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-44-32-park-tree.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-44-42-park-tree-pixar.png" caption="Avventura sull'Albero" %}
+
+### Capitolo 4: In Cima al Belvedere
+
+Finita la visita a Bo-Kaap e al museo, la famiglia sale in macchina per raggiungere un belvedere mozzafiato, una terrazza panoramica sulla collina di fianco a Lion's Head. Mentre in auto risuona una canzone composta da Gemini, che celebra i bambini come eroi bevitori di limonata, Riccardo riesce a "strappare" due foto a sua moglie, che soffre di vertigini ma non si tira indietro.
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-48-09-belvedere-selfie-pixar.png" caption="Selfie di Famiglia sul Belvedere" %}
+
+Il punto panoramico è anche dotato di una iconica cornice gialla, un invito a "inquadrare" la Table Mountain e Lion's Head in una foto ricordo perfetta.
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" caption="In Cornice sulla Table Mountain" %}
 
 ### Capitolo 5: Il Pranzo della Discordia (e della Generosità)
 
