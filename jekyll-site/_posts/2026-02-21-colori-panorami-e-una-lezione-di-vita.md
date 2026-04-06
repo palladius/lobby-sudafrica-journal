@@ -13,45 +13,41 @@ thumbnail-img: /assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jp
 
 ### Capitolo 1: Colazione in Famiglia a Camps Bay
 
-La giornata di sabato inizia con una colazione tranquilla a Camps Bay, con tutta la famiglia riunita.
+La giornata di sabato inizia con una colazione "alternativa" e tranquilla a Camps Bay, con tutta la famiglia riunita. Protagonista assoluto è Seby, ritratto in uno scatto epico mentre si gusta con gran soddisfazione... un bel piatto di farfalle al sugo avanzate dal giorno prima! La vera colazione dei campioni per affrontare l'avventura.
 
-*(Attendo foto e dettagli...)*
+![Seby mangia la pasta](/assets/images/2026-02-21/seby-pasta-colazione.jpg)
 
 ### Capitolo 2: Bo-Kaap, il Quartiere Arcobaleno
 
 Dopo colazione, la giornata prosegue con una visita a Bo-Kaap, il celebre quartiere di Cape Town famoso per le sue case dai colori vivaci. Una vera e propria esplosione di tinte accese, murales politici e un'atmosfera unica.
 
-![La Famiglia tra i Colori di Bo-Kaap](/assets/images/2026-02-21/2026-02-25-11-36-24-bo-kaap-mural.jpg)
-![Bo-Kaap - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-36-36-bo-kaap-mural-pixar.png)
-![La Casa Gialla](/assets/images/2026-02-21/2026-02-25-11-37-18-bo-kaap-yellow-house.jpg)
-![La Casa Gialla - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-37-31-bo-kaap-yellow-house-pixar.png)
-![Foto di Famiglia a Bo-Kaap](/assets/images/2026-02-21/2026-02-25-11-38-47-bo-kaap-green-wall.jpg)
-![La Famiglia Arcobaleno - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-38-56-bo-kaap-green-wall-pixar.png)
-![Arte di Strada a Cape Town](/assets/images/2026-02-21/2026-02-25-11-40-28-bo-kaap-street-art.jpg)
-![Un Tuffo nell'Arte - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-40-38-bo-kaap-street-art-pixar.png)
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-36-24-bo-kaap-mural.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-36-36-bo-kaap-mural-pixar.png" caption="La Famiglia tra i Colori di Bo-Kaap" %}
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-37-18-bo-kaap-yellow-house.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-37-31-bo-kaap-yellow-house-pixar.png" caption="La Casa Gialla" %}
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-38-47-bo-kaap-green-wall.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-38-56-bo-kaap-green-wall-pixar.png" caption="Foto di Famiglia a Bo-Kaap" %}
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-40-28-bo-kaap-street-art.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-40-38-bo-kaap-street-art-pixar.png" caption="Arte di Strada a Cape Town" %}
 
 ### Capitolo 3: In Cima al Belvedere
 
 Finita la visita a Bo-Kaap, la famiglia sale in macchina per raggiungere un belvedere mozzafiato, una terrazza panoramica sulla collina di fianco a Lion's Head. Mentre in auto risuona una canzone composta da Gemini, che celebra i bambini come eroi bevitori di limonata, Riccardo riesce a "strappare" due foto a sua moglie, che soffre di vertigini ma non si tira indietro.
 
-![Selfie di Famiglia sul Belvedere](/assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jpg)
-![Vista Panoramica - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-48-09-belvedere-selfie-pixar.png)
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-48-09-belvedere-selfie-pixar.png" caption="Selfie di Famiglia sul Belvedere" %}
 
 Il punto panoramico è anche dotato di una iconica cornice gialla, un invito a "inquadrare" la Table Mountain e Lion's Head in una foto ricordo perfetta.
 
-![In Cornice sulla Table Mountain](/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg)
-![Il Quadro Perfetto - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-49-08-table-mountain-frame-pixar.png)
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-49-08-table-mountain-frame-pixar.png" caption="In Cornice sulla Table Mountain" %}
 
 ### Capitolo 4: Dagli Squali agli Scoiattoli
 
 Più tardi, la giornata riprende con una passeggiata verso il Museo di Storia Naturale, un paradiso per i bambini (e non solo) con le sue esposizioni di squali, balene e ogni sorta di animale. L'uscita dal museo porta la famiglia nei giardini circostanti, un'oasi di pace dove l'attrazione principale diventano i numerosi scoiattoli che si avvicinano senza paura, per la gioia dei più piccoli.
 
-![Incontro con uno Scoiattolo](/assets/images/2026-02-21/2026-02-25-11-41-32-squirrel-encounter.jpg)
-![Un Nuovo Amico - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-41-44-squirrel-encounter-pixar.png)
-![Scoiattolo Curioso](/assets/images/2026-02-21/2026-02-25-11-43-31-squirrel-closeup.jpg)
-![Un Tuffo nella Natura - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-43-43-squirrel-closeup-pixar.png)
-![Avventura sull'Albero](/assets/images/2026-02-21/2026-02-25-11-44-32-park-tree.jpg)
-![Esploratori in Erba - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-44-42-park-tree-pixar.png)
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-41-32-squirrel-encounter.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-41-44-squirrel-encounter-pixar.png" caption="Incontro con uno Scoiattolo" %}
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-43-31-squirrel-closeup.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-43-43-squirrel-closeup-pixar.png" caption="Scoiattolo Curioso" %}
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-44-32-park-tree.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-44-42-park-tree-pixar.png" caption="Avventura sull'Albero" %}
 
 ### Capitolo 5: Il Pranzo della Discordia (e della Generosità)
 
@@ -65,8 +61,7 @@ Ma qui la storia cambia di nuovo. Fuori dal ristorante, una famiglia di senzatet
 
 Dopo le emozioni del centro e del belvedere, il pomeriggio prosegue con un tuffo rinfrescante nella piscina di casa, con la vista di Lion's Head che fa da sfondo anche al relax.
 
-![Piscina con Vista](/assets/images/2026-02-21/2026-02-25-11-49-53-pool-time.jpg)
-![Un Tuffo tra le Montagne - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-50-03-pool-time-pixar.png)
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-49-53-pool-time.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-50-03-pool-time-pixar.png" caption="Piscina con Vista" %}
 
 ### Epilogo: Ultima Serata a Camps Bay
 
@@ -80,5 +75,4 @@ La cena è da **Codfather**, un ristorante iconico e famosissimo di Camps Bay, p
 
 Grazie al gesto di generosità che ha "liberato" la cena di scorta (il pollo e riso), la famiglia può anche godersi la tanto desiderata serata sushi. Una conclusione perfetta per una giornata di forti contrasti.
 
-![La Cena Sushi](/assets/images/2026-02-21/2026-02-25-11-45-44-sushi-dinner.jpg)
-![Il Lieto Fine - Versione Pixar](/assets/images/2026-02-21/2026-02-25-11-45-53-sushi-dinner-pixar.png)
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-45-44-sushi-dinner.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-45-53-sushi-dinner-pixar.png" caption="La Cena Sushi" %}

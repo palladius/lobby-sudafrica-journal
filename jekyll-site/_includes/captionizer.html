@@ -1,33 +1,25 @@
-<div class="captionizer">
-  <div class="image1" style="text-align: center">
-    <img
-      src="{{ include.image1 }}"
-      alt="Image 1"
-      style="max-width: 100%; height: auto"
-    />
+<style>
+  .img-front { display: block; }
+  .img-back { display: none; }
+  .show-original .img-front { display: none; }
+  .show-original .img-back { display: block; }
+  .image-toggle { transition: transform 0.2s ease; }
+  .image-toggle:hover { transform: scale(1.01); }
+</style>
+<div class="captionizer" style="text-align: center; margin-bottom: 2rem;">
+  {% assign img1 = include.pixar | default: include.image1 %}
+  {% assign img2 = include.original | default: include.image2 %}
+  
+  <div class="image-toggle" style="cursor: pointer; display: inline-block; position: relative;" onclick="this.classList.toggle('show-original')">
+    <img src="{{ img1 }}" alt="Pixar Version" class="img-front img-fluid" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src="{{ img2 }}" alt="Original Version" class="img-back img-fluid" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    
+    <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; pointer-events: none; opacity: 0.8;">
+      🔄 Clicca per cambiare
+    </div>
   </div>
-  <p
-    class="caption"
-    style="
-      font-size: 0.9em;
-      color: #555;
-      text-align: center;
-      margin-top: 0.5rem;
-    "
-  >
+  
+  <p class="caption" style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 0.8rem;">
     {{ include.caption }}
   </p>
-  <div class="image2" style="text-align: center; margin-top: 1rem">
-    {% if include.hover %}
-    <a href="{{ include.image2 }}" class="hover-image" title="Hover to preview">
-      <img
-        src="{{ include.image2 }}"
-        alt="Image 2"
-        style="max-width: 100%; height: auto; opacity: 0.8"
-      />
-    </a>
-    {% else %}
-    <a href="{{ include.image2 }}">Link to second image</a>
-    {% endif %}
-  </div>
 </div>
