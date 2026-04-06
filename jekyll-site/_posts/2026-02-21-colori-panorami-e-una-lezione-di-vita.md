@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🌈 Sabato 21 Febbraio 2026: Colori, Panorami e una Lezione di Vita"
+title: "🌈 Sabato 21 Febbraio 2026: Bo-Kaap, Musei, Panorami: ultimo giorno a Cape Town"
 date: 2026-02-21 09:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-21/2026-02-25-11-36-36-bo-kaap-mural-pixar.png
@@ -31,7 +31,7 @@ Dopo colazione, la giornata prosegue con una visita a Bo-Kaap, il celebre quarti
 
 ### Capitolo 3: Dagli Squali agli Scoiattoli
 
-Più tardi, la giornata riprende con una passeggiata verso il Museo di Storia Naturale, un paradiso per i bambini (e non solo) con le sue esposizioni di squali, balene e ogni sorta di animale. 
+Più tardi, la giornata riprende con una passeggiata verso il Museo di Storia Naturale, un paradiso per i bambini (e non solo) con le sue esposizioni di squali, balene e ogni sorta di animale.
 
 {% include captionizer.html original="/assets/images/2026-02-21/museum-seby-dinosauro.png" pixar="/assets/images/2026-02-21/museum-seby-dinosauro-pixar.png" caption="Seby a bocca aperta davanti al gigantesco dinosauro" %}
 
@@ -47,23 +47,25 @@ L'uscita dal museo porta la famiglia nei giardini circostanti, un'oasi di pace d
 
 {% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-44-32-park-tree.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-44-42-park-tree-pixar.png" caption="Avventura sull'Albero" %}
 
-### Capitolo 4: In Cima al Belvedere
+### Capitolo 4: Il Pranzo della Discordia (e della Generosità)
 
-Finita la visita a Bo-Kaap e al museo, la famiglia sale in macchina per raggiungere un belvedere mozzafiato, una terrazza panoramica sulla collina di fianco a Lion's Head. Mentre in auto risuona una canzone composta da Gemini, che celebra i bambini come eroi bevitori di limonata, Riccardo riesce a "strappare" due foto a sua moglie, che soffre di vertigini ma non si tira indietro.
+La giornata prende una piega inaspettata al momento del pranzo. La destinazione è un ristorante meraviglioso, un posto speciale dove Riccardo era già stato sei anni prima e che non vedeva l'ora di condividere con la sua famiglia.
+
+{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-45-44-sushi-dinner.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-45-53-sushi-dinner-pixar.png" caption="Il Pranzo della Discordia!" %}
+
+Ma i piani e i ricordi a volte si scontrano con la realtà. I bambini, poco affamati, e un litigio su cosa ordinare, trasformano un pranzo tanto atteso in un'esperienza frustrante. La magia del 2019 lascia il posto alla delusione del 2026. Il riso e pollo, ordinato per i bambini e non mangiato, viene impacchettato per essere portato via.
+
+Ma qui la storia cambia di nuovo. Fuori dal ristorante, una famiglia di senzatetto chiede aiuto. In un gesto di spontanea generosità, Kate decide di regalare loro il pollo e riso appena impacchettato. Vedere la gioia e la gratitudine di quelle persone, che mangiano con gusto un pasto che per loro è un lusso, trasforma un momento di frustrazione in una lezione toccante per tutti.
+
+### Capitolo 5: In Cima al Belvedere
+
+Finita la pausa pranzo, la famiglia sale in macchina per raggiungere un belvedere mozzafiato, una terrazza panoramica sulla collina di fianco a Lion's Head. Mentre in auto risuona una canzone composta da Gemini, che celebra i bambini come eroi bevitori di limonata, Riccardo riesce a "strappare" due foto a sua moglie, che soffre di vertigini ma non si tira indietro.
 
 {% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-48-09-belvedere-selfie-pixar.png" caption="Selfie di Famiglia sul Belvedere" %}
 
 Il punto panoramico è anche dotato di una iconica cornice gialla, un invito a "inquadrare" la Table Mountain e Lion's Head in una foto ricordo perfetta.
 
 {% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-48-55-table-mountain-frame.jpg" caption="In Cornice sulla Table Mountain" %}
-
-### Capitolo 5: Il Pranzo della Discordia (e della Generosità)
-
-La giornata prende una piega inaspettata al momento del pranzo. La destinazione è un ristorante meraviglioso, un posto speciale dove Riccardo era già stato sei anni prima e che non vedeva l'ora di condividere con la sua famiglia.
-
-Ma i piani e i ricordi a volte si scontrano con la realtà. I bambini, poco affamati, e un litigio su cosa ordinare, trasformano un pranzo tanto atteso in un'esperienza frustrante. La magia del 2019 lascia il posto alla delusione del 2026. Il riso e pollo, ordinato per i bambini e non mangiato, viene impacchettato per essere portato via.
-
-Ma qui la storia cambia di nuovo. Fuori dal ristorante, una famiglia di senzatetto chiede aiuto. In un gesto di spontanea generosità, Kate decide di regalare loro il pollo e riso appena impacchettato. Vedere la gioia e la gratitudine di quelle persone, che mangiano con gusto un pasto che per loro è un lusso, trasforma un momento di frustrazione in una lezione toccante per tutti.
 
 ### Capitolo 6: Meritata Piscina
 
@@ -75,12 +77,10 @@ Dopo le emozioni del centro e del belvedere, il pomeriggio prosegue con un tuffo
 
 La giornata si conclude con un tocco di nostalgia e un lieto fine. Per l'ultima serata a Camps Bay, la famiglia scende a piedi verso il lungomare, godendosi il panorama del tramonto.
 
-*(...immagini del tramonto da inserire...)*
+{% include captionizer.html original="/assets/images/2026-02-21/vista-camps-bay.png" pixar="/assets/images/2026-02-21/vista-camps-bay-pixar.png" caption="L'ultima splendida vista del tramonto su Camps Bay" %}
 
 La cena è da **Codfather**, un ristorante iconico e famosissimo di Camps Bay, per un'ultima, indimenticabile scorpacciata di pesce.
 
-*(...immagini della cena da inserire...)*
+{% include captionizer.html original="/assets/images/2026-02-21/cena-kate-bimbi.png" pixar="/assets/images/2026-02-21/cena-kate-bimbi-pixar.png" caption="L'ultima indimenticabile Cena in famiglia da Codfather!" %}
 
-Grazie al gesto di generosità che ha "liberato" la cena di scorta (il pollo e riso), la famiglia può anche godersi la tanto desiderata serata sushi. Una conclusione perfetta per una giornata di forti contrasti.
-
-{% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-45-44-sushi-dinner.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-45-53-sushi-dinner-pixar.png" caption="La Cena Sushi" %}
+Grazie al gesto di generosità che ha "liberato" la cena di scorta (il pollo e riso), la famiglia può anche godersi la tanto desiderata scorpacciata di pesce fresco. Una conclusione perfetta per una giornata di forti contrasti.

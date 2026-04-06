@@ -1,4 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#     "google-genai",
+# ]
+# ///
 import os
 import sys
 import argparse
@@ -9,7 +15,7 @@ def main():
     parser = argparse.ArgumentParser(description="Cartoonizza un'immagine in stile 3D Pixar usando Gemini.")
     parser.add_argument("input_image", help="Percorso dell'immagine di input (es. foto.jpg)")
     parser.add_argument("output_image", nargs="?", help="Percorso dell'immagine di output (opzionale)")
-    parser.add_argument("--prompt", default="Cartoonifica accuratamente la seguente foto rielaborandola in uno stile 3D Pixar. Mantieni esattamente la composizione dell'immagine, le pose, le espressioni, i colori generali e l'ambientazione, ma falli sembrare personaggi di un film d'animazione Pixar.", help="Prompt personalizzato")
+    parser.add_argument("--prompt", default="Accurately cartoonize the following photo by reimagining it in a 3D Pixar animation style. Keep the exact composition of the image, the poses, the expressions, the general colors, and the environment perfectly intact, but make them look like characters from a Pixar animated movie.", help="Prompt personalizzato")
     args = parser.parse_args()
 
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -33,7 +39,7 @@ def main():
     print(f"Uploading '{input_path}'...")
     uploaded_file = client.files.upload(file=input_path)
 
-    print(f"Pixerizzando usando il prompt: '{args.prompt}'...")
+    print(f"Pixerizzando usando il prompt:\n'{args.prompt}'...")
     
     # Configurazione della generazione immagine
     response = client.models.generate_content(
