@@ -15,7 +15,7 @@ thumbnail-img: /assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jp
 
 La giornata di sabato inizia con una colazione "alternativa" e tranquilla a Camps Bay, con tutta la famiglia riunita. Protagonista assoluto è Seby, ritratto in uno scatto epico mentre si gusta con gran soddisfazione... un bel piatto di farfalle al sugo avanzate dal giorno prima! La vera colazione dei campioni per affrontare l'avventura.
 
-![Seby mangia la pasta](/assets/images/2026-02-21/seby-pasta-colazione.jpg)
+![Seby mangia la pasta](/assets/images/2026-02-21/seby-pasta-colazione.png)
 
 ### Capitolo 2: Bo-Kaap, il Quartiere Arcobaleno
 
