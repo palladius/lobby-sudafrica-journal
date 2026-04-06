@@ -131,3 +131,109 @@ footer.site-footer a:hover {
 
 /* Remove any theme pseudo-elements that might blink or strip */
 footer::after { display: none !important; }
+
+/* Day Navigator Cards */
+.day-navigator {
+  display: flex;
+  gap: 15px;
+  margin: 1.5rem 0 2rem 0;
+  width: 100%;
+}
+
+.day-navigator .nav-card {
+  flex: 1;
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+  height: 140px; /* Keep it landscape as requested */
+  background-size: cover;
+  background-position: center;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.day-navigator .nav-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+.day-navigator .nav-card.empty-card {
+  background: transparent;
+  box-shadow: none;
+  border: 2px dashed #e0e0e0;
+}
+
+.day-navigator .nav-card-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.day-navigator .nav-card-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.45);
+  transition: background 0.3s ease;
+}
+
+.day-navigator .nav-card:hover .nav-card-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.day-navigator .nav-card-content {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.2rem;
+  z-index: 2;
+  color: #fff;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.7);
+}
+
+.day-navigator .prev-card .nav-card-content {
+  align-items: flex-start;
+  text-align: left;
+}
+
+.day-navigator .next-card .nav-card-content {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.day-navigator .nav-icon {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+  color: #a5d6a7; /* Light green subtle accent */
+}
+
+.day-navigator h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #fff !important;
+  /* limit to 2 lines */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  border: none;
+  padding-bottom: 0;
+}
+
+@media (max-width: 576px) {
+  .day-navigator {
+    flex-direction: column;
+  }
+  .day-navigator .nav-card {
+    height: 110px;
+  }
+}

@@ -51,7 +51,8 @@ More under `CLEANUP_ORGANIZATION.md`
 
 ## Skills
 
-- If you are on pupurabbux, you can use the "Lobby on Pupurabbux" to find missing images.
+- If you are on pupurabbux or `mini-lobby`, you can use the "Lobby on Pupurabbux" skill to find missing images.
+- use `bin/pixerizza.py` to pixerize original pictures moved from Google Photos.
 
 ## Tests
 
