@@ -9,7 +9,6 @@ thumbnail-img: /assets/images/2026-02-22/2026-02-25-10-41-18-babylonstoren-serra
 
 # 22 Febbraio 2026: Addii, Consigli e la Magia di Babylonstoren
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-22)
 
 ### Capitolo 1: Sveglia all'Alba e Saluti in Aeroporto
 

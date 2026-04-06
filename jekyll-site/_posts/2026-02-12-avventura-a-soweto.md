@@ -9,7 +9,6 @@ thumbnail-img: /assets/images/2026-02-12/2026-02-25-19-07-40-sebi-and-tuktuk.jpg
 
 # 12 Febbraio 2026: Avventura a Soweto
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-12)
 
 La giornata di oggi è dedicata alla scoperta di Soweto. Si inizia con una colazione vicino all'albergo, per poi prendere un taxi verso la township e iniziare un tour in tuk-tuk organizzato da Kate, con base di partenza da **Lebo's Soweto**.
 

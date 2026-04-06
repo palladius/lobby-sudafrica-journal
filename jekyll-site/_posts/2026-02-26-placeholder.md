@@ -6,7 +6,6 @@ categories: diario
 cover-img: /assets/images/2026-02-26/PXL_20260226_173216465.jpg
 thumbnail-img: /assets/images/2026-02-26/IMG_20260226_183601_768.jpg
 ---
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-26)
 
 # 26 Febbraio 2026
 

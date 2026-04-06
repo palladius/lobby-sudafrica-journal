@@ -84,6 +84,12 @@ cover-img: /assets/images/pixar/20260208/2026-02-08-lion-pride-recreation-pixar.
   font-style: italic;
   color: #777;
 }
+
+.review-badge {
+  font-size: 1.1rem;
+  margin-left: auto;
+  padding-left: 10px;
+}
 </style>
 
 <div class="diary-index">
@@ -107,6 +113,11 @@ Il diario del nostro incredibile viaggio in famiglia in Sudafrica 🇿🇦<br>
     <a href="{{ post.url | relative_url }}" class="diary-day {% if is_placeholder %}placeholder{% endif %}">
       <span class="day-date">{{ post.date | date: "%d/%m" }}</span>
       <span class="day-title">{{ post.title | strip_html }}</span>
+      {% if post.reviewed %}
+        <span class="review-badge" title="STAR reviewed by Riccardo">⭐</span>
+      {% else %}
+        <span class="review-badge" title="Da completare: Visualizza foto originali su Google Photos">🚧</span>
+      {% endif %}
     </a>
   {% endif %}
 {% endfor %}
@@ -126,6 +137,11 @@ Il diario del nostro incredibile viaggio in famiglia in Sudafrica 🇿🇦<br>
     <a href="{{ post.url | relative_url }}" class="diary-day {% if is_placeholder %}placeholder{% endif %}">
       <span class="day-date">{{ post.date | date: "%d/%m" }}</span>
       <span class="day-title">{{ post.title | strip_html }}</span>
+      {% if post.reviewed %}
+        <span class="review-badge" title="STAR reviewed by Riccardo">⭐</span>
+      {% else %}
+        <span class="review-badge" title="Da completare: Visualizza foto originali su Google Photos">🚧</span>
+      {% endif %}
     </a>
   {% endif %}
 {% endfor %}
@@ -145,6 +161,11 @@ Il diario del nostro incredibile viaggio in famiglia in Sudafrica 🇿🇦<br>
     <a href="{{ post.url | relative_url }}" class="diary-day {% if is_placeholder %}placeholder{% endif %}">
       <span class="day-date">{{ post.date | date: "%d/%m" }}</span>
       <span class="day-title">{{ post.title | strip_html }}</span>
+      {% if post.reviewed %}
+        <span class="review-badge" title="STAR reviewed by Riccardo">⭐</span>
+      {% else %}
+        <span class="review-badge" title="Da completare: Visualizza foto originali su Google Photos">🚧</span>
+      {% endif %}
     </a>
   {% endif %}
 {% endfor %}
@@ -164,6 +185,11 @@ Il diario del nostro incredibile viaggio in famiglia in Sudafrica 🇿🇦<br>
     <a href="{{ post.url | relative_url }}" class="diary-day {% if is_placeholder %}placeholder{% endif %}">
       <span class="day-date">{{ post.date | date: "%d/%m" }}</span>
       <span class="day-title">{{ post.title | strip_html }}</span>
+      {% if post.reviewed %}
+        <span class="review-badge" title="STAR reviewed by Riccardo">⭐</span>
+      {% else %}
+        <span class="review-badge" title="Da completare: Visualizza foto originali su Google Photos">📸</span>
+      {% endif %}
     </a>
   {% endif %}
 {% endfor %}

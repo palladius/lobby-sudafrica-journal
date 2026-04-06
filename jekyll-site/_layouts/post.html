@@ -8,6 +8,39 @@ layout: base
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
 
+      <!-- 🧭 Top Day Navigator -->
+      <div class="day-navigator">
+        <!-- Previous Day Card -->
+        {% if page.previous.url %}
+        <div class="nav-card prev-card" {% if page.previous.cover-img %}style="background-image: url('{{ page.previous.cover-img | relative_url }}');"{% endif %}>
+          <a href="{{ page.previous.url | relative_url }}" class="nav-card-link">
+            <div class="nav-card-overlay"></div>
+            <div class="nav-card-content">
+              <div class="nav-icon">&larr; Giorno Precedente</div>
+              <h2>{{ page.previous.title | strip_html | truncatewords: 8 }}</h2>
+            </div>
+          </a>
+        </div>
+        {% else %}
+        <div class="nav-card empty-card"></div>
+        {% endif %}
+
+        <!-- Next Day Card -->
+        {% if page.next.url %}
+        <div class="nav-card next-card" {% if page.next.cover-img %}style="background-image: url('{{ page.next.cover-img | relative_url }}');"{% endif %}>
+          <a href="{{ page.next.url | relative_url }}" class="nav-card-link">
+            <div class="nav-card-overlay"></div>
+            <div class="nav-card-content">
+              <div class="nav-icon">Giorno Successivo &rarr;</div>
+              <h2>{{ page.next.title | strip_html | truncatewords: 8 }}</h2>
+            </div>
+          </a>
+        </div>
+        {% else %}
+        <div class="nav-card empty-card"></div>
+        {% endif %}
+      </div>
+
       <!-- 🏠 Back to Diary Navigation -->
       <nav class="diary-breadcrumb" aria-label="Breadcrumb">
         <a href="{{ '/' | relative_url }}" class="breadcrumb-link breadcrumb-home">
@@ -53,8 +86,56 @@ layout: base
         </div>
       {% endif %}
 
+      {% capture review_banner %}
+      <style>
+        .review-banner {
+          padding: 1rem;
+          border-radius: 8px;
+          margin-bottom: 2rem;
+          display: flex;
+          align-items: center;
+          gap: 1rem;
+          font-size: 1.1rem;
+        }
+        .review-success {
+          background-color: #e8f5e9;
+          border: 1px solid #c8e6c9;
+          color: #2e7d32;
+        }
+        .review-warning {
+          background-color: #fff3cd;
+          border: 1px solid #ffeeba;
+          color: #856404;
+        }
+        .review-icon {
+          font-size: 1.8rem;
+        }
+      </style>
+
+      {% if page.reviewed %}
+        <div class="review-banner review-success">
+          <div class="review-icon">⭐</div>
+          <div><strong>STAR reviewed by Riccardo</strong></div>
+        </div>
+      {% else %}
+        <div class="review-banner review-warning">
+          <div class="review-icon">🚧</div>
+          <div>
+            <strong>Da completare:</strong> <a href="https://photos.google.com/search/{{ page.date | date: '%Y-%m-%d' }}" target="_blank" style="color: inherit; text-decoration: underline;">Visualizza foto originali su Google Photos per il {{ page.date | date: "%-d %B %Y" }}</a><br>
+            <small>(Riccardo is supposed to pull pictures from the day and add to diario).</small>
+          </div>
+        </div>
+      {% endif %}
+      {% endcapture %}
+
       <article role="main" class="blog-post">
-        {{ content }}
+        {% assign banner_insert = "</h1>" | append: review_banner %}
+        {% if content contains '</h1>' %}
+          {{ content | replace_first: '</h1>', banner_insert }}
+        {% else %}
+          {{ review_banner }}
+          {{ content }}
+        {% endif %}
       </article>
 
       {% if page.tags.size > 0 %}

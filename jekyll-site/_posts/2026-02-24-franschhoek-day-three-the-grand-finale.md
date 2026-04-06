@@ -9,7 +9,6 @@ thumbnail-img: /assets/images/2026-02-24/1013-jordan-vineyards.png
 
 # 2026-02-24: Franschhoek, Day Three (The Grand Finale)
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-24)
 
 Ultimo giorno in Sudafrica. Dopo una colazione proteica a base di 6 uova e mango, la strategia per oggi è scalare le priorità partendo dal punto più lontano.
 

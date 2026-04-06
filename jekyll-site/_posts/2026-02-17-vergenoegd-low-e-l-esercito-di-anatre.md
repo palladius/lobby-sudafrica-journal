@@ -9,7 +9,6 @@ thumbnail-img: /assets/images/2026-02-17/facebook-screenshot-vergenoegd.jpg
 
 # 17 Febbraio 2026
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-17)
 
 ### Capitolo 1: Vergenoegd Löw e l'Esercito di Anatre
 

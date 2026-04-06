@@ -7,7 +7,6 @@ thumbnail-img: /assets/images/pixar/20260206/pixar_family_joburg_arrival.png
 cover-img: /assets/images/pixar/20260206/pixar_family_joburg_arrival.png
 ---
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-06)
 
 Il nostro viaggio entra nel vivo! Dopo il lungo volo, siamo finalmente atterrati a Johannesburg alle 09:50. L'accoglienza è stata calorosa e l'emozione di essere qui è palpabile. Alessandro e Sebi sono carichissimi, pronti per la loro prima avventura nella savana.
 

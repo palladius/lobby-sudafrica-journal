@@ -11,7 +11,6 @@ Oggi abbiamo lasciato Zurigo per iniziare il nostro avventuroso viaggio in Sudaf
 
 ## Diario della Giornata
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-05)
 
 ### I primi test con l'assistente "Lobby"
 

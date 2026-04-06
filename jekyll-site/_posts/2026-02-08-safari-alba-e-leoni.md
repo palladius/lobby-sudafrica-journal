@@ -7,7 +7,6 @@ thumbnail-img: /assets/images/pixar/20260208/2026-02-08-lion-pride-recreation-pi
 cover-img: /assets/images/pixar/20260208/2026-02-08-lion-pride-recreation-pixar.png
 ---
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-08)
 
 **Buona questa con git mv!**
 

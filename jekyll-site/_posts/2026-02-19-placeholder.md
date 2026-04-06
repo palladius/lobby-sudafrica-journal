@@ -9,7 +9,6 @@ thumbnail-img: /assets/images/pixar/20260210/francois_ranger_pixar_style_2026021
 
 # 19 Febbraio 2026
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-19)
 
 ### Capitolo 1: (TODO)
 

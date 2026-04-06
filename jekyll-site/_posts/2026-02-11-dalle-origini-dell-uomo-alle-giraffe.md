@@ -9,7 +9,6 @@ thumbnail-img: /assets/images/2026-02-11/2026-02-25-18-47-39-kids-feeding-giraff
 
 # 11 Febbraio 2026: Dalle Origini dell'Uomo alle Giraffe
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-11)
 
 ### Capitolo 1: Risveglio in Fattoria
 

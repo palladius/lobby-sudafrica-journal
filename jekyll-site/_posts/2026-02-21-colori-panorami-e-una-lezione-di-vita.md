@@ -5,11 +5,11 @@ date: 2026-02-21 09:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-21/2026-02-25-11-36-36-bo-kaap-mural-pixar.png
 thumbnail-img: /assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jpg
+reviewed: true
 ---
 
 # 21 Febbraio 2026: Colori, Panorami e una Lezione di Vita
 
-[📸 Visualizza foto originali su Google Photos](https://photos.google.com/search/2026-02-21)
 
 ### Capitolo 1: Colazione in Famiglia a Camps Bay
 
