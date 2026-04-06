@@ -97,11 +97,21 @@ Gli interni della manor house sono di un'eleganza d'altri tempi, con soffitti a 
 ![Spier Manor Interior](/assets/images/2026-02-24/1125-spier-manor-interior.png)
 ![Spier Tasting Setup](/assets/images/2026-02-24/1146-spier-tasting-setup.png)
 
+#### I Bianchi (Gamma 21 Gables & Creative Block)
+
+- **Creative Block 2** (18,00 €): Un blend composto per il 95% da Sauvignon Blanc e per il 5% da Semillon, studiato per aggiungere struttura e complessità.
+- **21 Gables Sauvignon Blanc** (21,95 €): Uve raccolte in tre momenti diversi per bilanciare acidità e zuccheri. Note di frutto della passione e litchi.
+- **21 Gables Chenin Blanc** (23,95 €, Award-winning): Da vigne del 1983. Note di albicocca, mandorle e un finale burroso di caramello salato.
+
 #### I Grandi Rossi
  
 La degustazione prosegue con i pesi massimi: i rossi della linea 21 Gables e il Creative Block 5. I calici si riempiono di sfumature rubino intense, mentre il panorama sul lago continua a incantare.
 
 ![Spier Red Wine Tasting](/assets/images/2026-02-24/1202-spier-red-tasting-v2.png)
+
+- **Creative Block 3:** Blend in stile Rodano (94% Shiraz, Mourvèdre, Viognier). Note di pepe nero e anice, ma con un'acidità molto marcata. Non il preferito di Riccardo.
+- **Creative Block 5:** Il preferito della sessione. Blend bordolese (Cabernet Sauvignon 46%, Merlot, Cab Franc, Malbec, Petit Verdot). Invecchiato 18 mesi in rovere, risulta morbido con un finale di cioccolato fondente. (Ho comprato una bottiglia da portare a casa per Andrea!)
+- **21 Gables Pinotage:** 100% Pinotage, invecchiato in tre tipi di legno (francese, americano, ungherese). Aromi di cannella, spezie e noci. Molto strutturato e "natalizio".
 
 ### La Guida e la Storia: Rhyna e i \"21 Gables\"
 
@@ -118,6 +128,10 @@ Il benvenuto è dato da un'insegna elegante immersa tra fiori viola e vigneti cu
 
 ![Asara Entrance](/assets/images/2026-02-24/1238-asara-entrance.png)
 
+### Il Sansibar e il Deli
+
+Seguendo i consigli del mio fidato assistente (io!), l'idea è di esplorare il famoso Gin Bar e magari fermarsi per un boccone veloce al Deli.
+
 ### La Scultura Alata
 La tenuta è disseminata di opere d'arte. La più impressionante finora è una scultura bronzea di una figura alata che domina il lago, con lo sfondo maestoso delle montagne che sembrano quasi incitarla al volo.
 
@@ -128,7 +142,7 @@ Non solo sculture all'aperto: la galleria d'arte interna di Asara ospita opere a
 ![Asara Art Gallery](/assets/images/2026-02-24/1353-asara-gallery.png)
 
 ### Pranzo Gourmet con Vista (e qualche delusione)
-Mi sono fermato per pranzo. Ho scelto il **\"BO-KAAP\" CEVICHE**: pesce crudo marinato al lime con zenzero e granadilla, accompagnato da un calice di bianco ghiacciato. 
+Seguendo i consigli del mio fidato assistente (io!), mi sono fermato per pranzo. Ho scelto il **\"BO-KAAP\" CEVICHE**: pesce crudo marinato al lime con zenzero e granadilla, accompagnato da un calice di bianco ghiacciato. 
 
 ![Asara Gourmet Lunch](/assets/images/2026-02-24/1305-asara-lunch.png)
 
@@ -172,6 +186,16 @@ Il verdetto sulla location è onesto: il tragitto in mezzo alle vigne è spettac
 
 ![Thelema Mountain Landscape](/assets/images/2026-02-24/1450-thelema-landscape.png)
 
+### La Leggenda di Thelema
+
+Il nome **Thelema** ha radici letterarie: deriva dall'abbazia utopica di Rabelais, il cui motto era *"Fai ciò che vuoi"*. La fenice di metallo è il simbolo di rinascita della famiglia Webb, che dal 1983 ha trasformato questa terra.
+
+---
+
+### Prossima Fermata: Bacco
+
+È ora di scendere dal passo. Destinazione: **Bacco**, per l'ultimo brindisi italiano.
+
 ---
 
 ## Tappa 5: Delaire Graff Estate
@@ -209,6 +233,18 @@ Julia decide di offrirmi una degustazione d'onore:
 
 ![I Re di Bacco](/assets/images/2026-02-24/1558-bacco-bottles.png)
 
+### Una Famiglia tra il Sudafrica e il Mondo
+
+Chiacchierando con Julia, scopro dettagli affascinanti sulla sua vita. Suo marito è uno chef internazionale di grande successo che trascorre gran parte dell'anno girando il mondo — dalla Florida all'Antartide — organizzando eventi e catering per centinaia di persone. Una dinamica di coppia interessante: lui un giramondo di successo, lei una donna forte e indipendente che gestisce magistralmente la realtà locale.
+
+### Diplomazia e Futuri Vigneti
+
+Parlando con Julia del futuro della tenuta, le suggerisco di valutare l'innesto di un po' di **Pinot Grigio** per creare un blend bianco più sofisticato. Julia sembra colpita dall'idea e promette di parlarne con la proprietà. Ci siamo scambiati i contatti WhatsApp per restare in touch.
+
+### Il Gran Finale
+
+Per coronare l'esperienza, Julia mi fa assaggiare il top di gamma della tenuta. Un vino incredibile che decido di acquistare subito per soli 20€: una vera cannonata per chiudere il viaggio.
+
 ### Architettura tra Passato e Futuro
 L'interno di Bacco è mozzafiato. Un grande atrio con le grandi stampe d'arte moderna che ritraggono il David.
 
@@ -219,13 +255,16 @@ Prima di rimettermi in macchina, percorro il lungo viale fiancheggiato dai cipre
 ![Viale dei Cipressi a Bacco](/assets/images/2026-02-24/1627-bacco-cypress-road-v2.png)
 
 ---
-**Ore 16:30:** La missione è compiuta. Con il cuore gonfio di orgoglio e una nuova connessione in Sudafrica, mi avvio verso casa. Basta wine tasting per oggi... abbiamo chiuso con il botto!
+**Ore 17:30:** La missione è compiuta. Con il cuore gonfio di orgoglio e una nuova connessione in Sudafrica, mi avvio verso casa. Basta wine tasting per oggi... abbiamo chiuso con il botto!
 
 ---
 
 ## Tappa 7: Serata a Casa e Pianificazione Rientro
 
-Dopo un'intensa giornata di scoperte, la missione si conclude nel modo più rilassante possibile: il rientro a casa, una cena tranquilla e un po' di meritato streaming su Netflix.
+Dopo un'intensa giornata di scoperte, la missione si dovrebbe concludere nel modo più rilassante possibile: il rientro a casa, una cena tranquilla e un po' di meritato streaming su Netflix.
+
+Sfortunatamente, mentre sono al telefono con mia moglie, mi arriva un messaggio laconico: "Il tuo volo di domani e' stato cancellato". Panico! Comincio a chiamare Swiss e mi dicono che non c'è posto prima di 3 giorni. Dannazione!
+Dopo qualche negoziazione, ottengo un volo via Parigi che allunga il viaggio di sole 3 ore. Non male! Saro' a casa domani sera a mezzanotte!
 
 ### Guardando a Casa
 Mentre fuori cala la sera su Franschhoek, inizio a pianificare il tragitto verso l'aeroporto di Cape Town per domani. Un'ora e dieci di strada tra le montagne che mi hanno ospitato in questi giorni. È tempo di bilanci e di preparare i bagagli, portando con sé il profumo dei vigneti.
