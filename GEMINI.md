@@ -34,7 +34,7 @@ Whenever you add images and you know there's original X and pixar version Y, add
 ## 🧪 Post-Trip Harmonization
 
 1. Ensure all dates/times are correct.
-2. Verify all image links in `.md` files. **NEW RULE**: Use the interactive toggle template: `{% include captionizer.html original="..." pixar="..." caption="..." %}` (do as in 21feb).
+2. Verify all image links in `.md` files. **NEW RULE**: Use the interactive toggle template: `{% include captionizer.html original="..." pixar="..." caption="..." %}` (do as in jekyll-site/\_posts/2026-02-21-colori-panorami-e-una-lezione-di-vita.md page which is perfect).
 3. Confirm all mappings exist in `banana_mapping.csv`.
 4. Use `git mv` to move files from `images/XXX` to `jekyll-site/assets/images/YYYY-MM-DD/`.
 
