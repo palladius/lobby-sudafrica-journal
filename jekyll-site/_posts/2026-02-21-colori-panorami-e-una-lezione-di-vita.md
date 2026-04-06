@@ -15,7 +15,7 @@ thumbnail-img: /assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jp
 
 La giornata di sabato inizia con una colazione "alternativa" e tranquilla a Camps Bay, con tutta la famiglia riunita. Protagonista assoluto è Seby, ritratto in uno scatto epico mentre si gusta con gran soddisfazione... un bel piatto di farfalle al sugo avanzate dal giorno prima! La vera colazione dei campioni per affrontare l'avventura.
 
-![Seby mangia la pasta](/assets/images/2026-02-21/seby-pasta-colazione.png)
+{% include captionizer.html original="/assets/images/2026-02-21/seby-pasta-colazione.png" pixar="/assets/images/2026-02-21/seby-pasta-colazione-pixar.png" caption="La colazione dei campioni: Seby e la pasta!" %}
 
 ### Capitolo 2: Bo-Kaap, il Quartiere Arcobaleno
 
@@ -41,7 +41,15 @@ Il punto panoramico è anche dotato di una iconica cornice gialla, un invito a "
 
 ### Capitolo 4: Dagli Squali agli Scoiattoli
 
-Più tardi, la giornata riprende con una passeggiata verso il Museo di Storia Naturale, un paradiso per i bambini (e non solo) con le sue esposizioni di squali, balene e ogni sorta di animale. L'uscita dal museo porta la famiglia nei giardini circostanti, un'oasi di pace dove l'attrazione principale diventano i numerosi scoiattoli che si avvicinano senza paura, per la gioia dei più piccoli.
+Più tardi, la giornata riprende con una passeggiata verso il Museo di Storia Naturale, un paradiso per i bambini (e non solo) con le sue esposizioni di squali, balene e ogni sorta di animale. 
+
+{% include captionizer.html original="/assets/images/2026-02-21/museum-seby-dinosauro.png" pixar="/assets/images/2026-02-21/museum-seby-dinosauro-pixar.png" caption="Seby a bocca aperta davanti al gigantesco dinosauro" %}
+
+{% include captionizer.html original="/assets/images/2026-02-21/museum-ale-dinosauro.png" pixar="/assets/images/2026-02-21/museum-ale-dinosauro-pixar.png" caption="Ale a spasso col dinosauro!" %}
+
+{% include captionizer.html original="/assets/images/2026-02-21/museum-papino-elefante.png" pixar="/assets/images/2026-02-21/museum-papino-elefante-pixar.png" caption="Papino Riccardo ammirando l'elefante gigante" %}
+
+L'uscita dal museo porta la famiglia nei giardini circostanti, un'oasi di pace dove l'attrazione principale diventano i numerosi scoiattoli che si avvicinano senza paura, per la gioia dei più piccoli.
 
 {% include captionizer.html original="/assets/images/2026-02-21/2026-02-25-11-41-32-squirrel-encounter.jpg" pixar="/assets/images/2026-02-21/2026-02-25-11-41-44-squirrel-encounter-pixar.png" caption="Incontro con uno Scoiattolo" %}
 
