@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "🍷 Venerdì 13 Febbraio 2026: Franschhoek Wine Tram - Navy Line"
-date: 2026-02-13 08:45:00 +0200
+title: "🍷 Domenica 22 Febbraio 2026: Franschhoek Wine Tram - Navy Line"
+date: 2026-02-22 08:45:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-13/01-plaisir-tasting.png
 thumbnail-img: /assets/images/2026-02-13/01-plaisir-tasting.png
+review: false
 ---
 
-# 2026-02-13: Franschhoek Wine Tram - Navy Line
+> [!WARNING]
+> **TODO**: Merge this file with the main 22 Feb journal entry later. Altri agenti stanno lavorando sul day 22 al momento.
+
+# 2026-02-22: Franschhoek Wine Tram - Navy Line
 
 La giornata inizia presto con il treno delle 08:45 sulla **Navy Line**, sotto un cielo coperto che preannuncia una giornata interessante.
 
