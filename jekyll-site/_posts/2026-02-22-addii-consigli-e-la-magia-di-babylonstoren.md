@@ -130,4 +130,6 @@ Il tour si conclude con un'ultima fermata in bus a **Passerene**. L'ambiente è 
 
 La giornata si conclude con una nota comica e un po' amara. Un tentativo di rianimarsi con un caffè si trasforma in una piccola tragedia quando l'espresso corto richiesto si materializza in un caffè lunghissimo.
 
-Alla fine, stanco e sorpreso da una pioggia improvvisa, la decisione è presa: si chiama un Uber e si torna a casa. Un finale un po' umido per una domenica intensa, ricca di scoperte e sapori. Dopo tante avventure, è il momento del relax: un po' di Netflix per staccare la spina, seguito da una cena tranquilla in un ristorante locale.
+Alla fine la giornata si chiude sotto una leggera pioggia. Stanco ma soddisfatto per aver completato l'itinerario (in totale ben **7 tappe**!), decido di non aspettare l'ultimo bus e chiamo un Uber per tornare a casa. 
+
+Un finale un po' umido per una domenica intensa, ricca di scoperte e sapori. Dopo tante avventure, è il momento del relax: un po' di Netflix per staccare la spina, seguito da una cena tranquilla in un ristorante locale.

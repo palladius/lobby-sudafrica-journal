@@ -4,3 +4,5 @@ dupes.txt
 .md5z.duplicates
 .md5z.list.riccardo
 watch_*
+tmp/
+tmp*

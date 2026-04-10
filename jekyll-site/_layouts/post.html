@@ -6,6 +6,25 @@ layout: base
 
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
+
+    {% if jekyll.environment == 'development' %}
+    <!-- 🧪 Magic Split Button (Dev Only) -->
+    <div style="position: fixed; top: 20px; right: 20px; z-index: 9999; background: #fff3cd; padding: 10px 15px; border: 2px solid #ffecb5; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <label style="margin: 0; cursor: pointer; font-weight: bold; color: #856404; display: flex; align-items: center; gap: 8px;">
+        <input type="checkbox" id="magicSplitToggle" checked onchange="document.body.classList.toggle('magic-split-enabled', this.checked)">
+        🧪 Split View (Dev)
+      </label>
+    </div>
+    <script>
+      // Force the body class on load for development env
+      document.addEventListener("DOMContentLoaded", function() {
+        if(document.getElementById('magicSplitToggle').checked) {
+          document.body.classList.add('magic-split-enabled');
+        }
+      });
+    </script>
+    {% endif %}
+
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
 
       <!-- 🧭 Top Day Navigator -->
@@ -182,3 +201,20 @@ layout: base
     </div>
   </div>
 </div>
+
+<!-- 🧜‍♂️ Mermaid.js: renders ```mermaid code blocks as interactive SVG diagrams -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Find all <code class="language-mermaid"> blocks created by kramdown
+    var blocks = document.querySelectorAll('code.language-mermaid');
+    blocks.forEach(function(codeEl) {
+      var pre = codeEl.parentElement;
+      var div = document.createElement('div');
+      div.className = 'mermaid';
+      div.textContent = codeEl.textContent;
+      pre.replaceWith(div);
+    });
+    mermaid.initialize({ startOnLoad: true, theme: 'default' });
+  });
+</script>

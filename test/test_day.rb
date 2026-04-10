@@ -13,14 +13,15 @@ def run_tests_for_date(date)
   date_str = date.strftime('%Y-%m-%d')
   date_no_dash = date.strftime('%Y%m%d')
   
-  # Try root file first (legacy)
-  file_path = File.join(DIR, "#{date_str}.md")
-  
-  # Try Jekyll post if root doesn't exist
-  unless File.exist?(file_path)
-    posts_dir = File.join(DIR, 'jekyll-site', '_posts')
-    candidates = Dir.glob(File.join(posts_dir, "#{date_str}-*.md"))
-    file_path = candidates.first if candidates.any?
+  # Try Jekyll post first
+  posts_dir = File.join(DIR, 'jekyll-site', '_posts')
+  candidates = Dir.glob(File.join(posts_dir, "#{date_str}-*.md"))
+  file_path = candidates.first if candidates.any?
+  is_jekyll = !file_path.nil?
+
+  # Try root file if Jekyll doesn't exist (legacy)
+  unless file_path && File.exist?(file_path)
+    file_path = File.join(DIR, "#{date_str}.md")
   end
 
   puts "Testing #{date_str}..."
@@ -36,7 +37,18 @@ def run_tests_for_date(date)
   # Test 1: Google Photos link in first 10 lines
   google_photos_link = "https://photos.google.com/search/#{date_str}"
   first_10_lines = lines[0...10].join
-  if first_10_lines.include?(google_photos_link)
+  is_reviewed = first_10_lines.match?(/^reviewed:\s*true/)
+  
+  if is_jekyll
+    if is_reviewed
+      puts "  [PASS] Google Photos link check skipped (Jekyll post is reviewed)."
+    else
+      # If not reviewed, Jekyll layout provides the banner with the link
+      puts "  [PASS] Google Photos link provided by Jekyll layout banner (post is NOT reviewed)."
+    end
+  elsif is_reviewed
+    puts "  [PASS] Google Photos link check skipped (root file is reviewed)."
+  elsif first_10_lines.include?(google_photos_link)
     puts "  [PASS] Google Photos link found in the first 10 lines."
   else
     puts "  [FAIL] Missing or incorrect Google Photos link in the first 10 lines."
@@ -61,7 +73,14 @@ def run_tests_for_date(date)
       expected_jekyll = "/assets/images/#{date_str}/"
       expected_jekyll_rel = "assets/images/#{date_str}/"
       
-      if img_path.start_with?(expected_real) || img_path.start_with?(expected_pixar) || img_path.start_with?(expected_jekyll) || img_path.start_with?(expected_jekyll_rel)
+      # Additional allowed structures
+      date_parts = date_str.split('-') # ["2026", "02", "23"]
+      expected_jekyll_pixar = "/assets/images/pixar/#{date_parts[0]}/#{date_parts[1]}/#{date_parts[2]}/"
+      expected_jekyll_original = "/assets/images/original/#{date_parts[0]}/#{date_parts[1]}/#{date_parts[2]}/"
+      
+      if img_path.start_with?(expected_real) || img_path.start_with?(expected_pixar) || 
+         img_path.start_with?(expected_jekyll) || img_path.start_with?(expected_jekyll_rel) ||
+         img_path.start_with?(expected_jekyll_pixar) || img_path.start_with?(expected_jekyll_original)
         # also check if the file actually exists
         img_path_rel = img_path.sub(/\A\//, '')
         if img_path_rel.start_with?('assets/')

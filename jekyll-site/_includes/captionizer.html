@@ -1,21 +1,82 @@
 <style>
-  .img-front { display: block; }
-  .img-back { display: none; }
+  .img-front { display: block; width: 100%; }
+  .img-back { display: none; width: 100%; }
   .show-original .img-front { display: none; }
-  .show-original .img-back { display: block; }
+  .show-original .img-back { display: block; position: static; height: auto; }
   .image-toggle { transition: transform 0.2s ease; }
   .image-toggle:hover { transform: scale(1.01); }
+
+  /* Magic Split Mode Styles */
+  body.magic-split-enabled .img-front {
+    display: block !important;
+    clip-path: inset(0 50% 0 0);
+  }
+  body.magic-split-enabled .img-back {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    clip-path: inset(0 0 0 50%);
+  }
+  body.magic-split-enabled .magic-split-line {
+    display: block;
+  }
+  .magic-split-line {
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0,0,0,0.8);
+    pointer-events: none;
+    z-index: 10;
+  }
+  body.magic-split-enabled .captionizer-badge {
+    display: none !important;
+  }
+  body.magic-split-enabled .split-badge {
+    display: flex;
+  }
+  .split-badge {
+    display: none;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    justify-content: space-between;
+    pointer-events: none;
+    z-index: 11;
+  }
+  .split-badge span {
+    background: rgba(0,0,0,0.6);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    opacity: 0.8;
+  }
 </style>
 <div class="captionizer" style="text-align: center; margin-bottom: 2rem;">
   {% assign img1 = include.pixar | default: include.image1 %}
   {% assign img2 = include.original | default: include.image2 %}
   
-  <div class="image-toggle" style="cursor: pointer; display: inline-block; position: relative;" onclick="this.classList.toggle('show-original')">
+  <div class="image-toggle" style="cursor: pointer; display: inline-block; position: relative;" onclick="if(!document.body.classList.contains('magic-split-enabled')){this.classList.toggle('show-original');}">
     <img src="{{ img1 }}" alt="Pixar Version" class="img-front img-fluid" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     <img src="{{ img2 }}" alt="Original Version" class="img-back img-fluid" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
     
-    <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; pointer-events: none; opacity: 0.8;">
+    <div class="magic-split-line"></div>
+    
+    <div class="captionizer-badge" style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; pointer-events: none; opacity: 0.8;">
       🔄 Clicca per cambiare
+    </div>
+
+    <div class="split-badge">
+      <span>Pixar</span>
+      <span>Original</span>
     </div>
   </div>
   
