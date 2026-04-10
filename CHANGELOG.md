@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Note: version should be in `jekyll-site/_config.yml`
 
+## [0.1.1] - 2026-04-10
+
+### Fixed
+
+- **Tests:** Updated `test/test_day.rb` to allow `/assets/images/pixar/YYYY/MM/DD/` and `/assets/images/original/YYYY/MM/DD/` image paths, resolving false failures in February 23rd post.
+- **Tests:** Updated `test/test_day.rb` to prioritize Jekyll posts and skip Google Photos link validation if `reviewed: true` or provided by Jekyll layout banner.
+
 ## [0.1.0] - 2026-04-10
 
 ### Added
