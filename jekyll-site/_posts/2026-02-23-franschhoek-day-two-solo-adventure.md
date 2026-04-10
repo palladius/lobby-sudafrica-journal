@@ -22,7 +22,7 @@ _Nota a margine: questa giornata non sarebbe stata possibile senza l'intervento 
 
 Tutte le avventure della giornata partono e finiscono qui. Il mezzo di trasporto è un affascinante tram a due piani, che qui vediamo in una versione epica, pronto a portarci "Ritorno al Futuro" (o al prossimo vigneto).
 
-{% include captionizer.html original="/assets/images/original/2026/02/23/file_499.jpg" pixar="/assets/images/pixar/2026/02/23/07-franschhoek-tram.png" caption="Groot Drakenstein e Wine Tram" %}
+{% include captionizer.html original="/assets/images/original/2026/02/23/file_499.jpg" pixar="/assets/images/pixar/2026/02/23/07-groot-drakenstein.png" caption="Groot Drakenstein e Wine Tram" %}
 
 {% include captionizer.html original="/assets/images/original/2026/02/23/file_504.jpg" pixar="/assets/images/pixar/2026/02/23/1218-bttf-tram.png" caption="Franschhoek Wine Tram - Back to the Future Style" %}
 
@@ -147,13 +147,12 @@ Questa giornata è stata incredibile non solo per il vino, ma per le persone inc
 
 Ho ritrovato con enorme piacere **Michael** e **Lucy**, gli amici conosciuti durante la prima visita del 13 febbraio. Un incontro inaspettato che ha reso il viaggio molto più allegro.
 
-{% include captionizer.html original="/assets/images/original/2026/02/23/file_512.jpg" pixar="/assets/images/pixar/2026/02/23/1456-bus-friends-selfie.png" caption="Reunion con Michael e Lucy sul Bus" %}
+{% include captionizer.html original="/assets/images/original/2026/02/23/file_517.jpg" pixar="/assets/images/pixar/2026/02/23/1538-michael-lucy-selfie.png" caption="Reunion con Michael e Lucy sul Bus" %}
 
 Ma le sorprese non sono finite qui: ho conosciuto anche **Martin** e **Martina**, una coppia della Repubblica Ceca. Martin lavora per KLM/Air France ed è un utente di Google Cloud (GCP)! Abbiamo passato il tempo parlando di tecnologia, di OpenClaw e di come le AI stiano cambiando il mondo.
 
 {% include captionizer.html original="/assets/images/original/2026/02/23/file_516.jpg" pixar="/assets/images/pixar/2026/02/23/1523-gcp-friends-selfie.png" caption="Incontro con Martin e Martina" %}
 
-{% include captionizer.html original="/assets/images/original/2026/02/23/file_514.jpg" pixar="/assets/images/pixar/2026/02/23/1507-martin-encounter.png" caption="Incontro con Martin" %}
 
 ---
 
@@ -163,11 +162,11 @@ Le ultime fermate prima del rientro ci portano a toccare con mano il fascino sto
 
 Il bus fa una breve sosta a **Le Pommier**, con il suo ingresso rustico incorniciato dalle montagne.
 
-{% include captionizer.html original="/assets/images/original/2026/02/23/file_500---8a366de8-cdd1-4afb-9141-91a361ff64e5.jpg" pixar="/assets/images/pixar/2026/02/23/0814-le-pommier-arrival.png" caption="Arrivo a Le Pommier" %}
+{% include captionizer.html original="/assets/images/original/2026/02/23/le-pommier-original.png" pixar="/assets/images/pixar/2026/02/23/0814-le-pommier-arrival.png" caption="Arrivo a Le Pommier" %}
 
 Infine, chiudiamo il tour a **Zorgvliet**, davanti allo storico edificio "De Herenhuis" (1692). L'ultima tappa di questa Navy Line prima che la pioggia ci costringa al rientro.
 
-![Selfie at Zorgvliet Herenhuis](/assets/images/pixar/2026/02/23/0810-zorgvliet-selfie.png)
+{% include captionizer.html original="/assets/images/original/2026/02/23/file_514.jpg" pixar="/assets/images/pixar/2026/02/23/0810-zorgvliet-selfie.png" caption="Selfie at Zorgvliet Herenhuis" %}
 
 ---
 
