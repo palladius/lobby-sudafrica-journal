@@ -33,7 +33,7 @@ layout: page
       <div class="card-content">
         <p class="card-date">
           {% assign date_format = site.date_format | default: "%d %b %Y" %}
-          📅 {{ post.date | date: date_format }}
+          {{ post.date | date: date_format }} 📅
         </p>
         <h2 class="card-title">{{ post.title | strip_html }}</h2>
       </div>
