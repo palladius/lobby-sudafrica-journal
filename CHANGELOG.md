@@ -11,6 +11,7 @@ Note: version should be in `jekyll-site/_config.yml`
 
 ### Fixed
 
+- **Images:** Moved missing `07-franschhoek-tram.png` to correct `pixar` directory and fixed world-readable permissions for all original images in February 23rd post.
 - **Tests:** Updated `test/test_day.rb` to allow `/assets/images/pixar/YYYY/MM/DD/` and `/assets/images/original/YYYY/MM/DD/` image paths, resolving false failures in February 23rd post.
 - **Tests:** Updated `test/test_day.rb` to prioritize Jekyll posts and skip Google Photos link validation if `reviewed: true` or provided by Jekyll layout banner.
 
