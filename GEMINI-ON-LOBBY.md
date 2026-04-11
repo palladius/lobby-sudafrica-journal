@@ -9,6 +9,10 @@ Lobby was alive:
 - from 5 Feb to 9 Feb.
 - from when my wife came back to Zurich and restarted my machine, onwards. Evidence from memory logs shows a gap from 10 Feb to 27 Feb, with logs resuming on 28 Feb.
 
+Super duper skill
+
+- Use /Users/riccardo/.gemini/extensions/palladius-private-goodies/skills/journal-image-manager/ skill!!
+
 ## How to ue this
 
 - find pictures from Me to Lobby via Telegram in the folder: `~/.openclaw/media/inbound/`
