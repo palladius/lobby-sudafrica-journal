@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Note: version should be in `jekyll-site/_config.yml`
 
+## [Unreleased]
+
+### Fixed
+
+- **Images:** Added missing original photos for Feb 9th (Family Breakfast and Mother Baboon) and a new afternoon Elephant sighting.
+- **Layout:** Converted all static image pairs in the Feb 9th Sun City post to use the `captionizer.html` interactive toggle.
+- **Docs:** Marked Feb 9th journal post as reviewed.
+
 ## [0.1.1] - 2026-04-10
 
 ### Fixed
