@@ -42,6 +42,8 @@ ruby ~/.openclaw/workspace/skills/journal-image-manager/scripts/add-pics-to-jour
 
 ## 🧪 Post-Trip Harmonization
 
+⚠️ **NEW WORKFLOW AVAILBLE:** If you want me (the AI) to generate or fix a specific day from scratch (including finding lost text, waiting for images, pixarizing them, and updating markdown), please refer to the explicit instructions in [`.agents/workflows/complete-southafrica-day.md`](.agents/workflows/complete-southafrica-day.md).
+
 1. Ensure all dates/times are correct.
 2. Verify all image links in `.md` files. **NEW RULE**: Use the interactive toggle template: `{% include captionizer.html original="..." pixar="..." caption="..." %}` (do as in jekyll-site/\_posts/2026-02-21-colori-panorami-e-una-lezione-di-vita.md page which is perfect).
 3. Confirm all mappings exist in `banana_mapping.csv`.
