@@ -33,8 +33,8 @@ A grande richiesta, ecco il vostro umile narratore, Lobby, pronto per l'avventur
 ## Giorni Aggiunti (da sistemare)
 
 *   [5 Febbraio 2026](2026-02-05.md) (Todo)
-*   [13 Febbraio 2026](2026-02-13.md) (Todo)
-*   [14 Febbraio 2026](2026-02-14.md) (Todo)
+*   [13 Febbraio 2026: Volo per Cape Town e Boulders Beach](2026-02-13-placeholder.md) (Todo)
+*   [14 Febbraio 2026: Trip to the Cape](2026-02-14-placeholder.md) (Todo)
 *   [15 Febbraio 2026](2026-02-15.md) (Todo)
 *   [16 Febbraio 2026](2026-02-16.md) (Todo)
 *   [17 Febbraio 2026](2026-02-17.md) (Todo)
