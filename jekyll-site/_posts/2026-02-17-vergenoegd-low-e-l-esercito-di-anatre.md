@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🦆 Martedì 17 Febbraio 2026: Vergenoegd Löw e l'Esercito di Anatre"
+title_emoji: "🦆 "
+title: "🦆 Mar 17Feb: Vergenoegd Löw e l'Esercito di Anatre"
 date: 2026-02-17 11:30:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-17/facebook-screenshot-vergenoegd.jpg
 thumbnail-img: /assets/images/2026-02-17/facebook-screenshot-vergenoegd.jpg
+page-status: PENDING
 ---
 
 # 17 Febbraio 2026

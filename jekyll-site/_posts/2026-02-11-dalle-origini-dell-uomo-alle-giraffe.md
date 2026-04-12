@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🦒 Lunedì 11 Febbraio 2026: Dalle Origini dell'Uomo alle Giraffe"
+title_emoji: "🦒 "
+title: "🦒 Lun 11Feb: Dalle Origini dell'Uomo alle Giraffe"
 date: 2026-02-11 08:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-11/2026-02-25-18-47-51-kids-feeding-giraffe-pixar.png
 thumbnail-img: /assets/images/2026-02-11/2026-02-25-18-47-39-kids-feeding-giraffe.jpg
+page-status: PENDING
 ---
 
 # 11 Febbraio 2026: Dalle Origini dell'Uomo alle Giraffe

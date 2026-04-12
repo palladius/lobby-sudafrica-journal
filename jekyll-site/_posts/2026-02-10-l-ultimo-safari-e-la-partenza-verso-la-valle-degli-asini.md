@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🇿🇦 Diario di Viaggio - 10 Febbraio 2026: l'ultimo safari e la partenza verso la valle degli asini"
+title_emoji: "🚙 "
+title: "🚙 Diario di Viaggio - 10Feb: l'ultimo safari e la partenza verso la valle degli asini"
 date: 2026-02-10 05:00:00 +0200
 categories: diario
 cover-img: /assets/images/pixar/20260210/lions_nuzzling_pixar_style_20260210.png
 thumbnail-img: /assets/images/original/20260210/2026-02-25-18-36-57-kids-and-donkey.jpg
+page-status: PENDING
 ---
 
 ## 🐾 Incontro Notturno con un Bushbaby

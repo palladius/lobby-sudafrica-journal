@@ -2,6 +2,8 @@
 
 # Alias comodo
 default: list 
+status:
+    @ruby bin/status.rb
 
 list:
     just -l

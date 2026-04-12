@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "🌈 Sabato 21 Febbraio 2026: Bo-Kaap, Musei, Panorami: ultimo giorno a Cape Town"
+title_emoji: "🌈 "
+title: "🌈 Sab 21Feb: Bo-Kaap, Musei, Panorami: ultimo giorno a Cape Town"
 date: 2026-02-21 09:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-21/2026-02-25-11-36-36-bo-kaap-mural-pixar.png
 thumbnail-img: /assets/images/2026-02-21/2026-02-25-11-48-00-belvedere-selfie.jpg
-reviewed: true
+page-status: REVIEWED
 ---
 
 # 21 Febbraio 2026: Colori, Panorami e una Lezione di Vita

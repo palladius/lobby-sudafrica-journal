@@ -1,5 +1,8 @@
 ---
 description: A complete workflow to help generate or fix a specific day's journal entry in South Africa.
+version: 0.0.1obsolete
+metadata:
+  version: 0.0.1
 ---
 
 # Complete Southafrica Day Workflow
@@ -52,7 +55,7 @@ ruby ~/.openclaw/workspace/skills/journal-image-manager/scripts/add-pics-to-jour
 ## Step 5: Markdown Harmonization
 
 Review or create `jekyll-site/_posts/YYYY-MM-DD-title.md`. 
-1. Ensure the frontmatter has `reviewed: false`.
+1. Ensure the frontmatter has `page-status: PENDING`.
 2. Append the text drafted in step 3.
 3. Integrate the image toggles exactly like this for every photo:
 
@@ -62,4 +65,4 @@ Review or create `jekyll-site/_posts/YYYY-MM-DD-title.md`.
 
 ## Step 6: Iteration & Sign-off
 
-Present the harmonized page to the user for review. If it looks correct and no images are missing, change the frontmatter to `reviewed: true` and you are done!
+Present the harmonized page to the user for review. If it looks correct and no images are missing, change the frontmatter to `page-status: REVIEWED` and you are done!

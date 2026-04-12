@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "🍷 Lunedì 23 Febbraio 2026: Franschhoek, Day Two (Solo Adventure)"
+title_emoji: "🍷 "
+title: "🍷 Lun 23Feb: Franschhoek, Day Two (Solo Adventure)"
 date: 2026-02-23 08:00:00 +0200
 categories: diario
 cover-img: /assets/images/pixar/2026/02/23/1218-bttf-tram.png
 thumbnail-img: /assets/images/pixar/2026/02/23/01-wine-tram-entrance.png
-reviewed: true
+page-status: REVIEWED
 ---
 
 # 2026-02-23: Franschhoek, Day Two (Solo Adventure)

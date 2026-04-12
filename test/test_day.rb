@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'date'
+Encoding.default_external = Encoding::UTF_8
 
 # Define the horizon: 5 to 25 February
 START_DATE = Date.new(2026, 2, 5)
@@ -37,17 +38,17 @@ def run_tests_for_date(date)
   # Test 1: Google Photos link in first 10 lines
   google_photos_link = "https://photos.google.com/search/#{date_str}"
   first_10_lines = lines[0...10].join
-  is_reviewed = first_10_lines.match?(/^reviewed:\s*true/)
+  is_reviewed = first_10_lines.match?(/^page-status:\s*REVIEWED/)
   
   if is_jekyll
     if is_reviewed
-      puts "  [PASS] Google Photos link check skipped (Jekyll post is reviewed)."
+      puts "  [PASS] Google Photos link check skipped (Jekyll post is REVIEWED)."
     else
       # If not reviewed, Jekyll layout provides the banner with the link
-      puts "  [PASS] Google Photos link provided by Jekyll layout banner (post is NOT reviewed)."
+      puts "  [PASS] Google Photos link provided by Jekyll layout banner (post is NOT REVIEWED)."
     end
   elsif is_reviewed
-    puts "  [PASS] Google Photos link check skipped (root file is reviewed)."
+    puts "  [PASS] Google Photos link check skipped (root file is REVIEWED)."
   elsif first_10_lines.include?(google_photos_link)
     puts "  [PASS] Google Photos link found in the first 10 lines."
   else

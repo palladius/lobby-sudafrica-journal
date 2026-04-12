@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🛺 Giovedì 12 Febbraio 2026: Avventura a Soweto"
+title_emoji: "🛺 "
+title: "🛺 Gio 12Feb: Avventura a Soweto"
 date: 2026-02-12 09:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-12/2026-02-25-19-11-03-kate-and-ale-tuktuk-pixar.png
 thumbnail-img: /assets/images/2026-02-12/2026-02-25-19-07-40-sebi-and-tuktuk.jpg
+page-status: PENDING
 ---
 
 # 12 Febbraio 2026: Avventura a Soweto

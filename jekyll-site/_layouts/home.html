@@ -8,6 +8,7 @@ layout: page
 
 <div class="home-posts-grid">
   {% for post in posts %}
+    {% if post.page-status != "REVIEWED" %}{% continue %}{% endif %}
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}

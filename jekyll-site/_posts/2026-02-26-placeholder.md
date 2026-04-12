@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "📅 Giovedì 26 Febbraio 2026"
+title_emoji: "📅 "
+title: "📅 Gio 26Feb"
 date: 2026-02-26 12:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-26/PXL_20260226_173216465.jpg
 thumbnail-img: /assets/images/2026-02-26/IMG_20260226_183601_768.jpg
+page-status: PENDING
 ---
 
 # 26 Febbraio 2026

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🍷 Martedì 24 Febbraio 2026: Franschhoek, Day Three (The Grand Finale)"
+title_emoji: "🍷 "
+title: "🍷 Mar 24Feb: Franschhoek, Day Three (The Grand Finale)"
 date: 2026-02-24 08:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-24/1800-airport-route-map.png
 thumbnail-img: /assets/images/2026-02-24/1013-jordan-vineyards.png
+page-status: PENDING
 ---
 
 # 2026-02-24: Franschhoek, Day Three (The Grand Finale)

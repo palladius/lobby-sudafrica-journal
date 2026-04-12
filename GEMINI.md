@@ -89,6 +89,6 @@ date: 2026-02-DD HH:MM:SS +0200
 categories: diario
 cover-img: /assets/images/ path to the cover image on top, hopefully a WIDE image
 thumbnail-img: /assets/images/ path to the thumbnail image on top, hopefully square-ish
-reviewed: false
+page-status: PENDING
 ---
 ```

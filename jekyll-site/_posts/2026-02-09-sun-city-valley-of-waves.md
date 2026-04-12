@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🇿🇦 Diario di Viaggio - 9 Febbraio 2026: Sun City - Valley of Waves"
+title_emoji: "🚙 "
+title: "🚙 Diario di Viaggio - 9Feb: Sun City - Valley of Waves"
 date: 2026-02-09 10:00:00 +0200
 categories: diario
 cover-img: /assets/images/pixar/20260209/2026-02-09-0957-valley-waves-overlook-pixar.png
 thumbnail-img: /assets/images/original/20260209/2026-02-09-0957-valley-waves-overlook.jpg
+page-status: PENDING
 ---
 
 `20260209 02:00` - Notte difficile, soffro di insonnia. (Time adjusted to SAST)

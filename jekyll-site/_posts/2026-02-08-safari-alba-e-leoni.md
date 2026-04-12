@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🇿🇦 Domenica 8 Febbraio 2026: Safari all'Alba e Leoni! 🦁"
+title_emoji: "🚙 "
+title: "🚙 Dom 8Feb: Safari all'Alba e Leoni! 🦁"
 date: 2026-02-08 10:30:00 +0200
 categories: diario
 thumbnail-img: /assets/images/pixar/20260208/2026-02-08-lion-pride-recreation-pixar.png
 cover-img: /assets/images/pixar/20260208/2026-02-08-lion-pride-recreation-pixar.png
+page-status: PENDING
 ---
 
 

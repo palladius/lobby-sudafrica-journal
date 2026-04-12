@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "✈️ Giovedì 5 Febbraio 2026: Partenza da Zurigo"
+title_emoji: "✈️ "
+title: "✈️  Gio 5Feb: Partenza da Zurigo"
 date: 2026-02-05 18:00:00 +0100
 categories: diario
 cover-img: /assets/images/pixar/2026-02-05/alessandro-pixar.jpg
 thumbnail-img: /assets/images/pixar/2026-02-05/sebastian-pixar.jpg
+page-status: PENDING
 ---
 
 Oggi abbiamo lasciato Zurigo per iniziare il nostro avventuroso viaggio in Sudafrica. Dopo gli ultimi preparativi, ci siamo diretti in aeroporto carichi di emozione. Il volo è serale, passeremo la notte in aereo per arrivare a Johannesburg domani mattina.

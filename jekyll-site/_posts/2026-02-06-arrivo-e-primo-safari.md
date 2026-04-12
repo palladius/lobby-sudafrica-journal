@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🇿🇦 Venerdì 6 Febbraio 2026: Arrivo e Primo Safari"
+title_emoji: "🚙 "
+title: "🚙 Ven 6Feb: Arrivo e Primo Safari"
 date: 2026-02-06 10:30:00 +0200
 categories: diario
 thumbnail-img: /assets/images/pixar/20260206/pixar_family_joburg_arrival.png
 cover-img: /assets/images/pixar/20260206/pixar_family_joburg_arrival.png
+page-status: PENDING
 ---
 
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "🍷 Domenica 22 Febbraio 2026: Addii, Babylonstoren, Fairview and the Wine Tram!"
+title_emoji: "🍷 "
+title: "🍷 Dom 22Feb: Addii, Babylonstoren, Fairview and the Wine Tram!"
 date: 2026-02-22 05:00:00 +0200
 categories: diario
 cover-img: /assets/images/2026-02-22/2026-02-25-10-41-23-babylonstoren-serra-pixar.png
 thumbnail-img: /assets/images/2026-02-22/2026-02-25-10-41-18-babylonstoren-serra.jpg
-reviewed: true
+page-status: REVIEWED
 gphotos: https://photos.google.com/search/2026-02-22
 ---
 

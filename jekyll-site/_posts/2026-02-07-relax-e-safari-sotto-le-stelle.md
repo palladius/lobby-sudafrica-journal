@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🇿🇦 Sabato 7 Febbraio 2026: Relax, Safari e una Cena Sotto le Stelle"
+title_emoji: "🚙 "
+title: "🚙 Sab 7Feb: Relax, Safari e una Cena Sotto le Stelle"
 date: 2026-02-07 10:30:00 +0200
 categories: diario
 thumbnail-img: /assets/images/pixar/20260207/2026-02-07-family-hide-pixar.png
 cover-img: /assets/images/pixar/20260207/2026-02-07-family-hide-pixar.png
+page-status: PENDING
 ---
 
 
