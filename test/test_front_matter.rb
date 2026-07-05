@@ -24,7 +24,7 @@ Dir.glob(File.join(posts_dir, '*.md')).each do |file|
     next unless normalized_file_date == normalized_filter
   end
 
-  content = File.read(file)
+  content = File.read(file, encoding: 'UTF-8')
   
   if content =~ /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
     front_matter_str = $1

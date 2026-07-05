@@ -4,9 +4,9 @@ title_emoji: "🍷 "
 title: "🍷 Mar 24Feb: Franschhoek, Day Three (The Grand Finale)"
 date: 2026-02-24 08:00:00 +0200
 categories: diario
-cover-img: /assets/images/2026-02-24/1800-airport-route-map.png
-thumbnail-img: /assets/images/2026-02-24/1013-jordan-vineyards.png
-page-status: PENDING
+cover-img: /assets/images/pixar/2026/02/24/1800-airport-route-map.png
+thumbnail-img: /assets/images/pixar/2026/02/24/1013-jordan-vineyards.png
+reviewed: true
 ---
 
 # 2026-02-24: Franschhoek, Day Three (The Grand Finale)
@@ -51,14 +51,14 @@ Arrivo a destinazione alle **10:13**. La tenuta di Jordan ci accoglie con un'atm
 ### Colazione con vista
 Sono arrivato e mi sono goduto un momento di relax con un cappuccino sulla terrazza. Nonostante la bellezza del lago, ammetto che Jordan non mi ha regalato il \"Wow\" che mi aspettavo dopo 50 minuti di viaggio.
 
-![Jordan Vineyards](/assets/images/2026-02-24/1013-jordan-vineyards.png)
-![Jordan Cappuccino](/assets/images/2026-02-24/1018-jordan-cappuccino.png)
-![Jordan Terrace](/assets/images/2026-02-24/1014-jordan-terrace-view.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_554.jpg" pixar="/assets/images/pixar/2026/02/24/1013-jordan-vineyards.png" caption="Jordan Vineyards" %}
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_559.jpg" pixar="/assets/images/pixar/2026/02/24/1018-jordan-cappuccino.png" caption="Jordan Cappuccino" %}
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_558.jpg" pixar="/assets/images/pixar/2026/02/24/1014-jordan-terrace-view.png" caption="Jordan Terrace" %}
 
 ### Natura e dintorni
 Poco più avanti, mi sono fermato ad ammirare come gli olivi e i vigneti si intrecciano armoniosamente.
 
-![Jordan Olives and Vineyards](/assets/images/2026-02-24/1031-jordan-olives-vineyards.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_564.jpg" pixar="/assets/images/pixar/2026/02/24/1031-jordan-olives-vineyards.png" caption="Jordan Olives and Vineyards" %}
 
 ### Note per la Famiglia 👶🧒
 Nonostante l'effetto \"wow\" architettonico mancato, Jordan è incredibilmente **child-friendly**. Ho visto tantissimi bambini; c'è un'area picnic, giochi per i piccoli e persino degli alloggi dove si potrebbe dormire tutti insieme. Ideale per una giornata con Alessandro e Sebastian.
@@ -66,12 +66,12 @@ Nonostante l'effetto \"wow\" architettonico mancato, Jordan è incredibilmente *
 ### Una \"Funny Story\" Off-Road
 Tentando di raggiungere De Toren, finisco impantanato tra i vigneti. Uno scacco matto del fango che mi costringe a un dietrofront strategico, ma mi regala una foto incredibile.
 
-![Impantanato tra le vigne](/assets/images/2026-02-24/1039-detoren-vines-stuck.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_571.jpg" pixar="/assets/images/pixar/2026/02/24/1039-detoren-vines-stuck.png" caption="Impantanato tra le vigne" %}
 
 ### La perla: DeMorgenzon
 Facendo manovra, scopro DeMorgenzon. Un binomio vigneto+oliveto che è pura magia mediterranea in Sudafrica.
 
-![DeMorgenzon Entrance](/assets/images/2026-02-24/1032-demorgenzon-sign.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_563.jpg" pixar="/assets/images/pixar/2026/02/24/1032-demorgenzon-sign.png" caption="DeMorgenzon Entrance" %}
 
 ---
 
@@ -82,21 +82,21 @@ Arrivo a **Spier** alle **10:55**. L'impatto è notevole: la tenuta è vastissim
 ### Un Angolo di Paradiso
 Lo stagno ricoperto di ninfee è pura poesia visiva, un quadro naturale che invita alla contemplazione.
 
-![Spier Lily Pond](/assets/images/2026-02-24/1056-spier-pond-lilies.png)
-![Spier Arrival](/assets/images/2026-02-24/1055-spier-arrival-map.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_574.jpg" pixar="/assets/images/pixar/2026/02/24/1056-spier-pond-lilies.png" caption="Spier Lily Pond" %}
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_575.jpg" pixar="/assets/images/pixar/2026/02/24/1055-spier-arrival-map.png" caption="Spier Arrival" %}
 
 ### Arte e Natura
 La passeggiata continua tra la passerella \"Enter at Own Risk\" e alberi secolari maestosi. Il fiume che attraversa la tenuta riflette il cielo e le nuvole in modo meraviglioso.
 
-![Spier Bridge](/assets/images/2026-02-24/1112-spier-risk-bridge.png)
-![Spier River](/assets/images/2026-02-24/1116-spier-river-view.png)
-![Spier Ancient Tree](/assets/images/2026-02-24/1125-spier-ancient-tree.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_577.jpg" pixar="/assets/images/pixar/2026/02/24/1112-spier-risk-bridge.png" caption="Spier Bridge" %}
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_580.jpg" pixar="/assets/images/pixar/2026/02/24/1116-spier-river-view.png" caption="Spier River" %}
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_586.jpg" pixar="/assets/images/pixar/2026/02/24/1125-spier-ancient-tree.png" caption="Spier Ancient Tree" %}
 
 ### La Manor House e la Degustazione
 Gli interni della manor house sono di un'eleganza d'altri tempi, con soffitti a travi e lampadari di cristallo. 
 
-![Spier Manor Interior](/assets/images/2026-02-24/1125-spier-manor-interior.png)
-![Spier Tasting Setup](/assets/images/2026-02-24/1146-spier-tasting-setup.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_586.jpg" pixar="/assets/images/pixar/2026/02/24/1125-spier-manor-interior.png" caption="Spier Manor Interior" %}
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_586.jpg" pixar="/assets/images/pixar/2026/02/24/1146-spier-tasting-setup.png" caption="Spier Tasting Setup" %}
 
 #### I Bianchi (Gamma 21 Gables & Creative Block)
 
@@ -108,7 +108,7 @@ Gli interni della manor house sono di un'eleganza d'altri tempi, con soffitti a 
  
 La degustazione prosegue con i pesi massimi: i rossi della linea 21 Gables e il Creative Block 5. I calici si riempiono di sfumature rubino intense, mentre il panorama sul lago continua a incantare.
 
-![Spier Red Wine Tasting](/assets/images/2026-02-24/1202-spier-red-tasting-v2.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_588.jpg" pixar="/assets/images/pixar/2026/02/24/1202-spier-red-tasting-v2.png" caption="Spier Red Wine Tasting" %}
 
 - **Creative Block 3:** Blend in stile Rodano (94% Shiraz, Mourvèdre, Viognier). Note di pepe nero e anice, ma con un'acidità molto marcata. Non il preferito di Riccardo.
 - **Creative Block 5:** Il preferito della sessione. Blend bordolese (Cabernet Sauvignon 46%, Merlot, Cab Franc, Malbec, Petit Verdot). Invecchiato 18 mesi in rovere, risulta morbido con un finale di cioccolato fondente. (Ho comprato una bottiglia da portare a casa per Andrea!)
@@ -127,7 +127,7 @@ Arrivo ad **Asara** poco dopo mezzogiorno. Dopo il piccolo intoppo con le strade
 ### L'Ingresso
 Il benvenuto è dato da un'insegna elegante immersa tra fiori viola e vigneti curatissimi, sotto un cielo terso.
 
-![Asara Entrance](/assets/images/2026-02-24/1238-asara-entrance.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_595.jpg" pixar="/assets/images/pixar/2026/02/24/1238-asara-entrance.png" caption="Asara Entrance" %}
 
 ### Il Sansibar e il Deli
 
@@ -136,20 +136,20 @@ Seguendo i consigli del mio fidato assistente (io!), l'idea è di esplorare il f
 ### La Scultura Alata
 La tenuta è disseminata di opere d'arte. La più impressionante finora è una scultura bronzea di una figura alata che domina il lago, con lo sfondo maestoso delle montagne che sembrano quasi incitarla al volo.
 
-![Asara Winged Sculpture](/assets/images/2026-02-24/1244-asara-sculpture.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_590.jpg" pixar="/assets/images/pixar/2026/02/24/1244-asara-sculpture.png" caption="Asara Winged Sculpture" %}
 
 Non solo sculture all'aperto: la galleria d'arte interna di Asara ospita opere affascinanti, dai dipinti vibranti a sculture moderne illuminate, creando un'atmosfera ricca di stimoli culturali.
 
-![Asara Art Gallery](/assets/images/2026-02-24/1353-asara-gallery.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_605.jpg" pixar="/assets/images/pixar/2026/02/24/1353-asara-gallery.png" caption="Asara Art Gallery" %}
 
 ### Pranzo Gourmet con Vista (e qualche delusione)
 Seguendo i consigli del mio fidato assistente (io!), mi sono fermato per pranzo. Ho scelto il **\"BO-KAAP\" CEVICHE**: pesce crudo marinato al lime con zenzero e granadilla, accompagnato da un calice di bianco ghiacciato. 
 
-![Asara Gourmet Lunch](/assets/images/2026-02-24/1305-asara-lunch.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_590.jpg" pixar="/assets/images/pixar/2026/02/24/1305-asara-lunch.png" caption="Asara Gourmet Lunch" %}
 
 Un momento di pura gioia a tavola: il sorriso parla da sé. Il connubio tra buon cibo, vino e questo panorama è imbattibile.
 
-![Pranzo ad Asara con vista](/assets/images/2026-02-24/1334-asara-lunch-selfie.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_612.jpg" pixar="/assets/images/pixar/2026/02/24/1334-asara-lunch-selfie.png" caption="Pranzo ad Asara con vista" %}
 
 ### Verdetto Finale su Asara
 Prima di ripartire, il bilancio è agrodolce: la vista è assolutamente \"della Madonna\", mozzafiato da ogni angolo. Purtroppo, il cibo non si è rivelato all'altezza della location, risultando piuttosto deludente. Un vero peccato per un posto così scenografico.
@@ -166,12 +166,12 @@ Prima di arrivare alla meta, un piccolo errore di navigazione ci ha regalato un 
 ### L'altalena panoramica
 In un punto dove non eravamo stati la settimana scorsa, abbiamo trovato un'altalena fatta con uno pneumatico che si affaccia direttamente sulla valle. Un invito irresistibile a dondolarsi sopra i filari infiniti di viti.
 
-![Thelema Swing View](/assets/images/2026-02-24/1432-thelema-swing-view.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_612.jpg" pixar="/assets/images/pixar/2026/02/24/1432-thelema-swing-view.png" caption="Thelema Swing View" %}
 
 ### La Fontana Bizzarra
 Sempre a Tokara Alto, abbiamo scoperto una scultura decisamente originale: un gallo, un cane e un uomo in un insolito equilibrio sopra una fontana di ninfee. Un tocco di ironia prima del pezzo forte.
 
-![Tokara Alto Fountain](/assets/images/2026-02-24/1432-tokara-alto-fountain.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_651.jpg" pixar="/assets/images/pixar/2026/02/24/1432-tokara-alto-fountain.png" caption="Tokara Alto Fountain" %}
 
 ---
 
@@ -185,7 +185,7 @@ Il verdetto sulla location è onesto: il tragitto in mezzo alle vigne è spettac
 
 È un posto dove mi piacerebbe tornare tra qualche anno con Andrea e mia moglie.
 
-![Thelema Mountain Landscape](/assets/images/2026-02-24/1450-thelema-landscape.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_619.jpg" pixar="/assets/images/pixar/2026/02/24/1450-thelema-landscape.png" caption="Thelema Mountain Landscape" %}
 
 ### La Leggenda di Thelema
 
@@ -206,17 +206,17 @@ Nonostante l'avessimo inizialmente esclusa perché già visitata, il fascino del
 ### Architettura e Design
 L'interno della struttura è un capolavoro di modernità ed eleganza. Il camminamento che costeggia una via d'acqua, con le botti a vista dietro grandi vetrate, crea un'atmosfera di lusso e precisione.
 
-![Delaire Graff Water Causeway](/assets/images/2026-02-24/1511-delaire-water.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_623.jpg" pixar="/assets/images/pixar/2026/02/24/1511-delaire-water.png" caption="Delaire Graff Water Causeway" %}
 
 ### Il Sentiero dei Vitigni
 Una passeggiata tra le vigne permette di scoprire da vicino le varietà che rendono celebre questa zona. Cartelli eleganti indicano i filari di Shiraz, Cabernet Sauvignon, Sauvignon Blanc, Semillon e Chardonnay.
 
-![Delaire Graff Vineyard Signs](/assets/images/2026-02-24/1511-delaire-signs.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_624.jpg" pixar="/assets/images/pixar/2026/02/24/1511-delaire-signs.png" caption="Delaire Graff Vineyard Signs" %}
 
 ### L'Arte che Prende il Volo
 Sulla terrazza, tra divani rossi e una vista imperiale sulle montagne, svetta una scultura bronzea di un ghepardo in pieno balzo. È un'immagine potente, simbolo di grazia e forza, che sembra volersi lanciare verso le vette del Drakenstein.
 
-![Delaire Graff Cheetah Sculpture](/assets/images/2026-02-24/1511-delaire-cheetah.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_625.jpg" pixar="/assets/images/pixar/2026/02/24/1511-delaire-cheetah.png" caption="Delaire Graff Cheetah Sculpture" %}
 
 ---
 
@@ -232,7 +232,7 @@ Julia decide di offrirmi una degustazione d'onore:
 - **Il Sovrano:** Una sorta di \"Super Tuscan\" sudafricano, un blend potente e raffinato di Cabernet Sauvignon, Cabernet Franc e Merlot.
 - **Vermentino:** Un 100% bianco, fresco e tipicamente italiano.
 
-![I Re di Bacco](/assets/images/2026-02-24/1558-bacco-bottles.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_631.jpg" pixar="/assets/images/pixar/2026/02/24/1558-bacco-bottles.png" caption="I Re di Bacco" %}
 
 ### Una Famiglia tra il Sudafrica e il Mondo
 
@@ -249,11 +249,11 @@ Per coronare l'esperienza, Julia mi fa assaggiare il top di gamma della tenuta. 
 ### Architettura tra Passato e Futuro
 L'interno di Bacco è mozzafiato. Un grande atrio con le grandi stampe d'arte moderna che ritraggono il David.
 
-![Bacco Grand Hall](/assets/images/2026-02-24/1558-bacco-interior.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_633.jpg" pixar="/assets/images/pixar/2026/02/24/1558-bacco-interior.png" caption="Bacco Grand Hall" %}
 
 Prima di rimettermi in macchina, percorro il lungo viale fiancheggiato dai cipressi. Mi sento un po' a casa, tra queste montagne che per un attimo sembrano colline toscane. Il sorriso dice tutto: è stata una giornata, anzi, un viaggio perfetto.
 
-![Viale dei Cipressi a Bacco](/assets/images/2026-02-24/1627-bacco-cypress-road-v2.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_642.jpg" pixar="/assets/images/pixar/2026/02/24/1627-bacco-cypress-road-v2.png" caption="Viale dei Cipressi a Bacco" %}
 
 ---
 **Ore 17:30:** La missione è compiuta. Con il cuore gonfio di orgoglio e una nuova connessione in Sudafrica, mi avvio verso casa. Basta wine tasting per oggi... abbiamo chiuso con il botto!
@@ -270,7 +270,7 @@ Dopo qualche negoziazione, ottengo un volo via Parigi che allunga il viaggio di 
 ### Guardando a Casa
 Mentre fuori cala la sera su Franschhoek, inizio a pianificare il tragitto verso l'aeroporto di Cape Town per domani. Un'ora e dieci di strada tra le montagne che mi hanno ospitato in questi giorni. È tempo di bilanci e di preparare i bagagli, portando con sé il profumo dei vigneti.
 
-![Route to Airport Pixar Style](/assets/images/2026-02-24/1800-airport-route-map.png)
+{% include captionizer.html original="/assets/images/original/2026/02/24/file_644.jpg" pixar="/assets/images/pixar/2026/02/24/1800-airport-route-map.png" caption="Route to Airport Pixar Style" %}
 
 ---
 *Fine del Day Three - The Grand Finale.*

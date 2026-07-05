@@ -20,7 +20,7 @@ Dir.glob(File.join(posts_dir, '*.md')).each do |file|
     normalized_file_date = basename[0..9].gsub('-', '')
     next unless normalized_file_date == normalized_filter
   end
-  content = File.read(file)
+  content = File.read(file, encoding: 'UTF-8')
   
   # Parse front matter
   if content =~ /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m

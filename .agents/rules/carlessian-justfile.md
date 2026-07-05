@@ -1,0 +1,1 @@
+/Users/riccardo/git/antigravity-palladius-private-goodies/.agents/rules/carlessian-justfile.md
