@@ -1,7 +1,7 @@
 #!/bin/bash
 
 missing=0
-images=$(grep -oE '!\[[^]]*\]\([^)]+\)' README.md | sed -n 's/.*(\(.*\)).*/\1/p')
+images=$(grep -oE '(!\[[^]]*\]\([^)]+\)|<(img|video)[^>]+src="[^"]+")' README.md | sed -n -e 's/.*(\(.*\)).*/\1/p' -e 's/.*src="\([^"]*\)".*/\1/p')
 
 for img in $images; do
   if [ ! -f "$img" ]; then

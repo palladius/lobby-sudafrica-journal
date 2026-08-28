@@ -43,8 +43,8 @@ Guarda i momenti salienti del nostro viaggio direttamente qui:
 
 ### Tour del Sito
 Un'anteprima della navigazione del nostro diario di viaggio!
-![Safari & Wine Tour](assets/demo/safari_wine_tour.webm)
+<video src="assets/demo/safari_wine_tour.webm" controls="controls" muted="muted" width="100%"></video>
 
 ### Polaroid Slideshow
 La meravigliosa introduzione animata con tutte le nostre foto più belle, che cadono come polaroid sul tavolo dei ricordi.
-![Polaroid Slideshow](assets/demo/polaroids_slideshow_small.webm)
+<video src="assets/demo/polaroids_slideshow_small.webm" controls="controls" muted="muted" width="100%"></video>
