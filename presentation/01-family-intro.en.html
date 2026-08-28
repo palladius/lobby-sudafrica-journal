@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sudafrica Presentation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body { margin: 0; overflow: hidden; font-family: 'Fredoka', sans-serif; }
+        
+        #bkg {
+            position: absolute;
+            inset: 0;
+            background: url('safari_family_real.png') center/cover;
+            z-index: 5;
+        }
+
+        #stage-1 {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start; padding-top: 10vh;
+            color: white;
+            text-shadow: 3px 3px 6px rgba(0,0,0,0.8);
+            transition: opacity 0.5s;
+            z-index: 10;
+        }
+
+        /* STADIO 2: Polaroids animate */
+        #stage-2 {
+            position: absolute;
+            inset: 0;
+            z-index: 20;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start; padding-top: 10vh;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.5s;
+        }
+
+        .puff-effect {
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(circle, white 10%, transparent 60%);
+            opacity: 0;
+            z-index: 25;
+            pointer-events: none;
+        }
+
+        @keyframes puff {
+            0% { opacity: 0; transform: scale(0.5); }
+            40% { opacity: 1; transform: scale(1.5); }
+            100% { opacity: 0; transform: scale(2.5); }
+        }
+
+        .polaroid {
+            background: white;
+            padding: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            opacity: 0;
+            transform: translateY(50px) rotate(0deg);
+            transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        .show-stage-2 .polaroid { opacity: 1; }
+        .show-stage-2 #char-1 { transform: translateY(0) rotate(-6deg); transition-delay: 0.1s; }
+        .show-stage-2 #char-2 { transform: translateY(0) rotate(4deg); transition-delay: 0.3s; }
+        .show-stage-2 #char-3 { transform: translateY(0) rotate(-3deg); transition-delay: 0.5s; }
+        .show-stage-2 #char-4 { transform: translateY(0) rotate(7deg); transition-delay: 0.7s; }
+
+        .hint {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            font-size: 1.2rem;
+            color: rgba(255, 255, 255, 0.8);
+            text-shadow: 1px 1px 2px black;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="bkg"></div>
+    <div id="puff" class="puff-effect"></div>
+
+    <!-- STADIO 1: Titolo -->
+    <div id="stage-1">
+        <h1 style="font-size: 5rem; margin-bottom: 0.5rem; font-weight: bold;">Trip Report: South Africa</h1>
+        <h2 style="font-size: 2.5rem; color: #f1f5f9; font-weight: 600;">Q3 2026 - Carlesso Family</h2>
+        <div class="hint">Press SPACE</div>
+    </div>
+
+    <!-- STADIO 2: Polaroids -->
+    <div id="stage-2">
+        <h1 class="text-6xl text-white font-bold drop-shadow-lg mb-12" style="text-shadow: 3px 3px 6px rgba(0,0,0,0.8);">The 4 Goofballs in Action! 🦁</h1>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 px-8">
+            <div id="char-1" class="polaroid">
+                <img src="riccardo-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Dad</h2>
+            </div>
+            <div id="char-2" class="polaroid">
+                <img src="kate-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Mom</h2>
+            </div>
+            <div id="char-3" class="polaroid">
+                <img src="alessandro-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Ale the Explorer</h2>
+            </div>
+            <div id="char-4" class="polaroid">
+                <img src="sebastian-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Seby the Ranger</h2>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let done = false;
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.code === 'Space' && !done) {
+                done = true;
+                
+                // Effetto PUFF
+                const puff = document.getElementById('puff');
+                puff.style.animation = 'puff 1s forwards';
+                
+                // Transizione
+                setTimeout(() => {
+                    // Nascondi titoli
+                    document.getElementById('stage-1').style.opacity = '0';
+                    document.getElementById('stage-1').style.pointerEvents = 'none';
+                    
+                    // Mostra Polaroids
+                    const stage2 = document.getElementById('stage-2');
+                    stage2.style.opacity = '1';
+                    stage2.style.pointerEvents = 'auto';
+                    setTimeout(() => stage2.classList.add('show-stage-2'), 100);
+                }, 400);
+            }
+        });
+    </script>
+</body>
+</html>
