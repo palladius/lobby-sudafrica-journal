@@ -9,6 +9,19 @@ Note: version should be in `jekyll-site/_config.yml`
 
 ## [Unreleased]
 
+### Added
+
+- **Media:** Exported `.webm`, `.mp4`, and `.gif` formats for both Italian and English family intro presentations (`123-merged.it.html` and `123-merged.en.html`).
+
+- **Docs:** Added the animated IT slideshow GIF to the top of `README.md`.
+
+- **Tests:** Added `test_readme_images.sh` and hooked it to `just test` to prevent broken image links in `README.md`.
+
+
+### Fixed
+
+- **Images:** Restored `resurrection.png` from git history and fixed broken image paths in `README.md`.
+
 ### Fixed
 
 - **Images:** Added missing original photos for Feb 9th (Family Breakfast and Mother Baboon) and a new afternoon Elephant sighting.
