@@ -3,108 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magia in Sudafrica 🇿🇦</title>
+    <title>Le 4 Polaroid</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Fredoka', sans-serif; background-color: #1e293b; overflow: hidden; margin: 0; }
+        body { margin: 0; min-height: 100vh; font-family: 'Fredoka', sans-serif; background: url('safari_family_real.png') center/cover; }
         
-        #scene-real {
-            position: absolute;
-            inset: 0;
-            background-image: url('table_mountain.jpg'); /* INSERISCI QUI LA FOTO REALE */
-            background-size: cover;
-            background-position: center;
-            transition: filter 1s, opacity 1s;
-            z-index: 10;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        #hint {
-            position: absolute;
-            bottom: 40px;
-            background: rgba(0,0,0,0.6);
-            color: white;
-            padding: 10px 20px;
-            border-radius: 20px;
-            font-size: 1.5rem;
-            animation: pulse 2s infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); opacity: 1; }
-            50% { transform: scale(1.05); opacity: 0.8; }
-        }
-
-        #scene-magic {
-            position: absolute;
-            inset: 0;
-            background: url('safari_family_real.png') center/cover;
-            z-index: 5;
+        #stage-2 {
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.5s;
-        }
-
-        .puff-effect {
-            position: absolute;
-            inset: 0;
-            background: radial-gradient(circle, white 10%, transparent 60%);
-            opacity: 0;
-            z-index: 20;
-            pointer-events: none;
-        }
-
-        @keyframes puff {
-            0% { opacity: 0; transform: scale(0.5); }
-            30% { opacity: 1; transform: scale(1.2); }
-            100% { opacity: 0; transform: scale(2); }
+            min-height: 100vh;
+            background: rgba(0,0,0,0.4);
+            padding: 2rem;
         }
 
         .polaroid {
             background: white;
             padding: 15px;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
-            opacity: 0;
-            transform: translateY(50px) rotate(0deg);
-            transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        }
-
-        .show-chars .polaroid {
-            opacity: 1;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            transform: translateY(0) rotate(0deg);
+            transition: all 0.3s;
         }
         
-        /* Rotazioni personalizzate per le 4 carte */
-        .show-chars #char-1 { transform: translateY(0) rotate(-6deg); transition-delay: 0.1s; }
-        .show-chars #char-2 { transform: translateY(0) rotate(4deg); transition-delay: 0.3s; }
-        .show-chars #char-3 { transform: translateY(0) rotate(-3deg); transition-delay: 0.5s; }
-        .show-chars #char-4 { transform: translateY(0) rotate(7deg); transition-delay: 0.7s; }
+        .polaroid:hover {
+            transform: scale(1.05) !important;
+            z-index: 10;
+        }
+
+        #char-1 { transform: rotate(-6deg); }
+        #char-2 { transform: rotate(4deg); }
+        #char-3 { transform: rotate(-3deg); }
+        #char-4 { transform: rotate(7deg); }
 
     </style>
 </head>
 <body>
 
-    <div id="puff" class="puff-effect"></div>
-
-    <div id="scene-real">
-        <!-- Placeholder for the real image in case table_mountain.jpg isn't there yet -->
-        <div class="absolute inset-0 bg-gray-800 flex flex-col items-center justify-center text-white" style="z-index: -1;">
-            <p class="text-3xl mb-4">📸 Metti la tua foto reale qui!</p>
-            <p class="text-lg">Salva la foto come <b>table_mountain.jpg</b> nella cartella SudafricaTrip</p>
-        </div>
-        <div id="hint">Premi SPAZIO 🚀</div>
-    </div>
-
-    <div id="scene-magic">
-        <h1 class="text-6xl text-white font-bold drop-shadow-lg mb-12">I 4 Mattacchioni in Azione!</h1>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 px-8">
-            
+    <div id="stage-2">
+        <h1 class="text-6xl text-white font-bold drop-shadow-lg mb-12" style="text-shadow: 3px 3px 6px rgba(0,0,0,0.8);">I 4 Mattacchioni! 🦁</h1>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-7xl mx-auto w-full">
             <div id="char-1" class="polaroid">
                 <img src="polaroid/riccardo-pixar.jpg" class="w-full aspect-square object-cover mb-4">
                 <h2 class="text-2xl text-center text-gray-800 font-bold">Papà</h2>
@@ -115,45 +54,14 @@
             </div>
             <div id="char-3" class="polaroid">
                 <img src="polaroid/alessandro-pixar.jpg" class="w-full aspect-square object-cover mb-4">
-                <h2 class="text-2xl text-center text-gray-800 font-bold">Ale</h2>
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Ale l'Esploratore</h2>
             </div>
             <div id="char-4" class="polaroid">
                 <img src="polaroid/sebastian-pixar.jpg" class="w-full aspect-square object-cover mb-4">
-                <h2 class="text-2xl text-center text-gray-800 font-bold">Seby</h2>
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Seby il Ranger</h2>
             </div>
-
         </div>
     </div>
 
-    <script>
-        let isMagic = false;
-        
-        document.addEventListener('keydown', (e) => {
-            if (e.code === 'Space' && !isMagic) {
-                isMagic = true;
-                
-                // Effetto PUFF
-                const puff = document.getElementById('puff');
-                puff.style.animation = 'puff 1s forwards';
-                
-                // Fade out scena reale
-                setTimeout(() => {
-                    document.getElementById('scene-real').style.opacity = '0';
-                    document.getElementById('scene-real').style.pointerEvents = 'none';
-                    
-                    // Fade in scena magica
-                    const magic = document.getElementById('scene-magic');
-                    magic.style.opacity = '1';
-                    magic.style.pointerEvents = 'auto';
-                    
-                    // Trigger animazione personaggi
-                    setTimeout(() => {
-                        magic.classList.add('show-chars');
-                    }, 100);
-                    
-                }, 300);
-            }
-        });
-    </script>
 </body>
 </html>
