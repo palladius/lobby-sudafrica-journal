@@ -211,6 +211,7 @@
     "polaroid/2026-02-07-ale-zebra-pixar.png",
     "polaroid/alessandro-pixar.jpg"
   ];
+        
         let currentIndex = 0;
   let nextTiltLeft = Math.random() > 0.5;
   
@@ -236,7 +237,23 @@
     let randRot;
     if (nextTiltLeft) {
       randRot = -(Math.random() * 25 + 10);
+    } else {
+      randRot = Math.random() * 25 + 10;
     }
+    nextTiltLeft = !nextTiltLeft;
+    
+    void div.offsetWidth;
+    
+    setTimeout(() => {
+      div.style.left = randX + 'px';
+      div.style.top = randY + 'px';
+      div.style.transform = `scale(1) rotate(${randRot}deg)`;
+      div.classList.add('show');
+    }, 50);
+    
+    currentIndex++;
+    setTimeout(dropPolaroid, 1000);
+  }
         
         // Listen to BOTH spacebar and click
         function advanceStage() {
