@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 require 'yaml'
+require 'date'
+
 
 # This script checks all posts in jekyll-site/_posts for required frontmatter fields.
 # Fields required: layout, title, date, cover-img, thumbnail-img
