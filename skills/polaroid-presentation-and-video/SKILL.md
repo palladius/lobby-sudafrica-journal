@@ -48,3 +48,17 @@ Non serve ffmpeg complesso! Basta usare `Playwright`, che ha un fantastico suppo
 2. Adatta `sample.html` nella cartella e aggiorna l'array Javascript `images` coi nomi delle tue foto.
 3. Lancia `python3 -m http.server 8085` nella cartella foto.
 4. Avvia lo script Playwright configurato e attendi che la registrazione termini.
+
+## 3. Visualizzazione Rapida su GitHub (Trucco htmlpreview)
+
+Molto spesso, quando committi i file HTML su GitHub, la piattaforma non li renderizza nativamente nel browser (mostrando solo il codice sorgente) a meno che tu non abbia configurato **GitHub Pages**. 
+Tuttavia, c'è un trucco geniale e immediato per visualizzare la presentazione: **htmlpreview.github.io**.
+
+Basta prendere l'URL del tuo file HTML caricato su GitHub (ad esempio `https://github.com/tuouser/repo/blob/master/presentation/file.html`) e **prefiggerlo** con `https://htmlpreview.github.io/?`.
+
+**Esempio pratico nel README.md:**
+```markdown
+[Clicca qui per vedere la presentazione!](https://htmlpreview.github.io/?https://github.com/palladius/lobby-sudafrica-journal/blob/master/presentation/123-merged.it.html)
+```
+
+Questo servizio proxy gratuito prende l'HTML crudo da GitHub, lo renderizza al volo risolvendo anche i path relativi per immagini e CSS, e ti mostra la presentazione animata a tutto schermo senza dover configurare alcun server Web!
