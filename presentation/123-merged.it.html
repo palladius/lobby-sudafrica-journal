@@ -126,13 +126,13 @@
     opacity: 0;
     transform: scale(0.5) rotate(0deg);
     transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 600px;
+    max-height: 650px;
     z-index: 10;
   }
   .falling-polaroid img {
     max-width: 100%;
-    max-height: 350px;
+    max-height: 550px;
     display: block;
     border: 1px solid #ddd;
   }
@@ -148,8 +148,8 @@
 
     <!-- STADIO 1: Titolo -->
     <div id="stage-1">
-        <h1 style="font-size: 5rem; margin-bottom: 0.5rem; font-weight: bold;">Trip Report: South Africa</h1>
-        <h2 style="font-size: 2.5rem; color: #f1f5f9; font-weight: 600;">Q3 2026 - Carlesso Family</h2>
+        <h1 style="font-size: 5rem; margin-bottom: 0.5rem; font-weight: bold;">South Africa</h1>
+        <h2 style="font-size: 2.5rem; color: #f1f5f9; font-weight: 600;">Feb 2026 - Famiglia Carlesso</h2>
         <div class="hint">Press SPACE</div>
     </div>
 
@@ -228,8 +228,8 @@
     
     document.body.appendChild(div);
     
-    const maxW = window.innerWidth - 450;
-    const maxH = window.innerHeight - 450;
+    const maxW = window.innerWidth - 650;
+    const maxH = window.innerHeight - 650;
     
     const randX = Math.random() * maxW + 20;
     const randY = Math.random() * maxH + 20;
@@ -312,6 +312,6 @@
 
     </script>
     <div id="background-text">
-  <div class="main-title">South Afrika 2026</div>
+  <div class="main-title">Sud Africa 2026</div>
 </body>
 </html>
