@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+  body {
+    background-color: #222;
+    margin: 0;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Caveat', 'Comic Sans MS', cursive, sans-serif;
+  }
+  
+  #background-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 0;
+    color: #555;
+    opacity: 0;
+    transition: opacity 2s ease-in;
+  }
+  
+  .main-title {
+    font-size: 100px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  }
+  
+  .sub-title {
+    font-size: 50px;
+  }
+
+  .polaroid {
+    background: white;
+    padding: 10px 10px 30px 10px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+    position: absolute;
+    opacity: 0;
+    transform: scale(0.5) rotate(0deg);
+    transition: all 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    max-width: 400px;
+    max-height: 400px;
+    z-index: 10;
+  }
+  .polaroid img {
+    max-width: 100%;
+    max-height: 350px;
+    display: block;
+    border: 1px solid #ddd;
+  }
+  .polaroid.show {
+    opacity: 1;
+  }
+
+  /* Intro Section */
+  #intro {
+    position: absolute;
+    top: 0; left: 0; width: 100vw; height: 100vh;
+    background-color: #222;
+    z-index: 50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 1s ease-out;
+  }
+  
+  .grid-2x2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+    width: 1200px;
+    height: 800px;
+  }
+  
+  .character {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    transform: translateY(50px);
+    transition: all 1s ease-out;
+  }
+  
+  .character img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 10px solid white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+  }
+  
+  .character-name {
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+
+<div id="intro">
+  <div class="grid-2x2">
+    <div class="character" id="char-papino">
+      <img src="airport/riccardo-pixar.jpg" />
+      <div class="character-name">Papino</div>
+    </div>
+    <div class="character" id="char-kate">
+      <img src="airport/kate-pixar.png" />
+      <div class="character-name">Kate</div>
+    </div>
+    <div class="character" id="char-ale">
+      <img src="airport/alessandro-pixar.jpg" />
+      <div class="character-name">Ale</div>
+    </div>
+    <div class="character" id="char-seby">
+      <img src="airport/sebastian-pixar.jpg" />
+      <div class="character-name">Seby</div>
+    </div>
+  </div>
+</div>
+
+<div id="background-text">
+  <div class="main-title">South Afrika 2026</div>
+  <div class="sub-title">Riccardo, Kate, Seby, Ale</div>
+</div>
+
+<script>
+  const images = [
+    "2026-02-08-kate-giraffe-selfie.png",
+    "2026-02-09-1750-afternoon-elephant-pixar.jpg",
+    "2026-02-09-1035-family-valley-of-waves-pixar.png",
+    "2026-02-09-0957-valley-waves-overlook-pixar.png",
+    "2026-02-09-0821-waffle-brothers.png",
+    "2026-02-08-family-sebi-zebra-selfie.png",
+    "2026-02-08-family-car-selfie.png",
+    "vista-camps-bay-pixar.png",
+    "2026-02-07-sebi-cuddling-rhino-pixar.png",
+    "rhino-and-son-pixar.png",
+    "sebi_feeding_donkeys_pixar_style_20260210.png",
+    "seby-pasta-colazione-pixar.png",
+    "museum-ale-dinosauro-pixar.png",
+    "lions_nuzzling_pixar_style_20260210.png",
+    "2026-02-07-rhinos-crossing-pixar.png",
+    "2026-02-25-11-37-31-bo-kaap-yellow-house-pixar.png",
+    "peeking_hippo_pixar_style_20260210.png",
+    "sebastian-pixar.jpg",
+    "francois_elephant_pixar_style_20260210_v2.png",
+    "best_kids_elephant_selfie_pixar_style_20260210.png",
+    "riccardo-pixar.jpg",
+    "2026-02-25-11-38-56-bo-kaap-green-wall-pixar.png",
+    "ale_safari_hippos_pixar_style_20260210_v2.png",
+    "riccardo_kate_lion_selfie_pixar_style_20260210.png",
+    "kids_watching_elephants_pixar_style_20260210.png",
+    "zebras-pixar.png",
+    "2026-02-25-23-00-55-kids-sleeping-pixar.png",
+    "2026-02-07-ale-zebra-pixar.png",
+    "alessandro-pixar.jpg"
+  ];
+
+  let currentIndex = 0;
+  let nextTiltLeft = Math.random() > 0.5;
+  
+  function dropPolaroid() {
+    if (currentIndex >= images.length) return;
+    
+    const imgFile = images[currentIndex];
+    const div = document.createElement('div');
+    div.className = 'polaroid';
+    
+    const img = document.createElement('img');
+    img.src = imgFile;
+    div.appendChild(img);
+    
+    document.body.appendChild(div);
+    
+    const maxW = window.innerWidth - 450;
+    const maxH = window.innerHeight - 450;
+    
+    const randX = Math.random() * maxW + 20;
+    const randY = Math.random() * maxH + 20;
+    
+    let randRot;
+    if (nextTiltLeft) {
+      randRot = -(Math.random() * 25 + 10);
+    } else {
+      randRot = Math.random() * 25 + 10;
+    }
+    nextTiltLeft = !nextTiltLeft;
+    
+    void div.offsetWidth;
+    
+    setTimeout(() => {
+      div.style.left = randX + 'px';
+      div.style.top = randY + 'px';
+      div.style.transform = `scale(1) rotate(${randRot}deg)`;
+      div.classList.add('show');
+    }, 50);
+    
+    currentIndex++;
+    setTimeout(dropPolaroid, 1000);
+  }
+  
+  function startIntro() {
+    const chars = ['char-papino', 'char-kate', 'char-ale', 'char-seby'];
+    
+    // Show characters one by one
+    chars.forEach((id, index) => {
+      setTimeout(() => {
+        const el = document.getElementById(id);
+        el.style.opacity = '1';
+        el.style.transform = 'translateY(0)';
+      }, 500 + index * 1000);
+    });
+    
+    // After 5.5 seconds, fade out intro and start the slideshow
+    setTimeout(() => {
+      document.getElementById('intro').style.opacity = '0';
+      document.getElementById('background-text').style.opacity = '1';
+      setTimeout(() => {
+        document.getElementById('intro').style.display = 'none';
+        dropPolaroid();
+      }, 1000);
+    }, 6000);
+  }
+  
+  window.onload = () => {
+    startIntro();
+  };
+</script>
+</body>
+</html>
