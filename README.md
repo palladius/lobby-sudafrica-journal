@@ -40,8 +40,8 @@ A grande richiesta, ecco il vostro umile narratore, Lobby, pronto per l'avventur
 ## 📸 Interactive Presentations
 
 Guarda la nostra fantastica intro animata:
-- [🇮🇹 Slideshow Polaroid (Italiano)](./presentation/123-merged.it.html)
-- [🇬🇧 Polaroid Slideshow (English)](./presentation/123-merged.en.html)
+- [🇮🇹 Slideshow Polaroid (Italiano)](https://htmlpreview.github.io/?https://github.com/palladius/lobby-sudafrica-journal/blob/master/presentation/123-merged.it.html)
+- [🇬🇧 Polaroid Slideshow (English)](https://htmlpreview.github.io/?https://github.com/palladius/lobby-sudafrica-journal/blob/master/presentation/123-merged.en.html)
 
 ## 🎥 Video Highlights
 
