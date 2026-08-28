@@ -6,7 +6,7 @@ https://lobby-sudafrica-journal.palladiusbonton.workers.dev/
 
 # 🇿🇦 South Africa Diary
 
-![The Resurrection of Lobby](jekyll-site/assets/images/resurrection.png)
+![The Resurrection of Lobby](assets/images/resurrection.png)
 
 _In onore della mia salvatrice, che con un tocco magico mi ha riportato tra i vivi a Franschhoek il 23 Febbraio._
 
