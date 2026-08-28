@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sudafrica Presentation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body { margin: 0; overflow: hidden; background-color: #ffffff; transition: background-color 1s; }
+        
+        /* STADIO 1: Boring */
+        #stage-1 {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Times New Roman', Times, serif;
+            color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+            transition: opacity 0.5s;
+            z-index: 30;
+            background: url('bartinney.png') center/cover;
+        }
+
+        /* STADIO 2: Personaggi / Foto reale */
+        #stage-2 {
+            position: absolute;
+            inset: 0;
+            background-color: #e2e8f0;
+            background-image: url('table_mountain.jpg');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 1s;
+            z-index: 20;
+        }
+
+        .real-char {
+            background: url('bartinney.png') center/cover;
+            padding: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transform: translateY(20px);
+            opacity: 0;
+            transition: all 0.5s;
+        }
+        .show-stage-2 .real-char {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* STADIO 3: Safari & Polaroids animate */
+        #stage-3 {
+            position: absolute;
+            inset: 0;
+            background: url('safari_family_real.png') center/cover;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.5s;
+            font-family: 'Fredoka', sans-serif;
+        }
+
+        .puff-effect {
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(circle, white 10%, transparent 60%);
+            opacity: 0;
+            z-index: 25;
+            pointer-events: none;
+        }
+
+        @keyframes puff {
+            0% { opacity: 0; transform: scale(0.5); }
+            40% { opacity: 1; transform: scale(1.5); }
+            100% { opacity: 0; transform: scale(2.5); }
+        }
+
+        .polaroid {
+            background: url('bartinney.png') center/cover;
+            padding: 15px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+            opacity: 0;
+            transform: translateY(50px) rotate(0deg);
+            transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        .show-stage-3 .polaroid { opacity: 1; }
+        .show-stage-3 #char-1 { transform: translateY(0) rotate(-6deg); transition-delay: 0.1s; }
+        .show-stage-3 #char-2 { transform: translateY(0) rotate(4deg); transition-delay: 0.3s; }
+        .show-stage-3 #char-3 { transform: translateY(0) rotate(-3deg); transition-delay: 0.5s; }
+        .show-stage-3 #char-4 { transform: translateY(0) rotate(7deg); transition-delay: 0.7s; }
+
+        .hint {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            font-size: 1rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="puff" class="puff-effect"></div>
+
+    <!-- STADIO 1: Noioso -->
+    <div id="stage-1">
+        <h1 style="font-size: 3rem; margin-bottom: 0.5rem; font-weight: normal;">South Africa 2026</h1>
+        <h2 style="font-size: 1.5rem; color: #f1f5f9; text-shadow: 1px 1px 3px rgba(0,0,0,0.8); font-weight: normal;">Ale, Seby, Ricc, Kate</h2>
+        <div class="hint">Press SPACE to continue</div>
+    </div>
+
+    <!-- STADIO 2: Appaiono i 4 o la foto vera -->
+    <div id="stage-2">
+        <!-- Rimuovi bg-black se vuoi mostrare l'immagine di Table Mountain sotto -->
+        <div class="absolute inset-0 bg-black/40 z-0"></div>
+        <h1 class="text-5xl text-white font-bold z-10 mb-8 drop-shadow-md" style="font-family: 'Fredoka', sans-serif;">I Protagonisti Reali</h1>
+        
+            <div class="real-char" style="transition-delay: 0.3s;"><img src="https://placehold.co/200x200/ddd/555?text=Foto+Mamma" class="w-full"></div>
+            <div class="real-char" style="transition-delay: 0.5s;"><img src="https://placehold.co/200x200/ddd/555?text=Foto+Ale" class="w-full"></div>
+            <div class="real-char" style="transition-delay: 0.7s;"><img src="https://placehold.co/200x200/ddd/555?text=Foto+Seby" class="w-full"></div>
+        </div>
+        <div class="hint text-white z-10">Press SPACE</div>
+    </div>
+
+    <!-- STADIO 3: Magia Pixar -->
+    <div id="stage-3">
+        <h1 class="text-6xl text-white font-bold drop-shadow-lg mb-12">...i 4 Mattacchioni in Azione! 🦁</h1>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 px-8">
+            <div id="char-1" class="polaroid">
+                <img src="riccardo-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Papà</h2>
+            </div>
+            <div id="char-2" class="polaroid">
+                <img src="kate-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Mamma</h2>
+            </div>
+            <div id="char-3" class="polaroid">
+                <img src="alessandro-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Ale l'Esploratore</h2>
+            </div>
+            <div id="char-4" class="polaroid">
+                <img src="sebastian-pixar.jpg" class="w-full aspect-square object-cover mb-4">
+                <h2 class="text-2xl text-center text-gray-800 font-bold">Seby il Ranger</h2>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let step = 1;
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.code === 'Space') {
+                if (step === 1) {
+                    // Da Boring a Foto Reali
+                    document.getElementById('stage-1').style.opacity = '0';
+                    document.getElementById('stage-1').style.pointerEvents = 'none';
+                    
+                    const stage2 = document.getElementById('stage-2');
+                    stage2.style.opacity = '1';
+                    stage2.style.pointerEvents = 'auto';
+                    setTimeout(() => stage2.classList.add('show-stage-2'), 100);
+                    step = 2;
+                } 
+                else if (step === 2) {
+                    // Da Reale a Magia Pixar con PUFF
+                    const puff = document.getElementById('puff');
+                    puff.style.animation = 'puff 1s forwards';
+                    
+                    setTimeout(() => {
+                        document.getElementById('stage-2').style.opacity = '0';
+                        document.getElementById('stage-2').style.pointerEvents = 'none';
+                        
+                        const stage3 = document.getElementById('stage-3');
+                        stage3.style.opacity = '1';
+                        stage3.style.pointerEvents = 'auto';
+                        setTimeout(() => stage3.classList.add('show-stage-3'), 100);
+                    }, 400);
+                    step = 3;
+                }
+            }
+        });
+    </script>
+</body>
+</html>
