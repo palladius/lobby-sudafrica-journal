@@ -22,6 +22,7 @@ check:
 # Esegue i test logici giornalieri (Google Photos, Link, Aggregazione)
 unit-tests:
     @ruby test/main.rb
+    @./test/test_readme_images.sh
 
 # Serve on port 4041 since 4000 is used also by NX.
 serve:

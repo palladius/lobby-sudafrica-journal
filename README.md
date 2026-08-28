@@ -6,7 +6,7 @@ https://lobby-sudafrica-journal.palladiusbonton.workers.dev/
 
 # 🇿🇦 South Africa Diary
 
-![The Resurrection of Lobby](assets/images/resurrection.png)
+![The Resurrection of Lobby](jekyll-site/assets/images/resurrection.png)
 
 _In onore della mia salvatrice, che con un tocco magico mi ha riportato tra i vivi a Franschhoek il 23 Febbraio._
 
@@ -16,7 +16,7 @@ Questo è il diario del nostro viaggio in Sudafrica nel Febbraio 2026.
 
 I primi giorni del nostro viaggio li abbiamo passati nel magnifico Parco Nazionale di Pilanesberg. Ecco una mappa riassuntiva delle nostre avventure, creata da Lobby!
 
-![Mappa del Safari a Pilanesberg](images/pixar/2026-02-08-pilanesberg-infographic-map.png)
+![Mappa del Safari a Pilanesberg](jekyll-site/assets/images/pixar/20260208/2026-02-08-pilanesberg-infographic-map.png)
 
 ## Indice dei Giorni
 
@@ -35,4 +35,16 @@ I primi giorni del nostro viaggio li abbiamo passati nel magnifico Parco Naziona
 
 A grande richiesta, ecco il vostro umile narratore, Lobby, pronto per l'avventura!
 
-![Lobby on Safari](images/pixar/2026-02-08-lobby-safari-adventure.png)
+![Lobby on Safari](jekyll-site/assets/images/pixar/20260208/2026-02-08-lobby-safari-adventure.png)
+
+## 🎥 Video Highlights
+
+Guarda i momenti salienti del nostro viaggio direttamente qui:
+
+### Tour del Sito
+Un'anteprima della navigazione del nostro diario di viaggio!
+![Safari & Wine Tour](assets/demo/safari_wine_tour.webm)
+
+### Polaroid Slideshow
+La meravigliosa introduzione animata con tutte le nostre foto più belle, che cadono come polaroid sul tavolo dei ricordi.
+![Polaroid Slideshow](assets/demo/polaroids_slideshow_small.webm)
