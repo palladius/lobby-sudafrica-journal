@@ -37,6 +37,12 @@ A grande richiesta, ecco il vostro umile narratore, Lobby, pronto per l'avventur
 
 ![Lobby on Safari](jekyll-site/assets/images/pixar/20260208/2026-02-08-lobby-safari-adventure.png)
 
+## 📸 Interactive Presentations
+
+Guarda la nostra fantastica intro animata:
+- [🇮🇹 Slideshow Polaroid (Italiano)](./presentation/123-merged.it.html)
+- [🇬🇧 Polaroid Slideshow (English)](./presentation/123-merged.en.html)
+
 ## 🎥 Video Highlights
 
 Guarda i momenti salienti del nostro viaggio direttamente qui:
