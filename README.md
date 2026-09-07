@@ -56,3 +56,11 @@ Un'anteprima della navigazione del nostro diario di viaggio!
 ### Polaroid Slideshow
 La meravigliosa introduzione animata con tutte le nostre foto più belle, che cadono come polaroid sul tavolo dei ricordi.
 <video src="assets/demo/polaroids_slideshow_small.webm" controls="controls" muted="muted" width="100%"></video>
+
+### Full Animated Intro (Italian)
+Il video completo dell'animazione introduttiva con la cascata di polaroid, renderizzato ad altissima qualità.
+<video src="assets/demo/123-merged.it.webm" controls="controls" muted="muted" width="100%"></video>
+
+### Full Animated Intro (English)
+The full English version of our animated polaroid intro presentation.
+<video src="assets/demo/123-merged.en.webm" controls="controls" muted="muted" width="100%"></video>
