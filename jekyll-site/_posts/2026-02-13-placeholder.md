@@ -16,3 +16,6 @@ page-status: EMPTY
 _(Da completare...)_
 
 _Nota: In questa giornata abbiamo preso il volo da Johannesburg a Cape Town, ritirato l'auto a noleggio e siamo andati a dormire vicino a Boulders Beach._
+
+*Issue di tracking:* [#9 - Recupero e completamento 13 Febbraio 2026](https://github.com/palladius/lobby-sudafrica-journal/issues/9)
+
