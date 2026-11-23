@@ -43,16 +43,15 @@ def main():
 
     print(f"Pixerizzando usando il prompt:\n'{args.prompt}'...")
     
-    # Configurazione della generazione immagine
+    # Configurazione della generazione immagine (Nano Banana Pro)
     response = client.models.generate_content(
-        model="gemini-3-pro-image-preview", 
+        model=os.environ.get("PIXERIZZA_MODEL", "gemini-3-pro-image"),
         contents=[
             uploaded_file,
             args.prompt
         ],
         config=types.GenerateContentConfig(
             response_modalities=["IMAGE"],
-            image_config=types.ImageConfig(image_size="1024x1024")
         )
     )
 
