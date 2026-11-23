@@ -64,7 +64,3 @@ In serata, ultima missione al **Pick n Pay Liquor** di Simon's Town proprio sul 
 {% include captionizer.html original="/assets/images/original/2026/02/13/11-groot-constantia-vino.jpg" pixar="/assets/images/pixar/2026/02/13/11-groot-constantia-vino-pixar.png" caption="Ale e Seby con la bottiglia di Groot Constantia al Pick n Pay" %}
 
 Dopo una giornata lunghissima tra volo da Johannesburg, ritiro della Kia, guida a sinistra e l'emozione dei pinguini e dei dassie, la chiusura è rigorosamente *home-made*: un sano piatto di pasta "super boring" cucinato a casa, un meritato bicchiere di vino sudafricano e poi **crollo totale** sul letto insieme ai bambini. Domani ci aspetta la Penisola del Capo!
-
----
-
-*Issue di tracking:* [#9 - Recupero e completamento 13 Febbraio 2026](https://github.com/palladius/lobby-sudafrica-journal/issues/9)
