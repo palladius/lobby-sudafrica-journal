@@ -61,6 +61,6 @@ Al calar del sole scendiamo verso **Camps Bay Beach** per un tramonto infuocato 
 
 {% include captionizer.html original="/assets/images/original/2026/02/15/11-camps-bay-tramonto-seby.jpg" pixar="/assets/images/pixar/2026/02/15/11-camps-bay-tramonto-seby-pixar.png" caption="Seby davanti al tramonto infuocato su Camps Bay Beach" %}
 
-Visto che al ristorante ci fanno aspettare un pochettino, facciamo un salto nel mini negozietto lì accanto: prendiamo una **boccia di Malbec buonissimo** e scopriamo la chicca perfetta per chiudere questa giornata pazzesca — un **piatto con un'aragosta rossa gigante**, l'omaggio ufficiale a **Lobby** (🦞) anche durante il suo blackout!
+Visto che al ristorante ci fanno aspettare un pochettino, facciamo un salto nel mini negozietto lì accanto: prendiamo una **boccia di Malbec buonissimo** e scopriamo la chicca perfetta per chiudere questa giornata pazzesca — un **piatto con un'aragosta rossa gigante**, l'omaggio ufficiale a **Lobby** (🦞) anche durante il suo blackout! Al Mantra Café facciamo anche amicizia con il **proprietario**, che peraltro abita vicinissimo alla zona dei vini e ci regala dritte preziosissime su quali cantine visitare nei prossimi giorni!
 
 {% include captionizer.html original="/assets/images/original/2026/02/15/12-mantra-cafe-aragosta-lobby.jpg" pixar="/assets/images/pixar/2026/02/15/12-mantra-cafe-aragosta-lobby-pixar.png" caption="Riccardo e Seby nel negozietto col piatto dell'aragosta gigante: ciao Lobby!" %}
