@@ -51,10 +51,11 @@ def chunk_paragraphs(text: str, max_chars: int = 380) -> list[str]:
 
 
 def strip_wav_header(data: bytes) -> bytes:
-    """If Gemini returns a WAV container instead of raw PCM, strip the RIFF/data header."""
-    if data[:4] == b"RIFF" and b"data" in data[:128]:
-        idx = data.index(b"data")
-        return data[idx + 8:]
+    """Properly decode WAV container using stdlib wave so BOTH header AND trailing C2PA/RIFF metadata chunks are stripped."""
+    import io
+    if data[:4] == b"RIFF":
+        with wave.open(io.BytesIO(data), "rb") as wf:
+            return wf.readframes(wf.getnframes())
     return data
 
 
