@@ -7,6 +7,7 @@ categories: diario
 cover-img: /assets/images/pixar/2026/02/13/09-boulders-beach-baia-pixar.png
 thumbnail-img: /assets/images/pixar/2026/02/13/06-boulders-primo-pinguino-pixar.png
 page-status: REVIEWED
+reviewed: true
 ---
 
 # 13 Febbraio 2026: Volo per Cape Town, Pinguini e Invasione di Dassie

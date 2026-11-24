@@ -7,6 +7,7 @@ categories: diario
 cover-img: /assets/images/pixar/2026/02/16/07-vista-camps-bay-dalla-vetta-pixar.png
 thumbnail-img: /assets/images/pixar/2026/02/16/03-kirstenbosch-boomslang-canopy-pixar.png
 page-status: REVIEWED
+reviewed: true
 ---
 
 # 16 Febbraio 2026: Kirstenbosch, Scalata Eroica della Table Mountain e Funivia

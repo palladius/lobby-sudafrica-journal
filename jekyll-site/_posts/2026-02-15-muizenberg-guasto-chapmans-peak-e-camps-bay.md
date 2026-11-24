@@ -7,6 +7,7 @@ categories: diario
 cover-img: /assets/images/pixar/2026/02/15/09-chapmans-peak-cornice-pixar.png
 thumbnail-img: /assets/images/pixar/2026/02/15/04-muizenberg-casette-famiglia-pixar.png
 page-status: REVIEWED
+reviewed: true
 ---
 
 # 15 Febbraio 2026: Muizenberg, Guasto al Cambio, Chapman's Peak Drive e Tramonto a Camps Bay
