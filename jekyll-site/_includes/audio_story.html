@@ -1,0 +1,221 @@
+<div class="audio-story-widget" data-it="{{ include.it }}" data-en="{{ include.en }}">
+  <style>
+    .audio-story-widget {
+      background: linear-gradient(135deg, #f8fafc 0%, #eef2ff 100%);
+      border: 1px solid #c7d2fe;
+      border-radius: 14px;
+      padding: 14px 18px;
+      margin: 18px 0 24px 0;
+      box-shadow: 0 2px 10px rgba(79, 70, 229, 0.08);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    .audio-story-top {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .audio-story-title {
+      font-weight: 700;
+      font-size: 0.95rem;
+      color: #1e1b4b;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .audio-story-langs {
+      display: flex;
+      gap: 6px;
+    }
+    .audio-lang-btn {
+      border: 1px solid #a5b4fc;
+      background: #ffffff;
+      color: #312e81;
+      border-radius: 999px;
+      padding: 4px 12px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .audio-lang-btn.active {
+      background: #4f46e5;
+      color: #ffffff;
+      border-color: #4f46e5;
+    }
+    .audio-story-controls {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 12px;
+    }
+    .audio-play-btn {
+      background: #4f46e5;
+      color: #fff;
+      border: none;
+      border-radius: 999px;
+      padding: 7px 16px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      min-width: 92px;
+      transition: background 0.15s ease;
+    }
+    .audio-play-btn:hover { background: #4338ca; }
+    .audio-progress-wrap {
+      flex: 1 1 180px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .audio-progress {
+      flex: 1;
+      accent-color: #4f46e5;
+      cursor: pointer;
+    }
+    .audio-time {
+      font-size: 0.78rem;
+      color: #475569;
+      font-variant-numeric: tabular-nums;
+      min-width: 74px;
+      text-align: right;
+    }
+    .audio-speed-box {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: #ffffff;
+      border: 1px solid #c7d2fe;
+      border-radius: 999px;
+      padding: 4px 10px;
+    }
+    .audio-speed-label {
+      font-size: 0.75rem;
+      color: #475569;
+      font-weight: 600;
+    }
+    .audio-speed-slider {
+      width: 78px;
+      accent-color: #4f46e5;
+      cursor: pointer;
+    }
+    .audio-speed-val {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #4f46e5;
+      min-width: 34px;
+      text-align: center;
+    }
+  </style>
+
+  <div class="audio-story-top">
+    <div class="audio-story-title">🎙️ Ascolta la storia del giorno</div>
+    <div class="audio-story-langs">
+      {% if include.it %}
+      <button type="button" class="audio-lang-btn active" data-lang="it">🇮🇹 Italiano</button>
+      {% endif %}
+      {% if include.en %}
+      <button type="button" class="audio-lang-btn{% unless include.it %} active{% endunless %}" data-lang="en">🇬🇧 English</button>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="audio-story-controls">
+    <button type="button" class="audio-play-btn">▶ Play</button>
+    <div class="audio-progress-wrap">
+      <input type="range" class="audio-progress" min="0" max="100" value="0" step="0.1" aria-label="Progresso audio">
+      <span class="audio-time">0:00 / 0:00</span>
+    </div>
+    <div class="audio-speed-box" title="Velocità di riproduzione (5 tacche)">
+      <span class="audio-speed-label">🐢</span>
+      <input type="range" class="audio-speed-slider" min="0" max="4" step="1" value="2" list="audio-speed-ticks" aria-label="Velocità audio">
+      <datalist id="audio-speed-ticks">
+        <option value="0" label="0.75x"></option>
+        <option value="1" label="0.9x"></option>
+        <option value="2" label="1.0x"></option>
+        <option value="3" label="1.25x"></option>
+        <option value="4" label="1.5x"></option>
+      </datalist>
+      <span class="audio-speed-label">🐇</span>
+      <span class="audio-speed-val">1.0x</span>
+    </div>
+  </div>
+  <audio class="audio-story-el" preload="metadata" src="{{ include.it | default: include.en }}"></audio>
+</div>
+
+<script>
+(function() {
+  const speeds = [0.75, 0.9, 1.0, 1.25, 1.5];
+  const fmt = (s) => {
+    if (!isFinite(s)) return "0:00";
+    const m = Math.floor(s / 60);
+    const sec = Math.floor(s % 60);
+    return m + ":" + (sec < 10 ? "0" : "") + sec;
+  };
+  document.querySelectorAll(".audio-story-widget").forEach((w) => {
+    if (w.dataset.bound) return;
+    w.dataset.bound = "1";
+    const audio = w.querySelector(".audio-story-el");
+    const playBtn = w.querySelector(".audio-play-btn");
+    const progress = w.querySelector(".audio-progress");
+    const timeEl = w.querySelector(".audio-time");
+    const speedSlider = w.querySelector(".audio-speed-slider");
+    const speedVal = w.querySelector(".audio-speed-val");
+    const langBtns = w.querySelectorAll(".audio-lang-btn");
+
+    const applySpeed = () => {
+      const rate = speeds[parseInt(speedSlider.value, 10)] || 1.0;
+      audio.playbackRate = rate;
+      speedVal.textContent = rate.toFixed(rate % 1 === 0 ? 1 : 2).replace(/0$/, "") + "x";
+    };
+
+    speedSlider.addEventListener("input", applySpeed);
+
+    playBtn.addEventListener("click", () => {
+      if (audio.paused) {
+        applySpeed();
+        audio.play();
+      } else {
+        audio.pause();
+      }
+    });
+
+    audio.addEventListener("play", () => { playBtn.textContent = "⏸ Pausa"; });
+    audio.addEventListener("pause", () => { playBtn.textContent = "▶ Play"; });
+    audio.addEventListener("ended", () => { playBtn.textContent = "▶ Play"; });
+
+    audio.addEventListener("loadedmetadata", () => {
+      timeEl.textContent = fmt(audio.currentTime) + " / " + fmt(audio.duration);
+    });
+    audio.addEventListener("timeupdate", () => {
+      if (audio.duration) {
+        progress.value = (audio.currentTime / audio.duration) * 100;
+        timeEl.textContent = fmt(audio.currentTime) + " / " + fmt(audio.duration);
+      }
+    });
+    progress.addEventListener("input", () => {
+      if (audio.duration) {
+        audio.currentTime = (progress.value / 100) * audio.duration;
+      }
+    });
+
+    langBtns.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const lang = btn.dataset.lang;
+        const nextSrc = w.dataset[lang];
+        if (!nextSrc || audio.getAttribute("src") === nextSrc) return;
+        const wasPlaying = !audio.paused;
+        langBtns.forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        audio.pause();
+        audio.setAttribute("src", nextSrc);
+        audio.load();
+        applySpeed();
+        if (wasPlaying) audio.play();
+      });
+    });
+  });
+})();
+</script>

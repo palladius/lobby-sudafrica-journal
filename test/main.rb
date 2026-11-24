@@ -15,4 +15,14 @@ unless system("ruby", File.join(__dir__, "test_front_matter.rb"))
   exit(1)
 end
 
+puts "🎙️ Eseguo Test Audio..."
+unless system("ruby", File.join(__dir__, "test_audio.rb"))
+  exit(1)
+end
+
+puts "🎬 Eseguo Test Video..."
+unless system("ruby", File.join(__dir__, "test_videos.rb"))
+  exit(1)
+end
+
 puts "\n✅ Tutti i test sono passati con successo!"

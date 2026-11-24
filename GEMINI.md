@@ -1,5 +1,7 @@
 # Lobby Journal Technical Guide
 
+> **⚠️ MANDATORY:** Read and obey [`CONSTITUTION.md`](CONSTITUTION.md) (especially **zero child nudity**: always edit/inpaint swim shorts or underwear onto any child before saving to `original/`, generating Pixar, or committing).
+
 This GH repo was created by Openclaw while Riccardo was dictating stuf via Telegram on a trip to Southafrica, with zero access to the machine! The files are quite messy and unorganized.
 
 - `git log` should highlight a huge commit for each day, where Openclaw created the file and added all the content. Some files were mistakenly overwritten insted of edited, so good info has been delted, like in 10feb example. `git diff` on GITROOT/2026-10-DD.md should show an interesting diff, and many DELETED files should show the bug in the editing tool that Lobby had at the time.
